@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "DCC Hexcrawl Notes"
+    url: /dcc-hexcrawl/
     
   - title: "Guide"
     url: /markdown/
