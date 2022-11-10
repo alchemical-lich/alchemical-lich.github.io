@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "The Tale of Christman Grippertenius"
+    url: /christman/
+  
   - title: "Publications"
     url: /publications/
 
