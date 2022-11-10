@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "The Tale of Christman Grippertenius"
+permalink: /christman/
 author_profile: true
 ---
 
