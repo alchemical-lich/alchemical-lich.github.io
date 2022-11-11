@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Workshop"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my little ttRPG workshop. Poke around!
+This is my little ttRPG workshop. It's more of a personal repository of adventure-related odds and ends. Feel free to poke around!
