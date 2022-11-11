@@ -1,19 +1,11 @@
 # main links links
 main:
-  - title: "The Tale of Christman Grippertenius"
-    url: /christman/
+  - title: "Adventures"
+    url: /adventures/
   
-  - title: "Andromalion's Blessing"
-    url: /andromalion/
-
   - title: "Alchemical GLoG"
     url: /aglog/    
 
   - title: "DCC Hexcrawl Notes"
     url: /dcc-hexcrawl/
 
-  - title: "The Pilgrimage"
-    url: /pilgrimage/
-    
-  - title: "Behemoth"
-    url: /behemoth/
