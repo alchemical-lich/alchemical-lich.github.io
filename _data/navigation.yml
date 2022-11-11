@@ -9,17 +9,6 @@ main:
   - title: "Alchemical GLoG"
     url: /aglog/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "DCC Hexcrawl Notes"
     url: /dcc-hexcrawl/
     
-  - title: "Guide"
-    url: /markdown/
