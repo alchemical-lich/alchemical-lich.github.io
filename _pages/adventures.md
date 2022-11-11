@@ -9,11 +9,11 @@ Here are links to some adventure projects.
 
 
 # The Vile Tale of Christman Grippertenius
-A medium-sized OSR hexcrsawl adventure.
+A medium-sized OSR hexcrawl adventure.
 
 [Link](https://theophrastus-b0mbastus.github.io/christman/)
 
-# Andromalion;s Blessing
+# Andromalion's Blessing
 
 A Level 1--12 5E adventure.
 
@@ -21,5 +21,5 @@ A Level 1--12 5E adventure.
 A civil war campaign.
 
 # The Pilgrimage
-A larger OSR hexcrawl.
+A larger OSR destination crawl.
 
