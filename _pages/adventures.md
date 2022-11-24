@@ -23,3 +23,5 @@ A civil war campaign
 ## The Pilgrimage
 A larger OSR destination crawl.
 
+## The Golden Gate
+A Cy_Borg Campaign.
