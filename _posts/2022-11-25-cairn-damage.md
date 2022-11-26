@@ -58,7 +58,7 @@ In terms of pure offense, both DCC and Cairn allow Fighters right from the start
 As the Fighter increases the level, we see fairly linear progression in offense in BX, DCC, and 5e. Cairn remains expectedly flat in its damage output. Notably, BX and 5e track fairly closely with each other. DCC Warrior became true killing machines at level 5 and outpace the deadliness of Cairn Fighters when facing a goblin.
 
 
-![Expected Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/goblin_rounds.png)
+![Expected Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/goblin_rounds.pdf)
 
 Considering the damage output of a Fighter relative to the damage output of the goblin, we see an even stronger advantage of the DCC warrior. This is largely because the DCC Warrior scales in terms of damage like a 5e Fighter, but has more HP and AC than a BX warrior and faces BX-like golbins (whereas as 5e Fighter has to deal with a stronger goblin). 
 
