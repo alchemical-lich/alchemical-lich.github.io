@@ -24,4 +24,4 @@ A Dirty Dozen-style fantasy civil war campaign.
 A larger OSR destination crawl.
 
 ## The Golden Gate of Kerguz
-A Cy_Borg Campaign.
+A CY_BORG Campaign.
