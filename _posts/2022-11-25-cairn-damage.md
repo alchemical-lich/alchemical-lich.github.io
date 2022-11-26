@@ -9,7 +9,7 @@ tags:
   - 5e
 ---
 
-# Introduction
+
 I recently got to run Cairn for the first time and it was a blast. I really enjoyed the auto-hit mechanic, inventory management, and generally simple rules. Bonus points for not using Vancian casting (we used the GLoG magic option).
 
 Cairn has a reputation for very fast and deadly combat, which matched the experience of our one-shot. It got me thinking though how a Fighter in Cairn stacks up against similar PCs in other systems. Cairn doesn't have classes, but I wanted to see how a martially-focused Cairn character performs against some standard monsters in comparison to games I have played a fair bit: BX, 5e, DCC.
