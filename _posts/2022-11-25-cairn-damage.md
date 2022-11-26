@@ -87,7 +87,7 @@ In terms of net outcomes, Owlbears are likely to kill a single Fighter until abo
 
 # Conclusion
 
-- BX and 5e are remarkably similar in terms of offensive and net damage scaling. 5e has a bad reputation for slow combat and HP bloat. I am not sure of that is warranted, at least in terms of the HP-damage balance. In terms of mechanically hacking down a monster, 5e is very comparable to BX (to which you might say: yes! BX can be super whiffy and sluggish when facing high HP monsters).
+- BX and 5e are remarkably similar in terms of offensive and net damage scaling. 5e has a bad reputation for slow combat and HP bloat. I am not sure of that is warranted, at least in terms of the HP-damage balance (and I used a pretty basic 5e Fighter--a minimally optimized character would end combats even quicker). In terms of mechanically hacking down a monster, 5e is very comparable to BX (to which you might say: yes! BX can be super whiffy and sluggish when facing high HP monsters).
 
 - The DCC Warrior is an absolute killing machine! No wonder I like this class so much.
 
