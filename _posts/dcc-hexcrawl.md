@@ -1,6 +1,6 @@
 ---
 title: 'DCC Hexcrawl Notes'
-date: 2022-11-26
+date: 2022-11-25
 permalink: /posts/2022/11/dcc-hexcrawl/
 tags:
   - DCC
