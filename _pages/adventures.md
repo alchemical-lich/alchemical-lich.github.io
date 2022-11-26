@@ -5,7 +5,7 @@ permalink: /adventures/
 author_profile: true
 ---
 
-Here are links to some adventure projects.
+Here are some adventure projects I am currently playing, working on, or thinking about.
 
 
 ## The Vile Tale of Christman Grippertenius
@@ -18,10 +18,10 @@ A medium-sized OSR hexcrawl adventure.
 A Level 1--12 5E adventure.
 
 ## Behemoth
-A civil war campaign 
+A Dirty Dozen-style fantasy civil war campaign.
 
-## The Pilgrimage
+## The Pilgrimage of St. Berthold
 A larger OSR destination crawl.
 
-## The Golden Gate
+## The Golden Gate of Kerguz
 A Cy_Borg Campaign.
