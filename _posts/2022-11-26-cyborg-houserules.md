@@ -98,18 +98,18 @@ Adapted from Unheroic Feats in MB Heretic.
 
 | **D66**   |**Talent** | **Effect**|
 |-----------|-----------|-----------|
-|   11      |    Assassin's Deathblow       |    Test Strength DR12 to grapple an unaware foe and automatically crit with a one-handed bladed weapon.      |
+|   11      |    Assassin's Strike       |    Test Strength DR12 to grapple an unaware foe and automatically crit with a one-handed bladed weapon.      |
 |   12      |     Spiritualist      |  Sacrifice 1k to regain a lost Glitch (once per day)        |
 |   13      |  Bloodied Knuckles         |   Your unarmed attacks deal d6 damage and ignore light armor. You may take this Feat a second time, increasing to d8 damage and ignoring medium armor, and a third time to d10 damage and ignoring all armor.  Fumbling an unarmed attack means you break a hand, dealing the damage to yourself. You must seek out a specialist to help you set your bones. |
-|   14      |   Bloodthirsty Rage        |  When landing an attack that kills a creature, you must move and attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn.|
+|   14      |   Rage        |  When landing an attack that kills a creature, you must move and attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn.|
 |   15      |   Field Medic        |  Test Agility DR12 to return a **Battered** PC to 1 HP.       |
-|   16      |  Calm Killer         |  Once per turn when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result. |
+|   16      |  Precision Striker         |  Once per turn when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result. |
 |   21      | Expert        |   Pick a technical or academic field of expertise. Checks for your area of expertise have advantage. Can be picked multiple times.       |
 |   22      |   Dual Wielder    |  You have trained to fight with two weapons. Roll both damage dice and keep the higher result.      |
 |   23      |   Fateful Visions        | Consume a Glitch and spend a few moments in quiet meditation. Ask the GM a question pertaining to the current situation.  You will be granted a bizarre vision that provides enlightening information. GM rolls a d4 in secret; on a 1, the vision is deceptive.       |
 |   24      |   Dope Fiend        | An experienced drug user. -1 for all DR tests to resist negative effects of drugs .        |
 |   25      |  First Strike         | Whether your side passes or fails the initiative roll, you may always act first if your action involves inflicting harm.         |
-|   26      |  Gutsy Strike         |   When wielding zweihand weapons, you may swing with DR+2. If the attack lands, you add d6 to your damage. Missing allows your opponent to strike with an attack that you can defend against at DR+2.       |
+|   26      |  Reckless Blow          |   When wielding two-handed weapons, you may swing with DR+2. If the attack lands, you add d6 to your damage. Missing allows your opponent to strike with an attack that you can defend against at DR+2.       |
 |   31      |  Harbinger of Misery         | Gain 4 maximum Glitches instead of 2. As long as you live, the GM rolls two Misery dice every day.   |
 |   32      |  Home-Chemist         |  Once per day, you may scrounge to find the necessary chemical substances to to create an infection-curing elixir that also heals d4 HP.  Test Presence DR12 to attempt this treatment. Failing instead creates a toxin dealing d4 damage.      |
 |   33      |  Hyper Awareness         |  You can never be the victim of a surprise attack. Additionally, your side takes the initiative on 3+.  |
@@ -140,6 +140,6 @@ Adapted from Unheroic Feats in MB Heretic.
 
 # Dying Rules
 
-No negative HP, when a PC goes to zero we roll on the **Battered** table. Any subsequent damage triggers a Toughness test for death.
+No negative H,. When a PC goes to zero, roll on the **Battered** table. Any subsequent damage triggers a Toughness test for death.
 
 
