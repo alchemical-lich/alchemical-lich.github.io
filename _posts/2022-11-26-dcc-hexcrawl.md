@@ -1,12 +1,10 @@
 ---
-title: 'Cairn Damage Analysis'
-date: 2022-11-25
-permalink: /posts/2022/11/cairn-damage/
+title: 'DCC Hexcrawl Notes'
+date: 2022-11-26
+permalink: /posts/2022/11/dcc-hexcrawl/
 tags:
-  - BX
-  - Cairn
   - DCC
-  -5e
+  - Hexcrawl
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
