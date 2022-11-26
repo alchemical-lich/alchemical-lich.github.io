@@ -1,11 +1,13 @@
 # main links links
 main:
+  - title: "Workshop"
+    url: /workshop/
+  
   - title: "Adventures"
     url: /adventures/
   
   - title: "Alchemical GLoG"
     url: /aglog/    
 
-  - title: "DCC Hexcrawl Notes"
-    url: /dcc-hexcrawl/
+  
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "DCC Hexcrawl Notes"
-permalink: /dcc-hexcrawl/
+title: "Workshop"
+permalink: /workshop/
 author_profile: true
 
 ---
