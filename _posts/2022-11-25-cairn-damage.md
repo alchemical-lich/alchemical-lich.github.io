@@ -47,6 +47,8 @@ I use the standard 5e [Goblin](https://www.dndbeyond.com/monsters/16907-goblin) 
 
 To mimic a standard Fighter, I assume a STR 13 and give the character a longsword+shield and additional armor (for a total armor of 3 throughout). There is no mechanical advancement in Cairn, so I keep the stats the same throughout.
 
+I use the [Goblin](https://cairnrpg.com/resources/monsters/goblin/) and [Owlbear](https://cairnrpg.com/resources/monsters/owl-bear/) from the Cairn website.
+
 I also include a comparison for a version of Cairn based on Spellburn & Battlescars that features some advancement. HP increases by 1 "per level" (I assume 1 level in the other systems is equal to one instance of advancement in Cairn/SB) and I increase STR by 3 points total (to 16) over the course of 10 "levels". This only affects the defensive capabilities of the character.
 
 # Results
