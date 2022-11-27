@@ -56,7 +56,9 @@ I also include a comparison for a version of Cairn based on Spellburn & Battlesc
 ## Goblin
 In terms of pure offense, both DCC and Cairn allow Fighters right from the start to put a lot of hurt on a single goblin. Fighters in DCC and Cairn can expect to kill a goblin within the first round. BX and 5e Fighters will need, in expectation, two rounds to get the job done. 
 
-As the Fighter increases their level, we see fairly linear progression in terms of offense in BX, DCC, and 5e. Cairn remains flat in its damage output (by design). Notably, BX and 5e track fairly closely with each other. DCC Warriors become true killing machines at level 5 and outpace the deadliness of Cairn Fighters when facing a goblin.
+As the Fighter increases their level, we see fairly linear progression in terms of offense in BX, DCC, and 5e. Cairn remains flat in its damage output (by design), but stays ahead of both BX and 5e throughout Levels 1-10.
+
+Notably, BX and 5e track fairly closely with each other. DCC Warriors become true killing machines at level 5 and outpace the deadliness of Cairn Fighters when facing a goblin.
 
 
 ![Expected Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/goblin_rounds.png)
@@ -65,8 +67,7 @@ Considering the damage output of a Fighter relative to the damage output of the 
 
 ![Expected Net Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/goblin_net.png)
 
-
-Cairn with SB advancement sees a bit of improvement over levels, because the slightly higher HP and STR increase the survivability in this variant.
+Cairn stays flat (by design), while Cairn with SB advancement sees a bit of improvement over levels, because the slightly higher HP and STR increase the survivability in this variant. It is striking though that Cairn Fighters do not remain far ahead of a goblin no matter the level, i.e., goblins remain a serious threat throughout. In contrast, a Fighter in BX, 5e, and DCC will face close to zero risk from fighting a goblin after level 1 or 2.
 
 Again, it is striking how closely a 5e Fighter tracks the classic BX Fighter.
 
@@ -74,14 +75,16 @@ Again, it is striking how closely a 5e Fighter tracks the classic BX Fighter.
 
 
 ## Owlbear
-Looking at the Owlbear, we see a similar pattern in terms of PC damage output. 
+Looking at the Owlbear, we see a similar pattern in terms of PC damage outputL Cairn and DCC Warriors have high damage output relative to monster HP and stay ahead of BX and 5e.
 
 
 ![Expected Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/owlbear_rounds.png)
 
 
 
-In terms of net outcomes, Owlbears are likely to kill a single Fighter until about level 5 in BX, 5e, and Cairn. DCC Warriors can expect to best an Owlbear in single combat at around level 2 (a DCC Owlbear has very few HP compared to the other systems).
+In terms of net outcomes, Owlbears are likely to kill a single Fighter until about level 5 in BX and 5e. DCC Warriors can expect to best an Owlbear in single combat at around level 2 (a DCC Owlbear has very few HP compared to the other systems).
+
+A standard Cairn Fighter is alwaus expected to loose against an Owlbear. A Cairn Fighter with advancement will have a chance against an Owlbear after around six advancements.
 
 ![Expected Net Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/owlbear_net.png)
 
@@ -89,8 +92,8 @@ In terms of net outcomes, Owlbears are likely to kill a single Fighter until abo
 
 # Conclusion
 
-- BX and 5e are remarkably similar in terms of offensive and net damage scaling. 5e has a bad reputation for slow combat and HP bloat. I am not sure of that is warranted, at least in terms of the HP-damage balance (and I used a pretty basic 5e Fighter--a minimally optimized character would end combats even quicker). In terms of mechanically hacking down a monster, 5e is very comparable to BX (to which you might say: yes! BX can be super whiffy and sluggish when facing high HP monsters).
+- BX and 5e are remarkably similar in terms of offensive and net damage scaling. 5e has a bad reputation for slow combat and HP bloat. I am not sure if that is warranted, at least in terms of the HP-damage balance (and I used a pretty basic 5e Fighter--a minimally optimized character would end combats even quicker). In terms of mechanically hacking down a monster, 5e is very comparable to BX (to which you might say: yes! BX can be super whiffy and sluggish when facing high-HP monsters).
 
 - The DCC Warrior is an absolute killing machine! No wonder I like this class so much.
 
-- Fighters in Cairn can end fights very quickly, especially at low levels, but receive to automatic scaling. That is by design. I think this just underscores that GMs really have to think about diegetic improvements. This also suggests possible challenges in converting adventures from BX or 5e for level 5+ or when using high HD monsters--Cairn PCs have little mechanical ability to confront them, even less than in other OSR systems. 
+- Fighters in Cairn can end fights very quickly when facing low-HD monsters. The auto-hit, damage-reducing-armor, and high STR of a martial character in Cairn is a very effective combination. At the same time, risk of death is always present in Cairn--while in other games goblins eventually become totally ineffective against high-level PCs, they remain a threat in Cairn. In addition, the lack of damage scaling makes for an entirely different risk profile in combat over the life-time of a character. Cairn Fighters that have survived several adventures and are the equivalent of a high-level PC in a leveled game, are not much better at facing low-level monsters and at an incredilbe disadvantage when facing up against more dangerous creatures. I think this just underscores several things: 1) Cairn is fundamentally different in terms of its combat-risk; 2) GMs really have to think about diegetic improvements; 3)I think there might be a particular challenge in Cairn to integrate high-level monsters or convert high-level adventures from BX or 5e--Cairn PCs have little mechanical ability to confront them, even less so than in other OSR systems. 
