@@ -96,10 +96,10 @@ A standard Cairn Fighter is alwaus expected to loose against an Owlbear. A Cairn
 
 - The DCC Warrior is an absolute killing machine! No wonder I like this class so much.
 
-- Fighters in Cairn can end fights very quickly when facing low-HD monsters. The auto-hit, damage-reducing-armor, and high STR of a martial character in Cairn is a very effective combination. At the same time, risk of death is always present in Cairn--while in other games goblins eventually become totally ineffective against high-level PCs, they remain a threat in Cairn. In addition, the lack of damage scaling makes for an entirely different risk profile in combat over the life-time of a character. Cairn Fighters that have survived several adventures and are the equivalent of a high-level PC in a leveled game, are not much better at facing low-level monsters and at an incredilbe disadvantage when facing up against more dangerous creatures. I think this just underscores several things: 
+- Fighters in Cairn can end fights very quickly when facing low-HD monsters. The auto-hit, damage-reducing-armor, and high STR of a martial character in Cairn is a very effective combination. At the same time, risk of death is always present in Cairn--while in other games goblins eventually become totally ineffective against high-level PCs, they remain a threat in Cairn. In addition, the lack of damage scaling makes for an entirely different risk profile in combat over the life-time of a character. Cairn Fighters that have survived several adventures and are the equivalent of a high-level PC in a leveled game, are not much better at facing low-level monsters and at an incredible disadvantage when facing up against more dangerous creatures. I think this just underscores several things: 
 
-  - Cairn is fundamentally different in terms of its combat-risk; 
+  - Cairn is fundamentally different in terms of its combat risk profile. 
   
-  - GMs really have to think about diegetic improvements; 
+  - GMs really have to think about diegetic improvements.
   
-  - I think there might be a particular challenge in Cairn to integrate high-level monsters or convert high-level adventures from BX or 5e--Cairn PCs have little mechanical ability to confront them, even less so than in other OSR systems. 
+  - I think there might be a particular challenge in Cairn to integrate high-level monsters or convert high-level adventures from BX or 5e--Cairn PCs have little mechanical ability to confront some of those threats, even less so than in other OSR systems. 
