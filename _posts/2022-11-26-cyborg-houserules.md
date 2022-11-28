@@ -98,12 +98,12 @@ Adapted from Unheroic Feats in MB Heretic.
 
 | **D66**   |**Talent** | **Effect**|
 |-----------|-----------|-----------|
-|   11      |    Assassin's Strike       |    Test Strength DR12 to grapple an unaware foe and automatically crit with a one-handed bladed weapon.      |
+|   11      |    Assassin       |    Test Strength DR12 to grapple an unaware foe and automatically crit with a one-handed bladed weapon or a garotte.      |
 |   12      |     Spiritualist      |  Sacrifice 1k to regain a lost Glitch (once per day)        |
-|   13      |  Bloodied Knuckles         |   Your unarmed attacks deal d6 damage and ignore light armor. You may take this Feat a second time, increasing to d8 damage and ignoring medium armor, and a third time to d10 damage and ignoring all armor.  Fumbling an unarmed attack means you break a hand, dealing the damage to yourself. You must seek out a specialist to help you set your bones. |
-|   14      |   Rage        |  When landing an attack that kills a creature, you must move and attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn.|
+|   13      |  Bare-Knuckle Brawler        |  Your unarmed attacks deal d6 damage and ignore light armor. You may take this Feat a second time, increasing to d8 damage, and a third time to d10 damage. If you crit on an attack, you also stun your enemy.  Fumbling an unarmed attack means you break a hand, dealing the damage to yourself. You must seek out a specialist to help you set your bones. |
+|   14      |   Spree-Killer        |  When landing an attack that kills a target, you must attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn.|
 |   15      |   Field Medic        |  Test Agility DR12 to return a **Battered** PC to 1 HP.       |
-|   16      |  Precision Striker         |  Once per turn when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result. |
+|   16      |  Precision Striker         |  Once per turn, when making a ranged or melee attack, roll damage with advantage. |
 |   21      | Expert        |   Pick a technical or academic field of expertise. Checks for your area of expertise have advantage. Can be picked multiple times.       |
 |   22      |   Dual Wielder    |  You have trained to fight with two weapons. Roll both damage dice and keep the higher result.      |
 |   23      |   Fateful Visions        | Consume a Glitch and spend a few moments in quiet meditation. Ask the GM a question pertaining to the current situation.  You will be granted a bizarre vision that provides enlightening information. GM rolls a d4 in secret; on a 1, the vision is deceptive.       |
@@ -127,7 +127,7 @@ Adapted from Unheroic Feats in MB Heretic.
 |   53      |  Tough.         |  When **Battered**, roll twice and take the better result.      |
 |   54      |  Ear to the Street.         | You can easily pick up rumors in the city.         |
 |   55      |    Grit       |    Gain +4 HP (this is always added after you change your HP from regular Advancement)      |
-|   56      |   Streed Cred        | You are known among gutter punks. Gain a +1 on First Impressions with streetfolk and enemies from the streets receive +1 on their morale checks.         |
+|   56      |   Street Cred        | You are known among gutter punks. Gain a +1 on First Impressions with streetfolk and enemies from the streets receive +1 on their morale checks.         |
 |   61      |    Trigger Happy     |  Your autofire can hit more than 3 targets.  If you hit 3 or more targets, you have to immediately do an Ammo roll.      |
 |   62      | Stealthy As Fuck          |  All tests related to Stealth are reduced by -2DR. Stacks with other abilities.      |
 |   63      |  Bland         |  You don't trigger suspicion and your features are very forgettable. First Impressions tend towards neutral.   |
@@ -140,6 +140,6 @@ Adapted from Unheroic Feats in MB Heretic.
 
 # Dying Rules
 
-No negative H,. When a PC goes to zero, roll on the **Battered** table. Any subsequent damage triggers a Toughness test for death.
+When a PC goes to zero or fewer HP, roll on the **Battered** table. Any subsequent damage triggers a Toughness test for death.
 
 
