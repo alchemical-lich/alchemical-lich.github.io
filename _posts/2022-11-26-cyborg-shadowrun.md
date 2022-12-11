@@ -111,7 +111,7 @@ In contested tests, adjust the DR for the PC by skill rating of the NPC. This ap
 ## Contacts
 Each PVNK starts the game with two level 1 **Contacts** or one level 2 **Contact**. Roll on the NPC table on p.116.
 
-**Level 1 Contacts**- Standard contact. Merely an acquaintance. Level 1 contacts will charge for meaningful inormation and help.
+**Level 1 Contacts**- Standard contact. Merely an acquaintance. Level 1 contacts will charge for meaningful information and help.
 
 **Level 2 Contacts**- A friend. You have done each other some favors and there is a certain level of trust. DR-2 on any Presence check when attempting to get a Level 2 contact to do something for you. Level 2 contact will not charge for simple things.
 
