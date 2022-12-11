@@ -193,7 +193,7 @@ PVNKS can also use credits to acquire better gear, apps, and cyberware.
 
 | Advancement Type | Karma Costs|
 |------------------|------------|
-| Increase HP by 4 | 5 KP|
+| Increase HP by 4 (up to a max of 30) | 5 KP|
 | Increase an Attribute modifier from 0 to +1 | 6 KP|
 | Increase an Attribute modifier from +1 to +2 | 12 KP|
 | Increase an Attribute modifier from +2 to +3 | 20 KP|
