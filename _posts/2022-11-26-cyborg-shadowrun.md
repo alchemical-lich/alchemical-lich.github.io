@@ -257,7 +257,7 @@ HP represent stamina, grit, and luck, not health. They represent how long you ca
 
 When a PC hits 0 HP or less, they have to test Toughness test with DR 12:
 
-  - On a success, the PC stays conscious but takes one **Wound**. For every **Wound**, all future DR tests (except for damage resistance) are increased by 1 point. If a PC accumulates wounds equal to their Toughness modifier +1, they automatically die.
+  - On a success, the PC stays conscious but takes one **Wound**. For every **Wound**, all future DR tests (except for damage resistance) are increased by 1 point. If a PC accumulates wounds equal to their Toughness modifier +1 (minimum of 1), they automatically die.
   
   - On a failure, they roll on the **Battered** table.
 
