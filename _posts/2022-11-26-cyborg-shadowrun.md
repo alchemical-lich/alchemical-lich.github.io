@@ -33,7 +33,7 @@ Here are some thoughts on how to use CY_BORG to play Shadowrun.
 |Troll | +2 to Toughness or Strength or +1 each, -1 to Agility, -1 to Presence, | Natural Armor (+1 to any armor roll), Large: -1 DR STR test in melee, +2 DR defense, things cost 2x |
 
 ## HP
-PVNKS start with maximum HP and there are modified dying rules (see below).
+PVNKS roll starting HP with **advantage** and there are modified dying rules (see below).
 
 ## Skills
 CY_BORG has no skill system, but skills play an integral role in Shadowrun. 
