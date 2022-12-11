@@ -157,22 +157,19 @@ Here are some additional powers:
 
 
 ## Ki-Adepts
-There are different ways in which Ki-Adepts could be incorprated in CY_BORG:
-
- - Keep the basic rules for nano-powers and add specific options for effects that improve the PC temporarily. This has the advantage of keeping the existing rule structure, but means Ki-Adepts have to constantly weigh when to activate effects.
+To keep things easy, it's probably best to keep the basic rules for nano-powers and add specific options for effects that improve the PC temporarily. 
  
- - Develop passive nano-powers that are always "on". The question is how Cyberware would interfere with this and/or if there needs to be any additional risk as with regular nano-powers.
-
-Ideas for passive nano-powers:
 
 | **Nano-Sculpt** | **Effect** |
 |-------------|--------|
-| Killing Hands | |
-| Armor | |
-| Reflexes | |
-| Cat's Eyes| |
-|Smell | |
-| Pheromones| | 
+| Killing Hands | Turn your hands into deadly weapons for d6X10minutes. D6 damage and ignore light armor. |
+| Armor | Infuse your skin with protective nanobots. +1DR on armor rolls for D6X10 minutes.  |
+| Reflexes | +2 for initiative rolls for D6X10minutes. |
+| Cat's Eyes| Night vision for D6 hours.  |
+|Smell | Enhanced smell for D6 hours.  |
+| Pheromones| -4DR on social Presence tests for D6X10 minutes. | 
+| Combat Sense| -2 DR on Defense tests for D6X10 minutes.|
+
 
 
 
@@ -200,9 +197,9 @@ PVNKS can also use credits to acquire better gear, apps, and cyberware.
 | Increase an Attribute modifier from 0 to +1 | 6 KP|
 | Increase an Attribute modifier from +1 to +2 | 12 KP|
 | Increase an Attribute modifier from +2 to +3 | 20 KP|
-| Increase a Skill Rating from 0 to +1 | 2 KP|
-| Increase a Skill Rating from +1 to +2 | 4 KP|
-| Increase a Skill Rating from +2 to +3 | 10 KP|
+| Increase a Skill Rating from untrained to trained | 2 KP|
+| Increase a Skill Rating from trained to expert | 4 KP|
+| Increase a Skill Rating from expert to master | 10 KP|
 | Acquire a Talent | 8 KP + Credits|
 | Incorporate a new Nano-Power | 6 KP|
 
@@ -224,7 +221,7 @@ Adapted from Unheroic Feats in MB Heretic.
 |   22      |   Dual Wielder    |  You have trained to fight with two weapons. Roll both damage dice and keep the higher result.      |
 |   23      |   Fateful Visions        | Consume a Glitch and spend a few moments in quiet meditation. Ask the GM a question pertaining to the current situation.  You will be granted a bizarre vision that provides enlightening information. GM rolls a d4 in secret; on a 1, the vision is deceptive.       |
 |   24      |   Dope Fiend        | An experienced drug user. -1 for all DR tests to resist negative effects of drugs .        |
-|   25      |  First Strike         | Whether your side passes or fails the initiative roll, you may always act first if your action involves inflicting harm.         |
+|   25      |  First Strike         |  You gain a +1 to initiative rolls and your first attack in combat gains **Advantage**.         |
 |   26      |  Reckless Blow          |   When wielding two-handed weapons, you may swing with DR+2. If the attack lands, you add d6 to your damage. Missing allows your opponent to strike with an attack that you can defend against at DR+2.       |
 |   31      |  Harbinger of Misery         | Gain 4 maximum Glitches instead of 2. As long as you live, the GM rolls two Misery dice every day.   |
 |   32      |  Home-Chemist         |  Once per day, you may scrounge to find the necessary chemical substances to to create an infection-curing elixir that also heals d4 HP.  Test Presence DR12 to attempt this treatment. Failing instead creates a toxin dealing d4 damage.      |
@@ -250,6 +247,7 @@ Adapted from Unheroic Feats in MB Heretic.
 |   64      | Guts          | -1 DR on any Presence tests to confront fear or intimidation attempts.         |
 |   65      |  Nano resistance         |You can attempt an additional DR12 Toughness test to resist the effects of a nano power. Cannot use nano powers.|
 |   66      | Gearhead          |  -2 DR on all tests to tinker with gear, electronics, or mechanics.       |
+
 
 
 
