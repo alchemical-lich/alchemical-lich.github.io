@@ -197,8 +197,8 @@ PVNKS can also use credits to acquire better gear, apps, and cyberware.
 | Increase an Attribute modifier from 0 to +1 | 6 KP|
 | Increase an Attribute modifier from +1 to +2 | 12 KP|
 | Increase an Attribute modifier from +2 to +3 | 20 KP|
-| Increase a Skill Rating from untrained to trained | 2 KP|
-| Increase a Skill Rating from trained to expert | 4 KP|
+| Increase a Skill Rating from untrained to trained | 3 KP|
+| Increase a Skill Rating from trained to expert | 6 KP|
 | Increase a Skill Rating from expert to master | 10 KP|
 | Acquire a Talent | 8 KP + Credits|
 | Incorporate a new Nano-Power | 6 KP|
