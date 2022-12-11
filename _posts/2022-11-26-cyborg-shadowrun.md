@@ -7,7 +7,7 @@ tags:
   - CY_BORG
 ---
 
-Here are some thoughts on how to use CY_BORG to play Shadowrun. 
+Here are some thoughts on how to use CY_BORG to play Shadowrun.
 
 # Setting Details:
 
