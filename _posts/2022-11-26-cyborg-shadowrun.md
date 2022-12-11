@@ -138,7 +138,7 @@ Some nano-powers can be activated with more **control** or **unleashed** at grea
 |------------|--------|---------|---------|-------|
 | Controlled | DR8    | Standard Effect + 1d2 damage| 1d2 damage| 1|
 | Regular    | DR12   | Standard Effect | 1d2 damage | 1 |
-| Unleashed  | DR16   | Pick one: double duration, double range, double damage, target another creature, Dr to resist +4, alter effect substantially| 1d6 damage| 1--4|
+| Unleashed  | DR16   | Pick one: double duration, double range, double damage, target another creature, DR to resist +4, alter effect substantially| 1d6 damage| 1--4|
 
 
 Here are some additional powers:
