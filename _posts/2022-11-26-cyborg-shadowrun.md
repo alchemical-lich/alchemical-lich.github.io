@@ -32,6 +32,8 @@ Here are some thoughts on how to use CY_BORG to play Shadowrun.
 | Ork | +1 to Toughness or Strength, -1 to Presence | Predator: low-light vision|
 |Troll | +2 to Toughness or Strength or +1 each, -1 to Agility, -1 to Presence, | Natural Armor (+1 to any armor roll), Large: -1 DR STR test in melee, +2 DR defense, things cost 2x |
 
+## HP
+PVNKS start with maximum HP and there are modified dying rules (see below).
 
 ## Skills
 CY_BORG has no skill system, but skills play an integral role in Shadowrun. Here are two options for dealing with skills.
@@ -64,15 +66,15 @@ PVNKS start with a failed career that defines their pre-existing skills and know
 | 20 | Political activist | 
 
 ## Detailed Skills
-Characters have a list of skills with varying skill levels, ranging from 0 (untrained), to 1 (trained), 2 (expert), 3 (master).
+Characters have a list of **skills** with varying **ratings**, ranging from 0 (**untrained**), to 1 (**trained**), 2 (**expert**), 3 (**master**).
 
 Skill tests use the associated attribute modifier + the skill rating vs. DR. Some skill checks are only possible for trained skills.
 
-At character creation, PVNKS get two skill points they can allocate to two separate skills. They also get 1 point they can allocate to a specific Knowledge or Language Skill.For every positive ability modifier in their Knowledge Attribute, they get an additional skill point that can be allocated to Knowledge or Language Skills.
+At character creation, PVNKS get two skill points they can allocate to two separate skills. They also get 1 point they can allocate to a specific Knowledge or Language Skill. For every positive ability modifier in their Knowledge Attribute, they get an additional skill point that can be allocated to Knowledge or Language Skills.
 
-In RAW CY_BORG attribute modifiers range from -3 to +3 (with an average modifier of +0) vs. a standard DR12 (DR ranges from 6 to 18). This implies an average success probability of 45%, a max success probability of 90% (+3 vs DR6) and a minimum success probability of 0% (-3 vs. DR18).
+In RAW CY_BORG, attribute modifiers range from -3 to +3 (with an average modifier of +0) vs. a standard DR12 (DR ranges from 6 to 18). This implies an average success probability of 45%, a max success probability of 90% (+3 vs DR6) and a minimum success probability of 0% (-3 vs. DR18).
 
-Adding skill ratings increases the range of modifiers from -3 to +6. This makes PVNKS slightly more competent, which is probably ok. A trained PC has now a 50% chance of success against a normal task, while a world-class expert (Skill Ranking 4) has a 65% chance. If you prefer to keep the game gritty, scale up the DR list on p.41 by 1 or 2 points (e.g., standard DR become 13 or 14).
+Adding skill ratings increases the range of modifiers from -3 to +6. This makes PVNKS slightly more competent, which is probably ok becasue Shadowrunners are competent operators. A trained PC has now a 50% chance of success against a normal task, while a world-class expert (Skill Ranking 4) has a 65% chance. If you prefer to keep the game gritty, scale up the DR list on p.41 by 1 or 2 points (e.g., standard DR become 13 or 14).
 
 
 | **Skill** | **Associated Attributes** |
@@ -98,7 +100,8 @@ Adding skill ratings increases the range of modifiers from -3 to +6. This makes 
 | *Knowledge and Language Skills* |Knowledge|
 
 ## NPC Skills
-NPC might also have specialty skills. Generally, it is probably easiest to just give an NPC a threat rating (0 untrained; 1 trained; 2 professional; 4 veteran; 5 world-class) that can be applied generally. 
+NPC might also have specialty skills. Generally, it is probably easiest to just give an NPC a **threat rating** (0 untrained; 1 trained; 2 professional; 4 veteran; 5 world-class) that can be applied generally. 
+
 In contested tests, adjust the DR for the PC by skill rating of the NPC. This applies to combat tests as well. Examples: A PC is trying to defend against an attack by an NPC with a particular skill in melee. Instead of using the normal DR12, adjust the DR up by the skill rating of the NPC.
 
 
