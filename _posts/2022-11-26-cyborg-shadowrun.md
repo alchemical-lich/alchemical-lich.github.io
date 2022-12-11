@@ -163,7 +163,7 @@ To keep things easy, it's probably best to keep the basic rules for nano-powers 
 | **Nano-Sculpt** | **Effect** |
 |-------------|--------|
 | Killing Hands | Turn your hands into deadly weapons for d6X10minutes. D6 damage and ignore light armor. |
-| Armor | Infuse your skin with protective nanobots. +1DR on armor rolls for D6X10 minutes.  |
+| Armor | Infuse your skin with protective nanobots. +1 on armor rolls for D6X10 minutes.  |
 | Reflexes | +2 for initiative rolls for D6X10minutes. |
 | Cat's Eyes| Night vision for D6 hours.  |
 |Smell | Enhanced smell for D6 hours.  |
