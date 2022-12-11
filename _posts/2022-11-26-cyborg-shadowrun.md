@@ -36,10 +36,10 @@ Here are some thoughts on how to use CY_BORG to play Shadowrun.
 PVNKS start with maximum HP and there are modified dying rules (see below).
 
 ## Skills
-CY_BORG has no skill system, but skills play an integral role in Shadowrun. Here are two options for dealing with skills.
+CY_BORG has no skill system, but skills play an integral role in Shadowrun. 
 
-### Failed Careers as Skills
-PVNKS start with a failed career that defines their pre-existing skills and knowledge. Make one up, roll on the table below, or look at the NPC Role table on p.116.
+### Failed Careers 
+PVNKS start with a failed career that defines some of their pre-existing skills and knowledge. Make one up, roll on the table below, or look at the NPC Role table on p.116.
 
 
 | **D20** | Career|
@@ -66,15 +66,18 @@ PVNKS start with a failed career that defines their pre-existing skills and know
 | 20 | Political activist | 
 
 ## Detailed Skills
-Characters have a list of **skills** with varying **ratings**, ranging from 0 (**untrained**), to 1 (**trained**), 2 (**expert**), 3 (**master**).
+Characters have a list of **skills** with varying **ratings**, ranging from **untrained** (**+0**), to **trained** (**+2**), **expert** (**+3**), to  **master** (**+4**).
 
 Skill tests use the associated attribute modifier + the skill rating vs. DR. Some skill checks are only possible for trained skills.
 
-At character creation, PVNKS get two skill points they can allocate to two separate skills. They also get 1 point they can allocate to a specific Knowledge or Language Skill. For every positive ability modifier in their Knowledge Attribute, they get an additional skill point that can be allocated to Knowledge or Language Skills.
+At **character creation**, PVNKS get to pick **two skills** in which they have achieved the **trained** rank, based on their **failed career**. They also get **one additional trained skill** that can be chosen freely, representing personal interests. 
+
+
+They also get one Knowledge or Language Skill at the **trained** rating. For every positive ability modifier in their Knowledge Attribute, they get an additional Knowledge or Language Skill at **trained** proficiency.
 
 In RAW CY_BORG, attribute modifiers range from -3 to +3 (with an average modifier of +0) vs. a standard DR12 (DR ranges from 6 to 18). This implies an average success probability of 45%, a max success probability of 90% (+3 vs DR6) and a minimum success probability of 0% (-3 vs. DR18).
 
-Adding skill ratings increases the range of modifiers from -3 to +6. This makes PVNKS slightly more competent, which is probably ok becasue Shadowrunners are competent operators. A trained PC has now a 50% chance of success against a normal task, while a world-class expert (Skill Ranking 4) has a 65% chance. If you prefer to keep the game gritty, scale up the DR list on p.41 by 1 or 2 points (e.g., standard DR become 13 or 14).
+Adding skill ratings increases the range of modifiers from -3 to +7. This makes PVNKS slightly more competent, which is probably OK because Shadowrunners are competent operators. A trained PC has now a 55% chance of success against a normal task, while a world-class expert (**Master**) has a 80% chance. If you prefer to keep the game gritty, scale up the DR list on p.41 by 1 or 2 points (e.g., standard DR become 13 or 14).
 
 
 | **Skill** | **Associated Attributes** |
