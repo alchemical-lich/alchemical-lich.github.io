@@ -102,10 +102,6 @@ Adding skill ratings increases the range of modifiers from -3 to +7. This makes 
 | Nanopowers | Presence |
 | *Knowledge and Language Skills* |Knowledge|
 
-## NPC Skills
-NPC might also have specialty skills. Generally, it is probably easiest to just give an NPC a **threat rating** (0 untrained; 1 trained; 2 professional; 4 veteran; 5 world-class) that can be applied generally. 
-
-In contested tests, adjust the DR for the PC by skill rating of the NPC. This applies to combat tests as well. Examples: A PC is trying to defend against an attack by an NPC with a particular skill in melee. Instead of using the normal DR12, adjust the DR up by the skill rating of the NPC.
 
 
 ## Contacts
@@ -269,3 +265,18 @@ Recovering one from a single **Wound** takes varying amount of time.
 | Regular Doc | 1000 credits | Test Toughness DR6 after 3 days of rest to recover from 1 wound.|
 | Premium Doc | 4000 credits| Automatic recovery from one wound after 3 days.|
 | High-end Care | 10,000 credits| Automatic recovery from one wound after 1 day.|
+
+
+
+# NPCs
+
+## NPC Skills
+Some NPCs have specialty skills and professional training. Generally, it is probably easiest to just give an NPC a **threat rating** (0 untrained; 1 trained; 2 professional; 4 veteran; 5 world-class) that can be applied generally. 
+
+In contested tests, adjust the DR for the PC by the skill rating of the NPC. This applies to combat tests as well. Examples: A PC is trying to defend against an attack by an NPC with a particular skill in melee. Instead of using the normal DR12, adjust the DR up by the skill rating of the NPC.
+
+## NPC Health
+Enemies die on zero HP and cannot incur wounds.
+
+
+
