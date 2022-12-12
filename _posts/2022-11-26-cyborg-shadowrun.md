@@ -153,18 +153,35 @@ Here are some additional powers:
 
 
 ## Ki-Adepts
-To keep things easy, it's probably best to keep the basic rules for nano-powers and add specific options for effects that improve the PC temporarily. 
+There is no good equivalent to Ki-Adepts in the CY_BORG rules. It might require a new class and a new set of nano-powers to really get at the feeling of a Ki-Adept. 
+
+**Nano-Adept Class**
+
+Nano-Adepts incorporate infected nanobots into their body to permanently alter themselves. 
+
+Abilities:
+HP: Toughness +D6
+Roll 3d6+2 for Toughness, 3d6-1 for Presence and Knowledge
+D2 Glitches
+You start with one permanent nano-sculpt power.
+
+**Nano-Sculpt Powers** are ongoing effects that do not need to be activated. A Nano-Adept can sustain a number of nano-sculpt powers equal to their Toughness +1 for the day. Each piece of cyberware reduces this number by one. You can swap out nano-powers after a good night's rest.
+
+Each **nano-sculpt power** is linked to an **infestation**. Anytime you fumble on an attack or defense test, your infestation is activated.
  
 
-| **Nano-Sculpt** | **Effect** |
+| **1D10**  | **Nano-Sculpt** | **Effect** |
 |-------------|--------|
-| Killing Hands | Turn your hands into deadly weapons for d6X10minutes. D6 damage and ignore light armor. |
-| Armor | Infuse your skin with protective nanobots. +1 on armor rolls for D6X10 minutes.  |
-| Reflexes | +2 for initiative rolls for D6X10minutes. |
-| Cat's Eyes| Night vision for D6 hours.  |
-|Smell | Enhanced smell for D6 hours.  |
-| Pheromones| -4DR on social Presence tests for D6X10 minutes. | 
-| Combat Sense| -2 DR on Defense tests for D6X10 minutes.|
+|1 |Killing Hands | Turn your hands into deadly weapons. D6 damage and ignore light armor. |
+|2 |Armor | Infuse your skin with protective nanobots. +1 on armor rolls.  |
+| 3|Reflexes | +2 for initiative rolls. |
+|4| Cat's Eyes| Night vision.  |
+|5| Dog's Nose | Enhanced smell.  |
+|6| Pheromones| -2DR on social Presence tests. | 
+|7| Combat Sense| -2 DR on Defense tests.|
+|8| Frog Jump | Double jumping distances and heights.|
+|9| Third Arm| You have grown a third arm. You can hold an extra item and gain a -2 DR on grappling attempts.|
+|10| Regeneration | Recover 1 HP per combat round at the end of your turn.|
 
 
 
@@ -198,6 +215,7 @@ PVNKS can also use credits to acquire better gear, apps, and cyberware.
 | Increase a Skill Rating from expert to master | 10 KP|
 | Acquire a Talent | 8 KP + Credits|
 | Incorporate a new Nano-Power | 6 KP|
+| Incorporate a new Nano-Sculpt | 8 KP|
 
 ## Talents
 
