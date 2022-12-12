@@ -160,9 +160,13 @@ There is no good equivalent to Ki-Adepts in the CY_BORG rules. It might require 
 Nano-Adepts incorporate infected nanobots into their body to permanently alter themselves. 
 
 Abilities:
+
 HP: Toughness +D6
+
 Roll 3d6+2 for Toughness, 3d6-1 for Presence and Knowledge
+
 D2 Glitches
+
 You start with one permanent nano-sculpt power.
 
 **Nano-Sculpt Powers** are ongoing effects that do not need to be activated. A Nano-Adept can sustain a number of nano-sculpt powers equal to their Toughness +1 for the day. Each piece of cyberware reduces this number by one. You can swap out nano-powers after a good night's rest.
