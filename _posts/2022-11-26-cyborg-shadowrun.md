@@ -126,7 +126,7 @@ Use rules as written with the following adjustments:
 # Magic/Nanopowers
 New Nano-powers/magic can be acquired in-game. Procedures vary. It always takes Karma Points to successfully acquire a new Nano-power and sometimes also costs credits.
 
-The Nano-Power Skill increases the chances of successfully activating a Nano-power.
+The Nano-Power Skill increases the chances of successfully activating a Nano-power, giving you a bonus on your activation test. Your nanopower skill also makes it more difficult for targets of your power to resist. If the power call for a resistance test, adjust the DR by your skill rating.
 
 ## Controlling and Unleashing Nano-powers
 A key feature of Shadowrun magic is the ability to decide the amount of risk and reward involved in casting a spell. RAW CY_Borg has a risk attached to activating nano-powers, but gives no opportunity for characters to affect that risk. By RAW, activating a nano-power is also fairly difficult, which makes it very risky. 
@@ -143,18 +143,40 @@ Nano-powers can be activated with more **control** or **unleashed** at great ris
 | Unleashed  | DR16   | Pick one: double duration, double range, double damage, target another creature, DR to resist +4, alter effect substantially| 1d6 damage| 1--4|
 
 
+
+
+## Astral Perception and Astral Projection
+Everyone that has acquired a nanopower also acquires the ability to perceive magical energy created by nanobacteria. It takes a Presence DR12 check to activate this sight ability. 
+
+Astral Projection is not directly available in CY_BORG, but the **Swarm trip** nanopower offers a similar functionality.
+
+
+
+## Magical wards
+tbd
+
+## Summoning
+Summoning can be done via the acquisition of new nanopowers (see below)
+
+## New Nanopowers
+
 Here are some additional powers:
 
 | **Power** | **Effect**|
 |-----------|------------|
-| Read Thoughts| |
-| Suggest  |     |
-| Dominate |     |
-| Stun |      |
-| Silence|    |
-| Change Face|   |
-| Cloak|   |
-| Fly|   |
+| Read Thoughts|  |
+| Suggest  | Target has to test Presence 16 or be swayed by the suggestion.     |
+| Dominate | Target has to test Presence DR10 or fall under the command of the user for 1d6 minutes. Commands that but the target into serious danger cause, trigger another Presence test.     |
+| Stun | Target has to test Presence DR12 or be stunned for 1d4 rounds. Target can test again on subsequent turns to end the condition.   |
+| Silence| Enforce silence on a circular area with a 10 m radius.    |
+| Change Face| Change your face for 1d6 hours.  |
+| Cloak| Become invisible and cloaked from visual sensors for 1d6 minutes. +/- 2 on all attack and defense tests.   |
+| Fly| Gain the ability to fly at your regular speed for 1d6 X 10 minutes.   |
+| Summon Abberation| Summon a mutated beast with the stats of a **Warg** (p.100) for 1d6 hours. The creature will obey your commands. If you die or become unconscious, the create will 1--3 vanish or 4--6 attack the nearest target.  |
+
+
+## Magical Weapons and Foci
+Some items and weapons can be infused with nano/magical powers. For foci, they can give a bonus or special effect on activation checks for nano-powers or give access to wholly new powers. Magical weapons might offer extra damage or the ability to hurt magical creatures.
 
 
 
