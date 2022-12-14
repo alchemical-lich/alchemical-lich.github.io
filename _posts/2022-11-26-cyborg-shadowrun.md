@@ -9,15 +9,13 @@ tags:
 
 Here are some thoughts on how to use CY_BORG to play Shadowrun.
 
-# Setting Details:
+# Setting Adjustments:
 
-- It is the year 2123. The world has gone through dozens of climate disasters, environmental degradation, political revolutions, at least four deadly pandemics, and other calamities.
+- The megacity CY arose out of the ruins of Northern Europe. It stretches across what used to be Hamburg in the Southwest, Rostock in the Southeast, to Copenhagen and Malmö in the North, and the rest of former Denmark. Northern Germany, Poland, and the rest of Scandinavia are associated territories, full of industrial parks, ag and server farms, smaller commuter cities, and toxic wasteland ruled by Nomad clans. The rest of the Shadowrun universe can be used as is.
 
-- The megacity CY arose out of the ruins of Northern Europe. It stretches across what used to be Hamburg in the Southwest, Rostock in the Southeast, to Copenhagen and Malmö in the North, and the rest of former Denmark. Northern Germany, Poland, and the rest of Scandinavia are associated territories, full of industrial parks, ag and server farms, smaller commuter cities, and toxic wasteland ruled by Nomad clans.
+- At some point after 2020, nanotech became all the rage. By now, most biological matter has active and defunct nanobots in their system. 
 
-- 60+ years ago nanotech became all the rage. By now, most biological matter has active and defunct nanobots in their system. 
-
-- Asteroids fell on earth and caused calamities all over. The asteroids carried different strains of alien bacteria that interacted with the nanobot technology and spread. Several of the older bacterial strains caused metatype mutations, other, more recent variants, more horrific changes.
+- Insetad of the standard Awakening from the SR universe, asteroids fell on earth and caused calamities all over. The asteroids carried different strains of alien bacteria that interacted with the nanobot technology and spread across many biological life forms. The first generation of bacterial strains caused Metatype mutations, other, more recent variants, more manifest as magical powers.
 
 
 # Character Creation
@@ -77,7 +75,7 @@ They also get one Knowledge or Language Skill at the **trained** rating. For eve
 
 In RAW CY_BORG, attribute modifiers range from -3 to +3 (with an average modifier of +0) vs. a standard DR12 (DR ranges from 6 to 18). This implies an average success probability of 45%, a max success probability of 90% (+3 vs DR6) and a minimum success probability of 0% (-3 vs. DR18).
 
-Adding skill ratings increases the range of modifiers from -3 to +7. This makes PVNKS slightly more competent, which is probably OK because Shadowrunners are competent operators. A trained PC has now a 55% chance of success against a normal task, while a world-class expert (**Master**) has a 80% chance. If you prefer to keep the game gritty, scale up the DR list on p.41 by 1 or 2 points (e.g., standard DR become 13 or 14).
+Adding skill ratings increases the range of modifiers from -3 to +7. This makes PVNKS slightly more competent, which is probably OK because Shadowrunners are professional operators. A trained PC has now a 55% chance of success against a normal task, while a world-class expert (**Master**) has a 80% chance. If you prefer to keep the game gritty, scale up the DR list on p.41 by 1 or 2 points (e.g., standard DR become 13 or 14).
 
 
 | **Skill** | **Associated Attributes** |
@@ -128,7 +126,12 @@ New Nano-powers/magic can be acquired in-game. Procedures vary. It always takes 
 The Nano-Power Skill increases the chances of successfully activating a Nano-power.
 
 ## Controlling and Unleashing Nano-powers
-Some nano-powers can be activated with more **control** or **unleashed** at great risk. This allows the PC to pick a risk-reward level that they are comfortable with. A **controlled** approach increases the chances of success dramatically at the guaranteed cost of damage. **Unleashing** nanopowers brings the higher risk of failure and more damage, but promises greatly amplified effects on a success.
+A key feature of Shadowrun magic is the ability to decide the amount of risk and reward involved in casting a spell. RAW CY_Borg has a risk attached to activating nano-powers, but gives no opportunity for characters to affect that risk. By RAW, activating a nano-power is also fairly difficult, which makes it very risky. 
+
+
+I think two changes are in order: 1) Introducing the **Nanopower skill** increases the baseline success chance, which addresses basic competence; 2) The **Controlled/Unleashing** rules below allow a minimum of tactical choice in the activation of nano-powers.
+
+Nano-powers can be activated with more **control** or **unleashed** at great risk. This allows the PC to pick a risk-reward level that they are comfortable with. A **controlled** approach increases the chances of success dramatically at the guaranteed cost of damage. **Unleashing** nanopowers brings the higher risk of failure and more damage, but promises greatly amplified effects on a success.
 
 | Activation | DR     | Success | Failure | Fumble|
 |------------|--------|---------|---------|-------|
@@ -299,6 +302,8 @@ In contested tests, adjust the DR for the PC by the skill rating of the NPC. Thi
 
 ## NPC Health
 Enemies die on zero HP and cannot incur wounds.
+
+
 
 
 
