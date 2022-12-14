@@ -12,11 +12,13 @@ Here are some thoughts on how to use CY_BORG to play Shadowrun.
 
 # Setting Adjustments:
 
-- The megacity CY arose out of the ruins of Northern Europe. It stretches across what used to be Hamburg in the Southwest, Rostock in the Southeast, to Copenhagen and Malmö in the North, and the rest of former Denmark. Northern Germany, Poland, and the rest of Scandinavia are associated territories, full of industrial parks, ag and server farms, smaller commuter cities, and toxic wasteland ruled by Nomad clans. The rest of the Shadowrun universe can be used as is.
+- The megacity CY arose out of the ruins of Northern Europe. It stretches across what used to be Hamburg in the Southwest, Rostock in the Southeast, to Copenhagen and Malmö in the North, and the rest of former Denmark. Northern Germany, Poland, and the rest of Scandinavia are associated territories, full of industrial parks, ag and server farms, smaller commuter cities, and toxic wasteland ruled by Nomad clans. 
+
+- The rest of the Shadowrun universe can be used as is.
 
 - At some point after 2020, nanotech became all the rage. By now, most biological matter has active and defunct nanobots in their system. 
 
-- Insetad of the standard Awakening from the SR universe, asteroids fell on earth and caused calamities all over. The asteroids carried different strains of alien bacteria that interacted with the nanobot technology and spread across many biological life forms. The first generation of bacterial strains caused Metatype mutations, other, more recent variants, more manifest as magical powers.
+- Instead of the standard Awakening from the SR universe, asteroids fell on earth and caused widespread calamities. The asteroids carried different strains of alien bacteria that interacted with the nanobot technology and spread across many biological life forms. The first generation of bacterial strains caused Metatype mutations, other, more recent variants, manifested as magical powers.
 
 
 # Character Creation
