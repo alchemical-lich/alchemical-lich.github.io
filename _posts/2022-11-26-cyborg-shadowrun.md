@@ -284,7 +284,7 @@ When a PC hits 0 HP or less, they have to test Toughness test with DR 12:
   
   - On a failure, they roll on the **Battered** table.
 
-Recovering one from a single **Wound** takes a varying amount of time.
+Recovering from a single **Wound** takes a varying amount of time.
 
 | **Quality of Medical Care**| **Costs** | **Effect** |
 |------------------------------|----------|------------|
