@@ -7,6 +7,7 @@ tags:
   - CY_BORG
 ---
 
+
 Here are some thoughts on how to use CY_BORG to play Shadowrun.
 
 # Setting Adjustments:
@@ -162,23 +163,22 @@ There is no good equivalent to Ki-Adepts in the CY_BORG rules. It might require 
 
 Nano-Adepts incorporate infected nanobots into their body to permanently alter themselves. 
 
-Abilities:
 
-HP: Toughness +D6
+**HP**: Toughness +D6
 
-Roll 3d6+2 for Toughness, 3d6-1 for Presence and Knowledge
+Roll 3d6+2 for **Toughness**, 3d6-1 for **Presence** and **Knowledge**
 
 D2 Glitches
 
-You start with one permanent nano-sculpt power.
+You start with one permanent **nano-sculpt power**.
 
-**Nano-Sculpt Powers** are ongoing effects that do not need to be activated. A Nano-Adept can sustain a number of nano-sculpt powers equal to their Toughness +1 for the day. Each piece of cyberware reduces this number by one. You can swap out nano-powers after a good night's rest.
+**Nano-Sculpt Powers** are ongoing effects that do not need to be activated. A Nano-Adept can sustain a number of nano-sculpt powers equal to their Toughness +1 for the day. Each piece of cyberware reduces this number by one. You can decide which out nano-powers to activate for the day after a full night of sleep.
 
 Each **nano-sculpt power** is linked to an **infestation**. Anytime you fumble on an attack or defense test, your infestation is activated.
  
 
-| **1D10**  | **Nano-Sculpt** | **Effect** |
-|-------------|--------|
+| **1D12**  | **Nano-Sculpt** | **Effect** |
+|-------------|--------|-----------|
 |1 |Killing Hands | Turn your hands into deadly weapons. D6 damage and ignore light armor. |
 |2 |Armor | Infuse your skin with protective nanobots. +1 on armor rolls.  |
 | 3|Reflexes | +2 for initiative rolls. |
@@ -189,6 +189,8 @@ Each **nano-sculpt power** is linked to an **infestation**. Anytime you fumble o
 |8| Frog Jump | Double jumping distances and heights.|
 |9| Third Arm| You have grown a third arm. You can hold an extra item and gain a -2 DR on grappling attempts.|
 |10| Regeneration | Recover 1 HP per combat round at the end of your turn.|
+|11| Meld into Shadows | -4DR on Agility tests to evade detection. Also affects cameras and other sensors.|
+|12| Spiderclimb | You can scale vertical surfaces with ease.|
 
 
 
@@ -211,18 +213,18 @@ PVNKs typically earn 1-5 Karma Points per mission. Karma can be used in a variet
 
 PVNKS can also use credits to acquire better gear, apps, and cyberware.
 
-| Advancement Type | Karma Costs|
-|------------------|------------|
-| Increase HP by 4 (up to a max of 30) | 5 KP|
-| Increase an Attribute modifier from 0 to +1 | 6 KP|
-| Increase an Attribute modifier from +1 to +2 | 12 KP|
-| Increase an Attribute modifier from +2 to +3 | 20 KP|
-| Increase a Skill Rating from untrained to trained | 3 KP|
-| Increase a Skill Rating from trained to expert | 6 KP|
-| Increase a Skill Rating from expert to master | 10 KP|
-| Acquire a Talent | 8 KP + Credits|
-| Incorporate a new Nano-Power | 6 KP|
-| Incorporate a new Nano-Sculpt | 8 KP|
+| Advancement Type | Karma Costs| Credit Cost|
+|------------------|------------|------|
+| Increase HP by 4 (up to a max of 30) | 5 KP | 2.5k credits|
+| Increase an Attribute modifier from 0 to +1 | 6 KP | 5k credits|
+| Increase an Attribute modifier from +1 to +2 | 12 KP | 20k credits|
+| Increase an Attribute modifier from +2 to +3 | 20 KP | 50k credits|
+| Increase a Skill Rating from untrained to trained | 3 KP | 2.5k credits|
+| Increase a Skill Rating from trained to expert | 6 KP | 10k credits|
+| Increase a Skill Rating from expert to master | 10 KP | 25k credits|
+| Acquire a Talent | 8 KP | 10k/25l/50k|
+| Incorporate a new Nano-Power | 6 KP| 8k |
+| Incorporate a new Nano-Sculpt | 8 KP| 10k |
 
 ## Talents
 
@@ -282,7 +284,7 @@ When a PC hits 0 HP or less, they have to test Toughness test with DR 12:
   
   - On a failure, they roll on the **Battered** table.
 
-Recovering one from a single **Wound** takes varying amount of time.
+Recovering one from a single **Wound** takes a varying amount of time.
 
 | **Quality of Medical Care**| **Costs** | **Effect** |
 |------------------------------|----------|------------|
@@ -302,7 +304,6 @@ In contested tests, adjust the DR for the PC by the skill rating of the NPC. Thi
 
 ## NPC Health
 Enemies die on zero HP and cannot incur wounds.
-
 
 
 
