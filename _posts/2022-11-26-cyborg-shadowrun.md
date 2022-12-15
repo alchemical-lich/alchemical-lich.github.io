@@ -164,15 +164,15 @@ Here are some additional powers:
 
 | **Power** | **Effect**|
 |-----------|------------|
-| Read Thoughts|  |
-| Suggest  | Target has to test Presence 16 or be swayed by the suggestion.     |
-| Dominate | Target has to test Presence DR10 or fall under the command of the user for 1d6 minutes. Commands that but the target into serious danger cause, trigger another Presence test.     |
-| Stun | Target has to test Presence DR12 or be stunned for 1d4 rounds. Target can test again on subsequent turns to end the condition.   |
-| Silence| Enforce silence on a circular area with a 10 m radius.    |
-| Change Face| Change your face for 1d6 hours.  |
-| Cloak| Become invisible and cloaked from visual sensors for 1d6 minutes. +/- 2 on all attack and defense tests.   |
-| Fly| Gain the ability to fly at your regular speed for 1d6 X 10 minutes.   |
-| Summon Abberation| Summon a mutated beast with the stats of a **Warg** (p.100) for 1d6 hours. The creature will obey your commands. If you die or become unconscious, the create will 1--3 vanish or 4--6 attack the nearest target.  |
+| **Read Thoughts**| Target tests Presence 14 to resist. Reveals 1-2 important pieces of information. |
+| **Suggest**  | Target has to test Presence 16 or be swayed by the suggestion.     |
+| **Dominate** | Target has to test Presence DR10 or fall under the command of the user for 1d6 minutes. Commands that but the target into serious danger cause, trigger another Presence test.     |
+| **Stun** | Target has to test Presence DR12 or be stunned for 1d4 rounds. Target can test again on subsequent turns to end the condition.   |
+| **Silence**| Enforce silence on a circular area with a 10 m radius.    |
+| **Change Face**| Change your face for 1d6 hours.  |
+| **Cloak**| Become invisible and cloaked from visual sensors for 1d6 minutes. +/- 2 on all attack and defense tests.   |
+| **Fly**| Gain the ability to fly at your regular speed for 1d6 X 10 minutes.   |
+| **Summon Aberration**| Summon a mutated beast with the stats of a **Warg** (p.100) for 1d6 hours. The creature will obey your commands. If you die or become unconscious, the create will 1--3 vanish or 4--6 attack the nearest target.  |
 
 
 ## Magical Weapons and Foci
@@ -203,18 +203,18 @@ Each **nano-sculpt power** is linked to an **infestation**. Anytime you fumble o
 
 | **1D12**  | **Nano-Sculpt** | **Effect** |
 |-------------|--------|-----------|
-|1 |Killing Hands | Turn your hands into deadly weapons. D6 damage and ignore light armor. |
-|2 |Armor | Infuse your skin with protective nanobots. +1 on armor rolls.  |
-| 3|Reflexes | +2 for initiative rolls. |
-|4| Cat's Eyes| Night vision.  |
-|5| Dog's Nose | Enhanced smell.  |
-|6| Pheromones| -2DR on social Presence tests. | 
-|7| Combat Sense| -2 DR on Defense tests.|
-|8| Frog Jump | Double jumping distances and heights.|
-|9| Third Arm| You have grown a third arm. You can hold an extra item and gain a -2 DR on grappling attempts.|
-|10| Regeneration | Recover 1 HP per combat round at the end of your turn.|
-|11| Meld into Shadows | -4DR on Agility tests to evade detection. Also affects cameras and other sensors.|
-|12| Spiderclimb | You can scale vertical surfaces with ease.|
+|1 |**Killing Hands** | Turn your hands into deadly weapons. D6 damage and ignore light armor. |
+|2 |**Armor** | Infuse your skin with protective nanobots. +1 on armor rolls.  |
+| 3|**Reflexes** | +2 for initiative rolls. |
+|4| **Cat's Eyes**| Night vision.  |
+|5| **Dog's Nose** | Enhanced smell.  |
+|6| **Pheromones**| -2DR on social Presence tests. | 
+|7| **Combat Sense**| -2 DR on Defense tests.|
+|8| **Frog Jump** | Double jumping distances and heights.|
+|9| **Third Arm**| You have grown a third arm. You can hold an extra item and gain a -2 DR on grappling attempts.|
+|10| **Regeneration** | Recover 1 HP per combat round at the end of your turn.|
+|11| **Meld into Shadows** | -4DR on Agility tests to evade detection. Also affects cameras and other sensors.|
+|12| **Spiderclimb** | You can scale vertical surfaces with ease.|
 
 
 
