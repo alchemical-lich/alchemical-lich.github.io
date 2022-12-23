@@ -11,7 +11,6 @@ Here are some adventure projects I am currently playing, working on, or thinking
 ## The Vile Tale of Christman Grippertenius
 A medium-sized OSR hexcrawl adventure.
 
-[Link](https://theophrastus-b0mbastus.github.io/christman/)
 
 ## Andromalion's Blessing
 
