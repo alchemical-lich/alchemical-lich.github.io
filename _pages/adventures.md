@@ -11,7 +11,7 @@ Here are some adventure projects I am currently playing, working on, or thinking
 ## DCC Hexcrawl Notes
 Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
-![Aereth](http://theophrastus-b0mbastus.github.io/images/aereth_hex_names_numbers.webp){width=50%}
+![Aereth](http://theophrastus-b0mbastus.github.io/images/aereth_hex_names_numbers.webp)
 
 [DCC Hexcrawl Notes](https://theophrastus-b0mbastus.github.io/dcc-hexcrawl/)
 
@@ -19,13 +19,13 @@ Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
 Work-in-progress...
 
-![Sandbox Map](http://theophrastus-b0mbastus.github.io/images/wwn_map.png){width=50%}
+![Sandbox Map](http://theophrastus-b0mbastus.github.io/images/wwn_map.png)
 
 
 ## The Vile Tale of Christman Grippertenius
 A medium-sized OSR hexcrawl adventure.
 
-[The Region of Bergkessel](http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png){width=50%}
+[The Region of Bergkessel](http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png)
 
 
 
