@@ -13,7 +13,7 @@ Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
 [DCC Hexcrawl Notes](https://theophrastus-b0mbastus.github.io/dcc-hexcrawl/)
 
-## The Crystal Pyres of Xambalaa--A WWN Sandbox
+## The Crystal Grammaton of Xambalaa--A WWN Sandbox
 
 Work-in-progress...
 
