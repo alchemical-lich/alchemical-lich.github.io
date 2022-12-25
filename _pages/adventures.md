@@ -17,7 +17,7 @@ Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
 Work-in-progress...
 
-![Sandbox Map](images/wwn_map.png)
+![Sandbox Map](http://theophrastus-b0mbastus.github.io/images/wwn_map.png)
 
 
 ## The Vile Tale of Christman Grippertenius
