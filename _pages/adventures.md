@@ -26,7 +26,7 @@ Work-in-progress...
 A medium-sized OSR hexcrawl adventure.
 
 
-<img src="http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png"  width="600" height="300">
+<img src="http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png"  width="50%" >
 
 
 ## Andromalion's Blessing
