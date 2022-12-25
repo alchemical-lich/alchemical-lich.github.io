@@ -13,6 +13,12 @@ Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
 [DCC Hexcrawl Notes](https://theophrastus-b0mbastus.github.io/dcc-hexcrawl/)
 
+## The Crystal Pyres of Xambalaa--A WWN Sandbox
+
+Work-in-progress...
+
+![Sandbox Map](images/wwn_map.png)
+
 
 ## The Vile Tale of Christman Grippertenius
 A medium-sized OSR hexcrawl adventure.
