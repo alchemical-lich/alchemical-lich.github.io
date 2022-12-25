@@ -25,7 +25,7 @@ Work-in-progress...
 ## The Vile Tale of Christman Grippertenius
 A medium-sized OSR hexcrawl adventure.
 
-[The Region of Bergkessel](http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png)
+![The Region of Bergkessel](http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png)
 
 
 
