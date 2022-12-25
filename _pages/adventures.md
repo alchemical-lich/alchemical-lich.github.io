@@ -11,13 +11,15 @@ Here are some adventure projects I am currently playing, working on, or thinking
 ## DCC Hexcrawl Notes
 Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
+![Aereth](http://theophrastus-b0mbastus.github.io/images/aereth_hex_names_numbers.webp){width=50%}
+
 [DCC Hexcrawl Notes](https://theophrastus-b0mbastus.github.io/dcc-hexcrawl/)
 
 ## The Crystal Grammaton of Xambalaa--A WWN Sandbox
 
 Work-in-progress...
 
-![Sandbox Map](http://theophrastus-b0mbastus.github.io/images/wwn_map.png)
+![Sandbox Map](http://theophrastus-b0mbastus.github.io/images/wwn_map.png){width=50%}
 
 
 ## The Vile Tale of Christman Grippertenius
