@@ -11,7 +11,7 @@ Here are some adventure projects I am currently playing, working on, or thinking
 ## DCC Hexcrawl Notes
 Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
 
-<img src="http://theophrastus-b0mbastus.github.io/images/aereth_hex_names_numbers.webp"  width="50%" >
+<img src="http://theophrastus-b0mbastus.github.io/images/aereth_hex_names_numbers.webp"  width="75%" >
 
 [DCC Hexcrawl Notes](https://theophrastus-b0mbastus.github.io/dcc-hexcrawl/)
 
