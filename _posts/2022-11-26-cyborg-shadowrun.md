@@ -196,9 +196,9 @@ D2 Glitches
 
 You start with one permanent **nano-sculpt power**.
 
-**Nano-Sculpt Powers** are ongoing effects that do not need to be activated. A Nano-Adept can sustain a number of nano-sculpt powers equal to their Toughness +1 for the day. Each piece of cyberware reduces this number by one. You can decide which out nano-powers to activate for the day after a full night of sleep.
+**Nano-Sculpt Powers** are ongoing effects that do not need to be activated. A Nano-Adept can sustain a number of nano-sculpt powers equal to their Toughness +1 for the day. Each piece of cyberware reduces this number by one. You can decide which of your nano-powers to sustain for the day after a full night of sleep (e.g., you might have access to four nano-sculpt powers but can only sustain three at any given time).
 
-Each **nano-sculpt power** is linked to an **infestation**. Anytime you fumble on an attack or defense test, your infestation is activated.
+Each **nano-sculpt power** is linked to an **infestation**. Anytime you fumble on an attack or defense test, you have to test Presence DR12 to avoid triggering one of your infestations (determine randomly).
  
 
 | **1D12**  | **Nano-Sculpt** | **Effect** |
