@@ -330,6 +330,39 @@ In contested tests, adjust the DR for the PC by the skill rating of the NPC. Thi
 Enemies die on zero HP and cannot incur wounds.
 
 
+# Alternative Task Resolution
+If you find the D20 vs DR12 too swingy and unreliable for the fiction of competent operators, here is a sketch for an alternative task resolution system, based on WNN/Traveller. 
+
+First, base attribute bonuses have to be adjusted to keep the total bonus including skills reasonable. 
+
+|**3D6 Roll** | **Revised Attribute Modifier**|
+|---------|---------------------------|
+|   3      |    -2                       |
+|   4--7      |    -1                       |
+|   8--13      |    +0                       |
+|   14--17      |    +1                       |
+|   18      |    +2                       |
 
 
+Skills now range from **Untrained** to **Master-4**.
 
+|**Skill Rating** | **Modifier**|
+|---------|---------------------------|
+|   Untrained      |     -1           |
+|   Trained      |     +0           |
+|   Expert-1      |     +1           |
+|   Expert-2      |     +2           |
+|   Master-3      |     +3           |
+|   Master-4      |     +4           |
+
+
+The standard DC on the game is now **DR8**. An untrained, average person (total -1 modifier) has a success probability of 27% but an average trained person (total +0) has a 42% chance of success. A total modifier of +2 raises this to 58%. This makes trained experts more competent compared to untrained characters and provides diminishing marginal returns for additional skill increases. 
+
+
+|**DC** | **Difficulty**|
+|---------|---------------------------|
+|     6    |       Easy               |
+|     8    |       Average            |
+|     10    |      Difficult          |
+|     12    |      Formidable         |
+|     12+    |     Impossible         |
