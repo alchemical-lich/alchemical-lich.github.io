@@ -9,7 +9,7 @@ Here are some adventure projects I am currently playing, working on, or thinking
 
 
 ## DCC Hexcrawl Notes
-Notes for a DCC hexcrawl, based on existing DCC modules and 3rd-party products.
+Notes for a DCC hexcrawl, based on existing DCC modules, the DCC Aereth setting guide, and 3rd-party products.
 
 [DCC Hexcrawl Notes](https://theophrastus-b0mbastus.github.io/dcc-hexcrawl/)
 
