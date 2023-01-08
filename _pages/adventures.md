@@ -21,7 +21,7 @@ Notes for a DCC hexcrawl, based on existing DCC modules, the DCC Aereth setting 
 
 Work-in-progress...
 
-<img src="http://theophrastus-b0mbastus.github.io/images/wwn_map.png"  width="50%" >
+<img src="http://theophrastus-b0mbastus.github.io/images/wwn_map.png"  width="65%" >
 
 
 ## The Vile Tale of Christman Grippertenius
