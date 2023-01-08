@@ -28,7 +28,7 @@ Work-in-progress...
 A DCC Level-5 hexcrawl adventure.
 
 
-<img src="http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png"  width="50%" >
+<img src="http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png"  width="65%" >
 
 
 ## Andromalion's Blessing
