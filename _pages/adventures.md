@@ -25,7 +25,7 @@ Work-in-progress...
 
 
 ## The Vile Tale of Christman Grippertenius
-A medium-sized OSR hexcrawl adventure.
+A medium-sized DCC hexcrawl adventure.
 
 
 <img src="http://theophrastus-b0mbastus.github.io/images/bergkessel_hex_alt_pcs.png"  width="50%" >
