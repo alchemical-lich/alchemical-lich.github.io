@@ -15,6 +15,6 @@ This version also has only four main attributes: Strength, Dexterity, Wits, Pers
 
 Conversions from B/X are less straightforward, but you might enjoy the different feel of combat.
 
-[Core Rules](https://theophrastus-b0mbastus.github.io/aglog-rules-nohit/)
+[Core Rules](https://alchemical-lich.github.io/aglog-rules-nohit/)
 
-[Classes](https://theophrastus-b0mbastus.github.io/aglog-classes-nohit/)
+[Classes](https://alchemical-lich.github.io/aglog-classes-nohit/)
