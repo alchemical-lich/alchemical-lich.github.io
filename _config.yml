@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Alchemical Workshop"
 title_separator          : "-"
-name                     : &name "Theophrastus Bombastus"
-description              : &description "dead since 1541"
-url                      : https://theophrastus-b0mbastus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Alchemical Lich"
+description              : &description "dead since 1535"
+url                      : https://alchemical-lich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "theophrastus-b0mbastus/theophrastus-b0mbastus.github.io"
+repository               : "alchemical-lich/alchemical-lich.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Theophrastus"
+  name             : "Alchemical Lich"
   avatar           : "paracelsus.jpeg"
-  bio              : "Dead since 1541. Playing DCC, OSE, 5E, PF2E, Mothership, Delta Green, SotDL."
-  location         : "Salzburg"
+  bio              : "Dead since 1535. Playing DCC, OSE, 5E, PF2E, Mothership, Delta Green, SotDL."
+  location         : "Metz"
   employer         :
   email            : cadaver.alchemicus@gmail.com
-  github           : "theophrastus-b0mbastus"
+  github           : "alchemical-lich"
   twitter          : "Theophrastus93"
 
 
