@@ -28,7 +28,7 @@ Work-in-progress...
 A DCC Level-5 hexcrawl adventure.
 
 
-<img src="http://alchemical-lich.github.io/images/bergkessel_hex_alt_pcs.png"  width="65%" >
+<img src="http://alchemical-lich.github.io/images/bergkessel_new.png"  width="65%" >
 
 
 ## Andromalion's Blessing
