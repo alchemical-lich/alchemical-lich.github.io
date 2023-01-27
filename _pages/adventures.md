@@ -23,6 +23,7 @@ Work-in-progress...
 
 <img src="http://alchemical-lich.github.io/images/wwn_map.png"  width="65%" >
 
+<img src="http://alchemical-lich.github.io/images/wwn_map_alt.png"  width="65%" >
 
 ## The Vile Tale of Christman Grippertenius
 A DCC Level-5 hexcrawl adventure.
