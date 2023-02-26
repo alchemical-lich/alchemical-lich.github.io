@@ -25,10 +25,14 @@ Work-in-progress...
 
 
 ## The Vile Tale of Christman Grippertenius
-A DCC Level-5 hexcrawl adventure.
-
+An OSE Level-5 hexcrawl adventure.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_new.png"  width="65%" >
+
+This will be embedded in a bigger map of the Holy Roman Empire during the 30-years war:
+
+<img src="http://alchemical-lich.github.io/images/HRE_Map.png"  width="65%" >
+
 
 
 ## Andromalion's Blessing
