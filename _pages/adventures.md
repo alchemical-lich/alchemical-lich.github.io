@@ -33,6 +33,9 @@ This will be embedded in a bigger map of the Holy Roman Empire during the 30-yea
 
 <img src="http://alchemical-lich.github.io/images/HRE_Map.png"  width="65%" >
 
+Same map in black and white:
+
+<img src="http://alchemical-lich.github.io/images/HRE_Map_bw.png"  width="65%" >
 
 
 ## Andromalion's Blessing
