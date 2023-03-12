@@ -8,6 +8,15 @@ author_profile: true
 Here are some adventure projects I am currently playing, working on, or thinking about.
 
 
+## Andromalion's Blessing
+
+A Level 1--11 5E adventure.
+
+[Andromalion's Blessing](https://alchemical-lich.github.io/andromalion/)
+
+<img src="http://alchemical-lich.github.io/images/dancing_mania.jpg"  width="75%" >
+
+
 ## DCC Hexcrawl Notes
 Notes for a DCC hexcrawl, based on existing DCC modules, the DCC Aereth setting guide, and 3rd-party products.
 
@@ -35,9 +44,6 @@ This will be embedded in a bigger map of the Holy Roman Empire during the 30-yea
 
 
 
-## Andromalion's Blessing
-
-A Level 1--12 5E adventure.
 
 ## Behemoth
 A Dirty Dozen-style fantasy civil war campaign.
