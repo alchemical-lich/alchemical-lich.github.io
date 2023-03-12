@@ -38,7 +38,7 @@ An OSE Level-5 hexcrawl adventure.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_new.png"  width="65%" >
 
-This will be embedded in a bigger map of the Holy Roman Empire during the 30-years war:
+While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War and combined with modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, and Castle Xyntillan:
 
 <img src="http://alchemical-lich.github.io/images/HRE_Map.png"  width="65%" >
 
