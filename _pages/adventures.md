@@ -34,7 +34,7 @@ Work-in-progress...
 
 
 ## The Vile Tale of Christman Grippertenius
-An OSE Level-5 hexcrawl adventure.
+A Level 5 OSE hexcrawl adventure.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_new.png"  width="65%" >
 
