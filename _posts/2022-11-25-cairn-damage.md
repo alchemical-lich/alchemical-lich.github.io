@@ -61,11 +61,11 @@ As the Fighter increases their level, we see fairly linear progression in terms 
 Notably, BX and 5e track fairly closely with each other. DCC Warriors become true killing machines at level 5 and outpace the deadliness of Cairn Fighters when facing a goblin.
 
 
-![Expected Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/goblin_rounds.png)
+![Expected Rounds To Kill A Goblin](http://alchemical-lich.github.io/images/goblin_rounds.png)
 
 Considering the damage output of a Fighter relative to the damage output of the goblin, we see an even stronger advantage of the DCC warrior. This is largely because the DCC Warrior scales in terms of damage like a 5e Fighter, but has more HP and AC than a BX warrior and faces BX-like goblins (whereas as 5e Fighter has to deal with a stronger goblin). 
 
-![Expected Net Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/goblin_net.png)
+![Expected Net Rounds To Kill A Goblin](http://alchemical-lich.github.io/images/goblin_net.png)
 
 Cairn stays flat (by design), while Cairn with SB advancement sees a bit of improvement over levels, because the slightly higher HP and STR increase the survivability in this variant. It is striking though that Cairn Fighters do not remain far ahead of a goblin no matter the level, i.e., goblins remain a serious threat throughout. In contrast, a Fighter in BX, 5e, and DCC will face close to zero risk from fighting a goblin after level 1 or 2.
 
@@ -78,7 +78,7 @@ Again, it is striking how closely a 5e Fighter tracks the classic BX Fighter.
 Looking at the Owlbear, we see a similar pattern in terms of PC damage outputL Cairn and DCC Warriors have high damage output relative to monster HP and stay ahead of BX and 5e.
 
 
-![Expected Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/owlbear_rounds.png)
+![Expected Rounds To Kill A Goblin](http://alchemical-lich.github.io/images/owlbear_rounds.png)
 
 
 
@@ -86,7 +86,7 @@ In terms of net outcomes, Owlbears are likely to kill a single Fighter until abo
 
 A standard Cairn Fighter is always expected to lose against an Owlbear. A Cairn Fighter with advancement will have a chance against an Owlbear after around six advancements.
 
-![Expected Net Rounds To Kill A Goblin](http://theophrastus-b0mbastus.github.io/images/owlbear_net.png)
+![Expected Net Rounds To Kill A Goblin](http://alchemical-lich.github.io/images/owlbear_net.png)
 
 
 
