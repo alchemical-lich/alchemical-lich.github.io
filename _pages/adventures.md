@@ -51,5 +51,10 @@ A Dirty Dozen-style fantasy civil war campaign.
 ## The Pilgrimage of St. Berthold
 A larger OSR destination crawl.
 
+
+<img src="http://alchemical-lich.github.io/images/pilgrimage.png"  width="65%" >
+
+
+
 ## The Golden Gate of Kerguz
 A CY_BORG Campaign.
