@@ -52,7 +52,7 @@ A Dirty Dozen-style fantasy civil war campaign.
 A larger OSR destination crawl.
 
 
-<img src="http://alchemical-lich.github.io/images/pilgrimage.png"  width="65%" >
+<img src="http://alchemical-lich.github.io/images/pilgrimage.png"  width="85%" >
 
 
 
