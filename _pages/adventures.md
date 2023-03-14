@@ -48,6 +48,9 @@ While not exactly happening at the right time, this adventure can be embedded in
 ## Behemoth
 A Dirty Dozen-style fantasy civil war campaign.
 
+<img src="http://alchemical-lich.github.io/images/war.png"  width="85%" >
+
+
 ## The Pilgrimage of St. Berthold
 A larger OSR destination crawl.
 
