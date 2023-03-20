@@ -40,7 +40,7 @@ A Level 5 OSE hexcrawl adventure.
 
 While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War and combined with modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, and Castle Xyntillan:
 
-<img src="http://alchemical-lich.github.io/images/HRE_Map.png"  width="65%" >
+<img src="http://alchemical-lich.github.io/images/HRE_Map_old.png"  width="65%" >
 
 
 
