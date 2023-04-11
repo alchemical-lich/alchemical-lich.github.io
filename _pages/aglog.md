@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Alchemical GLoG**
+
 Here is a little hack of [Relic](https://lonely-adventurer.itch.io/relic-v3). A lot of the text is based on [Relic](https://lonely-adventurer.itch.io/relic-v3) and Skerples [Many Rats on Sticks](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html). I tweaked character generation, advancement, combat maneuvers and critical effects (tied to gear), and removed Vancian casting. It retains the basic structure of B/X or AD&D and you should be able to easily use content from these games.
 
 [Core Rules](https://alchemical-lich.github.io/aglog-rules/)
