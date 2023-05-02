@@ -39,7 +39,7 @@ A Level 5 OSE hexcrawl adventure.
 <img src="http://alchemical-lich.github.io/images/bergkessel_old.png"  width="65%" >
 
 
-While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War. The map below is an example, liberally combining different geographies and cities into a larger adventuring region. You can locate other modules on the map and knit together a sandbox full of adventure pretty easily. Consider modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, Death Frost Doom, Better Than Any Man, Falkrest Abbey, The Isle, Kidnap the Archpriest, and Castle Xyntillan:
+While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War. The map below is an example, liberally combining different geographies and cities into a larger adventuring region. You can locate other modules on the map and knit together a sandbox full of adventure pretty easily. Consider modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, Death Frost Doom, No Rest for the Wicked, Falkrest Abbey, The Isle, Kidnap the Archpriest, and Castle Xyntillan:
 
 <img src="http://alchemical-lich.github.io/images/HRE_map_old.png"  width="65%" >
 
