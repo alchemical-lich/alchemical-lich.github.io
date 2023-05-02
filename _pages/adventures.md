@@ -39,13 +39,18 @@ A Level 5 OSE hexcrawl adventure.
 <img src="http://alchemical-lich.github.io/images/bergkessel_old.png"  width="65%" >
 
 
-While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War and combined with modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, and Castle Xyntillan:
+While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War. The map below is an example, liberally combining different geographies and cities into a larger adventuring region. You can locate other modules on the map and knit together a sandbox full of adventure pretty easily. Consider modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, Death Frost Doom, Better Than Any Man, Falkrest Abbey, The Isle, Kidnap the Archpriest, and Castle Xyntillan:
 
 <img src="http://alchemical-lich.github.io/images/HRE_map_old.png"  width="65%" >
 
+Factions that could be active in the area include:
 
-
-
+  - The Catholic League and the Archbishop of Wuerzburg
+  - King Gustav of Sweden and Protestants in the region
+  - A Mercenary Company: *Mentzer's Irregulars*
+  - A Mercantile concern: *Handelshaus von Bodeck* and the *Hammelburg Waffenwerke* as a center of weapons manufacturing under the leadership of *Familie Klee*.
+  - A secret group of occultists: The *Hermetische Kristallbund*. Led by Johannes Keppler.
+  
 ## Behemoth
 A Dirty Dozen-style fantasy civil war campaign.
 
