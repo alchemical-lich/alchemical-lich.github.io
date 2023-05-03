@@ -45,7 +45,7 @@ While not exactly happening at the right time, this adventure can be embedded in
 
 Factions that could be active in the area include:
 
-  - The Catholic League and the Archbishop of Wuerzburg
+  - The Catholic League and the Archbishop of Würzburg
   - King Gustav of Sweden and Protestants in the region
   - A Mercenary Company: *Mentzer's Irregulars*
   - A Mercantile concern: *Handelshaus von Bodeck* and the *Hammelburg Waffenwerke* as a center of weapons manufacturing under the leadership of *Familie Klee*.
