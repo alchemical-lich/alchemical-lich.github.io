@@ -323,11 +323,11 @@ Recovering from a single **Wound** takes a varying amount of time.
 # NPCs
 
 ## NPC Skills
-Some NPCs have specialty skills and professional training. Generally, it is probably easiest to just give an NPC a **threat rating** (0 untrained; 1 trained; 2 professional; 4 veteran; 5 world-class) that can be applied generally. 
+Some NPCs have specialty skills and professional training. Generally, it is probably easiest to just give an NPC a **threat rating** (0 untrained; 1 trained; 2 professional; 3 veteran; 4 world-class) that can be applied generally. 
 
 In contested tests, adjust the DR for the PC by the skill rating of the NPC. This applies to combat tests as well. Examples: A PC is trying to defend against an attack by an NPC with a particular skill in melee. Instead of using the normal DR12, adjust the DR up by the skill rating of the NPC.
 
 ## NPC Health
-Enemies die on zero HP and cannot incur wounds.
+Enemies die on zero HP and cannot incur wounds unless. Optionally, for special enemies, use their threat rating -1 to determine how many wounds they can take before they die.
 
 
