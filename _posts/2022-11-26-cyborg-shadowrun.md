@@ -328,6 +328,6 @@ Some NPCs have specialty skills and professional training. Generally, it is prob
 In contested tests, adjust the DR for the PC by the skill rating of the NPC. This applies to combat tests as well. Examples: A PC is trying to defend against an attack by an NPC with a particular skill in melee. Instead of using the normal DR12, adjust the DR up by the skill rating of the NPC.
 
 ## NPC Health
-Enemies die on zero HP and cannot incur wounds unless. Optionally, for special enemies, use their threat rating -1 to determine how many wounds they can take before they die.
+Enemies die on zero HP and cannot incur wounds. Optionally, for special enemies, use their **threat rating-1** to determine how many wounds they can take before they die.
 
 
