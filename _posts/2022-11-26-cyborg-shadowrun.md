@@ -99,7 +99,8 @@ Adding skill ratings increases the range of modifiers from -3 to +7. This makes 
 | Unarmed Combat  | Strength|
 | Outdoors  | Toughness| 
 | Melee        | Strength   |
-| Ranged Weapons | Agility|
+| Ranged Weapons | Presence|
+| Automatic Weapons | Agility|
 | Nanopowers | Presence |
 | *Knowledge and Language Skills* |Knowledge|
 
@@ -164,14 +165,14 @@ Here are some additional powers:
 
 | **Power** | **Effect**|
 |-----------|------------|
-| **Read Thoughts**| Target tests Presence 14 to resist. Reveals 1-2 important pieces of information. |
-| **Suggest**  | Target has to test Presence 16 or be swayed by the suggestion.     |
+| **Read Thoughts**| Target tests Presence DR14 to resist. Reveals 1-2 important pieces of information. |
+| **Suggest**  | Target has to test Presence DR16 or be swayed by the suggestion.     |
 | **Dominate** | Target has to test Presence DR10 or fall under the command of the user for 1d6 minutes. Commands that but the target into serious danger cause, trigger another Presence test.     |
 | **Stun** | Target has to test Presence DR12 or be stunned for 1d4 rounds. Target can test again on subsequent turns to end the condition.   |
-| **Silence**| Enforce silence on a circular area with a 10 m radius.    |
-| **Change Face**| Change your face for 1d6 hours.  |
+| **Silence**| Enforce silence on a circular area with a 10 m radius for 10 minutes.    |
+| **Change Face**| Change your physical appearance for 1d6 hours.  |
 | **Cloak**| Become invisible and cloaked from visual sensors for 1d6 minutes. +/- 2 on all attack and defense tests.   |
-| **Fly**| Gain the ability to fly at your regular speed for 1d6 X 10 minutes.   |
+| **Fly**| Gain the ability to fly at half your regular speed for 1d6 X 10 minutes.   |
 | **Summon Aberration**| Summon a mutated beast with the stats of a **Warg** (p.100) for 1d6 hours. The creature will obey your commands. If you die or become unconscious, the create will 1--3 vanish or 4--6 attack the nearest target.  |
 
 
@@ -330,39 +331,3 @@ In contested tests, adjust the DR for the PC by the skill rating of the NPC. Thi
 Enemies die on zero HP and cannot incur wounds.
 
 
-# Alternative Task Resolution
-If you find the D20 vs DR12 too swingy and unreliable for the fiction of competent operators, here is a sketch for an alternative task resolution system, based on WNN/Traveller. 
-
-First, base attribute bonuses have to be adjusted to keep the total bonus including skills reasonable. 
-
-|**3D6 Roll** | **Revised Attribute Modifier**|
-|---------|---------------------------|
-|   3      |    -2                       |
-|   4--7      |    -1                       |
-|   8--13      |    +0                       |
-|   14--17      |    +1                       |
-|   18      |    +2                       |
-
-
-Skills now range from **Untrained** to **Master-4**.
-
-|**Skill Rating** | **Modifier**|
-|---------|---------------------------|
-|   Untrained      |     -1           |
-|   Trained      |     +0           |
-|   Expert-1      |     +1           |
-|   Expert-2      |     +2           |
-|   Master-3      |     +3           |
-|   Master-4      |     +4           |
-
-
-The standard DC on the game is now **DR8**. An untrained, average person (total -1 modifier) has a success probability of 27% but an average trained person (total +0) has a 42% chance of success. A total modifier of +2 raises this to 58%. This makes trained experts more competent compared to untrained characters and provides diminishing marginal returns for additional skill increases. 
-
-
-|**DC** | **Difficulty**|
-|---------|---------------------------|
-|     6    |       Easy               |
-|     8    |       Average            |
-|     10    |      Difficult          |
-|     12    |      Formidable         |
-|     12+    |     Impossible         |
