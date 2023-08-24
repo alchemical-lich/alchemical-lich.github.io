@@ -34,7 +34,14 @@ Work-in-progress...
 
 
 ## The Vile Tale of Christman Grippertenius
-A Level 5 OSE hexcrawl adventure.
+> “Die erst von dem Erschrocklichen Mörder Peter Nirschen/ wie er gericht und was er bekennt hat/ In dem 1581. Jahr zu Nüwen Marckt den 16. Septembris. Im Thon/ Es geht ein frischer Sommer daher. Die ander von einem Mörder Christman Gniperdoliga genannt/ welcher von seiner jugendt auff 964. Mörd gethan hat/ Im Thon Hilff GOtt das mir gelinge ...”
+>
+> _Dreyerley Neüwezeitung. in Gesangweiß_ [Link](https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00033564)
+
+
+This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. May they rot in hell.
+
+This is a **Level 3-6** **DCC/OSR** adventure for an intrepid band of adventurers. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_old.png"  width="65%" >
 
@@ -65,5 +72,5 @@ A larger OSR destination crawl.
 
 
 
-## The Golden Gate of Kerguz
-A CY_BORG Campaign.
+## The Golden Gate of Batak Kala
+A CWN/Shadowrun Campaign.
