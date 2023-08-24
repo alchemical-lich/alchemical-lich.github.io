@@ -16,7 +16,7 @@ Here is a little hack of [Relic](https://lonely-adventurer.itch.io/relic-v3). A 
 
 **Alchemical GLoG Cairn-ified**
 
-If you want to see a mash-up of [Relic](https://lonely-adventurer.itch.io/relic-v3) and [Cairn](https://cairnrpg.com/), Runecairn, and Into the Odd, look to further. Important rule changes from Relic include replacing to-hit rolls with a single attack/damage roll, similar to Cairn and ItO. The attack roll is based on weapon damage dice and attribute bonuses. Different from ItO/Cairn, there is some inherent damage scaling through improving attribute scores and an extra attack feature, which makes it more similar to standard D&D than Cairn or ItO. There are also weapon-based maneuvers. It combines the quickness of the single attack roll, with the leveling- and power-scaling of standard B/X clones, and the class-flexibility of a GLoG.
+If you want to see a mash-up of [Relic](https://lonely-adventurer.itch.io/relic-v3) and [Cairn](https://cairnrpg.com/), Runecairn, and Into the Odd, look no further. Important rule changes from Relic include replacing to-hit rolls with a single attack/damage roll, similar to Cairn and ItO. The attack roll is based on weapon damage dice and attribute bonuses. Different from ItO/Cairn, there is some inherent damage scaling through improving attribute scores and an extra attack feature, which makes it more similar to standard D&D than Cairn or ItO. There are also weapon-based maneuvers. It combines the quickness of the single attack roll, with the leveling- and power-scaling of standard B/X clones, and the class-flexibility of a GLoG.
 
 This version also has only four main attributes: Strength, Dexterity, Wits, Personality (and Luck).
 
