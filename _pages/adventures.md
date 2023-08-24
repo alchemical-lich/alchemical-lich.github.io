@@ -39,6 +39,9 @@ Work-in-progress...
 > _Dreyerley Neüwezeitung. in Gesangweiß_ [Link](https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00033564)
 
 
+<img src="http://alchemical-lich.github.io/images/Admirable_Discovrs_D'vn_Brigand_Nomme_Christeman.jpg"  width="65%" >
+
+
 This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. May they rot in hell.
 
 This is a **Level 3-6** **DCC/OSR** adventure for an intrepid band of adventurers. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
