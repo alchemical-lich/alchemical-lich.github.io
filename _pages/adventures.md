@@ -72,5 +72,5 @@ A larger OSR destination crawl.
 
 
 
-## The Golden Gate of Batak Kala
+## The Golden Gate of Batara Kala
 A CWN/Shadowrun Campaign.
