@@ -7,7 +7,10 @@ main:
     url: /adventures/
   
   - title: "Alchemical GLoG"
-    url: /aglog/    
+    url: /aglog/
+
+  - title: "Arden Vul"
+    url: /arden-vul/    
 
   
 
