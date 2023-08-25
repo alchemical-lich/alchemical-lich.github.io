@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my little ttRPG workshop. It's more of a personal repository of adventure-related odds and ends. Feel free to poke around!
+This is my little ttrpg workshop. It's more of a personal repository of adventure-related odds and ends. Feel free to poke around!
