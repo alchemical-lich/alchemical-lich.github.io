@@ -11,7 +11,7 @@ I started playing in an Arden Vul campaign and this is where I keep my notes.
 ## PCs
 
 - Boris "Der Bergfuchs" Hornbeisser. Kämpfer-3.
-- Haakon Horbeisser. Kleriker-1
+- Haakon Hornbeisser. Kleriker-1
 
 ## Session 1
 
