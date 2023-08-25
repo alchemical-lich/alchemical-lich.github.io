@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign'
+title: 'HRE Campaign Session 3'
 date: 2023-08-15
 permalink: /posts/2023/08/hre-campaign/
 tags:
@@ -8,9 +8,7 @@ tags:
 ---
 
 
-**9/20/1631**:
-
-The PCs go to a deeper level of the catacombs, finding sealed tombs of members of the Carr family, some of which are protected by ancient magical runes.
+**9/20/1631**: The PCs go to a deeper level of the catacombs, finding sealed tombs of members of the Carr family, some of which are protected by ancient magical runes.
 
 They recover a fragment of a Wolf Head amulet from the tomb of Perewin Carr. In the same chamber, the PCs recover another book, bound in human skin and written in Latin.
 

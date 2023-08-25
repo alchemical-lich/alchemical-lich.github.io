@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign'
+title: 'HRE Campaign Session 4'
 date: 2023-08-22
 permalink: /posts/2023/08/hre-campaign/
 tags:
@@ -8,9 +8,7 @@ tags:
 ---
 
 
-**9/21/1631**:
-
-Wolfgang, Tatiana, Myreg, and Authlbert delve into the Roman catacombs. Tatiana sacrifices her life to protect the others from a fire trap. She perishes in the flame gust.
+**9/21/1631**: Wolfgang, Tatiana, Myreg, and Authlbert delve into the Roman catacombs. Tatiana sacrifices her life to protect the others from a fire trap. She perishes in the flame gust.
 
 The groups burns poisonous fungus to access undisturbed grave niches. They recover treasure.
 They find the tomb of the architect. The wizard Boltan Raureif is looking for the architect's skull. The door is protected by a curse rune.
