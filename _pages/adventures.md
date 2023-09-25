@@ -68,7 +68,7 @@ A Dirty Dozen-style fantasy civil war campaign.
 
 
 ## The Pilgrimage of St. Berthold
-A larger OSR destination crawl.
+A larger OSR destination crawl inspired by the Camino de Santiago.
 
 
 <img src="http://alchemical-lich.github.io/images/pilgrimage.png"  width="85%" >
