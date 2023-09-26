@@ -1,6 +1,6 @@
 ---
-title: 'HRE Campaign Session 7'
-date: 2023-09-05
+title: 'HRE Campaign Session 8'
+date: 2023-09-12
 permalink: /posts/2023/09/hre-campaign/
 tags:
   - Bruckstadt
