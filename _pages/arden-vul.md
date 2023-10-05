@@ -172,3 +172,76 @@ or the consequences shall be severe!"
 - Steinerner Altar im Raum, hoert sich hohl an. Eine Giftnadel tötet Goffel. Finden einen Beutel mit Rubinen (1,000 gp) und ein Abzeichen (silbernes Herz, intime Verbindung zwischen zwei Leuten, einseitige Kommunikation). Treffen den alten Mann, der ein verwirrter Paladin ist (und wohl sehr alt, über 200 Jahre).
 
 - Finden eine Geheimtür im Blutmückenraum: Drinnen 4 Pavian-Skelette und ein humanoides Skelett. Die erledigen wir schnell und finden eine weitere Geheimtür. Finden zwei Tische mit goldenen Altarwaren (25 lbs Candelabra 400gp, 3 Kelche 300 total, 2 Teller 200 total, 1 Weihrauchschwenke 150, Toth statue 1000 gp), kleines Köfferchen mit Geld (552 sp).
+
+## Session 8: Boris
+
+- Ahriman und Boris wollen Arden Vul oberirdisch erkunden.
+
+- Im Nordwesten gibt es ein Langhaus, Kronos vermutet, da kommen die Ghule wirklich her.
+
+- Wir laufen zuerst an der Pyramide vorbei, zum quadratischen Vorplatz.
+
+- Die Wachen am Nordtor heissen Elster und Olaf. Es gibt noch zwei mehr Wachen--Artstar (?) hat einen Heiltrank, falls es Probleme gibt.
+
+- Boris bricht bei einer Grasknolle bis zum Knie ein und 6 Hundertfüssler greifen an. Boris und Ahriman erschlagen sofort 3. Ahriman wird gebissen, aber das Gift hat keinen Einfluss. Ahriman und Boris schlagen den Rest tot. 
+
+- Wir kommen am Vorplatz der Pyramide an. Auf der Ostseite steht ein Turm, 40 Fuss Kantenlänge, 55 Fuss hoch. Zum Platz hin gibt massive Bronzetüren. Es gibt auch noch Hausruinen im Nordwesten. Mehrere grosse Bäume stehen am Platz (ein uralter Eichenbaum und majestätische Ahornbäume). 
+
+- Wir schauen uns die Hausruine zuerst an. Wir suchen eine Stunde und finden eine verschüttete Stiege. Wir zwängen uns die Stiege herab. Unten finden eine enge Treppe, die sich in die Tiefe windet. Es dauert etwa 2.6 Stunden bevor wir am Ende der Treppe ankommen.
+
+- Am Ende sind die Treppen Teil eines Turmes. Wir finden einen 50 Fuss langen Gang mit einer Tür. Wir hebeln die Tür aus. Dahinter ein Raum, 30x30 Fuss. Es gibt sehr viele, gut erhaltene Wandmalereien. Mitten im Raum steht ein Holztisch mit Hockern. In der Ecke, ein Kleiderständer mit einem altmodischen Plattenpanzer (**Imperial Field Plate**).
+  
+  - Die Wandmalereien zeigen Menschen in Legionärsrüstungen, die Arbeiter überwachen.
+  
+  - **Imperial field plate** conveys a bonus of 8 to armor class (i.e.,
+it is AC 2); what is more, due to the ancient smithing technique,
+these suits weigh only 30 lb, are only fairly bulky, and have a base
+movement of 90’.
+
+- Wir finden einen weiteren Raum/breiten Korridor mit Statuen. Vier 6 Fuss-grosse Bronzestatuen. Die Statuen sehen aus wie Arbeiter: ein Goblin, 2 Menschen, ein Steinmetz. Die Doppeltür im Osten sieht unglaublich fantastisch aus: aus schwarzen Obsidian und mit Symbolen verziert. Es gibt viele Verschlussmechanismen. Die Statuen sind aus einem Guss, scheinen nicht drehbar zu sein. Boris hört eine Stimme vom Obsidiantor: ein Halbling? Mehrere Goblins die lachen, ein Goblin spricht, eine sehr tiefe Stimme. Boris lauscht weiter an der Tür:
+
+  - "grosser Varumani, wir werden euch Ersatz beschaffen"
+  - "Der Halbling weiss nix"
+  - Goblins sagen, die haben einen Folterexperten, Aguawere (?)
+  - Man hört auch eine Frau aufheulen.
+  - Varumani sagt, der will nix von den Gefangengen wissen. "Wo sind die Bravos, die zur Arena sollen?"
+
+- Boris hat das Gefühl, das Tor kann mit Willenskraft geöffnet werden.
+
+- Boris versucht mit der Frau und dem Halbling auf der anderen Seite zu kommunizieren. Er hört vier Schläge gegen Metall. 
+
+- Boris öffnet die Tür und entdeckt einen grossen Raum mit hängenden Käfigen, ein Tisch mit Folterwerkzeug, Ankettmöglichkeiten an der Westwand (in den Ketten hängen eine Frau und ein Halbling). Weiter im Osten hört man ein ganzes Nest von Goblins. Wir sehen auch vier Goblins, die die Gefangenen bewachen.
+
+- Ahriman zaubert Silence und wir erschlagen die drei Goblinwachen im Norden. Wir erschlagen auch sofort den Goblin mit dem Langschwert.
+
+- Wir sehen in der grossen Halle über 50 Goblins. Hier hält der Goblinkönig Hof. Der Raum hat auch zwei Ebenen, man sieht Brücken.
+
+- Viele Gefangene hier sind zu sehen: ein Elf, Halbling, Vikinger, eine Frau, Echsenmensch, Froschmensch, ein stattlicher Goblin, Beastman. Wir töten die gefangenen Goblins und befreuen den Rest.
+
+- Wir fliehen mit den Gefangenen zurück durch die seltsame Obsidiantür:
+  
+  - **Elena**, 4th-level female Archontean paladin of Ardenia Tessaeron
+  
+  - **Carloman Fleetfingers**, 3rd-level male halfling fighter, associate of Phlebotomas
+  
+  - **Perrilk**, a lizardman and the son of Chief Sgraal.
+  
+  - **Narbo**, 4th-level male elven magic-user. Er vermisst sein Zauberbuch.
+  
+  - 1 **heqeti hopper** / Froschmann. Gross und stark, etwas langsam.
+  
+  - **Garoli der Ziegenmann**. Der möchte zurück zur grossen Mutter aller Beastmen (Deino). Er weiss die Halblinge mögen die Beastmen nicht.
+  
+  - Der Vikinger heisst **Lake**, ist aus Elredd. Hat sich in Tazzelingen verspekuliert und wurde in die Schuldsklaverei verkauft.
+  
+- Der Elf war überrascht, das wir das kleine Obsidiantor öffnen konnten. Vielleicht können wir auch das grosse Tor öffnen? 
+
+- Wir bergen zwei der Bronzestatuen.
+
+- Wir prüfen noch kurz die Tür im Westen, die führt zu einer Sackgasse.
+
+- Der Elf sagt uns wir haben den Halbbrüder des Goblinkönigs umgebracht (Purbrin?).
+
+- Die Händler bieten 750 gp pro Statue an = 1,500 gp.
+
+- Die Rüstung ist 5,000 gp und xp wert. 
