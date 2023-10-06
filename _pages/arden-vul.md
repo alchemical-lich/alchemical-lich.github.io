@@ -5,7 +5,7 @@ permalink: /arden-vul/
 author_profile: true
 ---
 
-Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hornbeisser zu den Ruinen von Arden Vul [Campaign Page](https://campaignwiki.org/wiki/Die_Wilde_Gestade/Arden%20Vul).
+Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hornbeisser zu den Ruinen von Arden Vul ([Campaign Page](https://campaignwiki.org/wiki/Die_Wilde_Gestade/Arden%20Vul)).
 
 
 
