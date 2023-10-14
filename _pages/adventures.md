@@ -53,13 +53,32 @@ While not exactly happening at the right time, this adventure can be embedded in
 
 <img src="http://alchemical-lich.github.io/images/HRE_map_old.png"  width="65%" >
 
-Factions that could be active in the area include:
+Campaign hook:
 
-  - The Catholic League and the Archbishop of Würzburg
-  - King Gustav of Sweden and Protestants in the region
-  - A Mercenary Company: *Mentzer's Irregulars*
-  - A Mercantile concern: *Handelshaus von Bodeck* and the *Hammelburg Waffenwerke* as a center of weapons manufacturing under the leadership of *Familie Klee*.
-  - A secret group of occultists: The *Hermetische Kristallbund*. Led by Johannes Keppler.
+The PCs are part of a mercenary company that was routed at the *Battle of Magdeburg*. The leading officers of the Company have been killed or captured--the PCs are now in charge. Time to re-group, re-build, acquire a new base of operations, and get back into action. New characters joining are stragglers of the *Battle of Magdeburg*, having made their way to the current group's location with some delay or fresh recruits, ready to risk their meager lives for some coin.
+
+
+Other **factions** that are active in the area include:
+
+  - **The Catholic League** and the **Archbishop of Würzburg**.
+    
+    - Maneuvering to weaken Protestant Lords and cities. Hunting for heretics. Securing Catholic reliquaries. 
+  
+  - **King Gustav of Sweden** and Protestants in the region
+    
+    - Wants to weaken the Catholic Lords, establish a new Emperor for the HRE, take control of the lands owned by the Church and its monasteries.
+    
+  - A Mercenary Company: **Mentzer's Irregulars**
+  
+    - A rival company for the PCs. There is bad blood and a history of betrayal. The Irregalurs will take any job, no matter the employer...
+    
+  - A Mercantile concern: **Handelshaus von Bodeck** and the **Hammelburg Waffenwerke** as a center of weapons manufacturing under the leadership of **Familie Klee**.
+  
+    - Profit over people. Foment conflict in the region to drum up sales. Acquire new weapon technology and raw materials. Sabotage competitors. An early example of cut-throat capitalism. They do not care of established guilds, the lords of the realm, or the Church. They see markets and capital as the new organizing forces of the world.
+    
+  - A secret group of occultists: The **Hermetische Kristallbund**. Led by Johannes Keppler. Other members include John Dee, Giordano Bruno, Heinrich Cornelius Agrippa, and Nostradamus. In the 17th century, the second generation of leaders include Sir Isaac Newton (using his control over the Bank of England to further the Bund's goals), Jacob Bruce, Arthur Dee, and older/undead members under newly assumed names.
+  
+    - They are searching for the *Philosopher's Stone*--a metaphor for self-perfection but also an actual instruction manual for achieving eternal life through lichdom. The Kristallbund is looking for pacts with extraplanar entities, placing members into positions of power at various academies and courts. They are actively searching for powerful magical relics. No friends of organized religion. 
   
 ## Behemoth
 A Dirty Dozen-style fantasy civil war campaign.
