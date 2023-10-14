@@ -74,7 +74,7 @@ Other **factions** that are active in the area include:
     
   - A Mercantile concern: **Handelshaus von Bodeck** and the **Hammelburg Waffenwerke** as a center of weapons manufacturing under the leadership of **Familie Klee**.
   
-    - Profit over people. Foment conflict in the region to drum up sales. Acquire new weapon technology and raw materials. Sabotage competitors. An early example of cut-throat capitalism. They do not care of established guilds, the lords of the realm, or the Church. They see markets and capital as the new organizing forces of the world.
+    - Profit over people. Foment conflict in the region to drum up sales. Acquire new weapon technology and raw materials. Sabotage competitors. An early example of cut-throat capitalism. They do not care for established guilds, the Lords of the Realm, or the Church. They see markets and capital as the new organizing forces of the world.
     
   - A secret group of occultists: The **Hermetische Kristallbund**. Led by Johannes Keppler. Other members include John Dee, Giordano Bruno, Heinrich Cornelius Agrippa, and Nostradamus. In the 17th century, the second generation of leaders include Sir Isaac Newton (using his control over the Bank of England to further the Bund's goals), Jacob Bruce, Arthur Dee, and older/undead members under newly assumed names.
   
