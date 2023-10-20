@@ -33,7 +33,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Eine weitere Statue im Westen steht auf einem Podest, in sitzendender Position und Buch auf dem Schoss. Geplünderte Grabnischen im Gang.
 
-- Wir haben mehrere Fallen ausgelöst, die die Statue umgeben: zwei Pit traps (Nord und Süd gang), im Ostgang eine Falltreppe, die 200 ft runter in einen neuen Raum führt. Da lebt ein Halbtroll (Gog). Gig ist recht freundlich und interessiert sich für was so los ist. Verrät, dass es an der Oberfläche einen grünen Drachen gibt.
+- Wir haben mehrere Fallen ausgelöst, die die Statue umgeben: zwei Pit traps (Nord und Süd gang), im Ostgang eine Falltreppe, die 200 ft runter in einen neuen Raum führt. Da lebt ein Halbtroll (Gog). Gog ist recht freundlich und interessiert sich für was so los ist. Verrät, dass es an der Oberfläche einen grünen Drachen gibt.
 
 - Es gibt wohl Ghule bei den Grabnischen.
 
@@ -44,7 +44,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Phlebotomas Plumthorn hat einen Lieutenant: Roskelli Winterblatt.
 
-- 3 neue Gäste im Gasthaus, nur leicht gerüstestet, die gucken komisch bei der Nennung von Phlebotomas.
+- 3 neue Gäste im Gasthaus, nur leicht gerüstest, die gucken komisch bei der Nennung von Phlebotomas.
 
 - Gerüchte:
   
@@ -198,7 +198,7 @@ it is AC 2); what is more, due to the ancient smithing technique,
 these suits weigh only 30 lb, are only fairly bulky, and have a base
 movement of 90’.
 
-- Wir finden einen weiteren Raum/breiten Korridor mit Statuen. Vier 6 Fuss-grosse Bronzestatuen. Die Statuen sehen aus wie Arbeiter: ein Goblin, 2 Menschen, ein Steinmetz. Die Doppeltür im Osten sieht unglaublich fantastisch aus: aus schwarzen Obsidian und mit Symbolen verziert. Es gibt viele Verschlussmechanismen. Die Statuen sind aus einem Guss, scheinen nicht drehbar zu sein. Boris hört eine Stimme vom Obsidiantor: ein Halbling? Mehrere Goblins die lachen, ein Goblin spricht, eine sehr tiefe Stimme. Boris lauscht weiter an der Tür:
+- Wir finden einen weiteren Raum/breiten Korridor mit Statuen. Vier 6 Fuss-grosse Bronzestatuen. Die Statuen sehen aus wie Arbeiter: ein Goblin, 2 Menschen, ein Steinmetz. Die Doppeltür im Osten sieht unglaublich fantastisch aus: aus schwarzen Obsidian und mit Symbolen verziert. Es gibt viele Verschlussmechanismen. Die Statuen sind aus einem Guss, scheinen nicht drehbar zu sein. Boris hört eine Stimme vom Obsidiantor: ein Halbling? Mehrere Goblins, die lachen, ein Goblin spricht, eine sehr tiefe Stimme. Boris lauscht weiter an der Tür:
 
   - "grosser Varumani, wir werden euch Ersatz beschaffen"
   - "Der Halbling weiss nix"
@@ -234,7 +234,7 @@ movement of 90’.
   
   - Der Vikinger heisst **Lake**, ist aus Elredd. Hat sich in Tazzelingen verspekuliert und wurde in die Schuldsklaverei verkauft.
   
-- Der Elf war überrascht, das wir das kleine Obsidiantor öffnen konnten. Vielleicht können wir auch das grosse Tor öffnen? 
+- Der Elf war überrascht, dass wir das kleine Obsidiantor öffnen konnten. Vielleicht können wir auch das grosse Tor öffnen? 
 
 - Wir bergen zwei der Bronzestatuen.
 
@@ -245,3 +245,34 @@ movement of 90’.
 - Die Händler bieten 750 gp pro Statue an = 1,500 gp.
 
 - Die Rüstung ist 5,000 gp und xp wert. 
+
+## Session 9: Boris
+
+Neue Gerüchte:
+
+  - Der Drache von Arden Vul verlangt einen Zoll und verbrennt alle die nicht zahlen.
+  
+  - Es gibt drei Thoth-Tempel in Arden Vul, einen davon kann man nur durch Teleportation und Flug erreichen. 
+  
+- Der Wachmann am Nordtor hat in der Nacht Fackellichter gesehen. Die Tiermenschen suchen etwas in den Ruinen.
+
+- Der Ziegenmann ist überrascht, dass Caroua sich nicht an die anderen Tiermenschen erinnern kann. Der will so schnell wie möglich zu seinen Kumpanen.
+
+- Am Eingang der Pyramide: wenn zwei Arme nach vorne zeigen, offenbart sich der Zugang zu den Halblingen. 
+
+- Wir bringen Carloman zurück und werden auf eine Audienz bei Phlebotomas eingeladen.
+
+- Wir werden durch eine Raum mit einer offenen Wand geführt, der an einen tiefen Spalt angrenzt. Drei grosse Steinsarkophage sind auch in dem Raum, die Deckel sind aber kaputt. Die sehen leer aus. Wir sehen eine Kiste. Phlebotomas und ein ausgemergelter Magiertyp (Blandweg) stehen hier. 6 weitere Halblinge und Roskelli sind auch da.
+
+- Der Südgang mit der Barriere ist da wegen den Goblins. Die Goblins sagen, dass ganze Gebiet gehört denen. 10 gp pro Kopf, 5 pro Ohr. Edelsteine für 200 gp für den König. Die Goblins vermehren sich ständig. Mir den Tiermenschen und den Untoten sind die nicht alliert. Es gibt wohl viele Untote im Norden. Phlebotomas zeigt uns auch den grossen Spalt. Der geht wohl ganz tief runter. Im Schacht gibt es viele Spinnen.
+
+- Der Set-Kult im Westen hat einen eigenen Ausgang, der zur Südklippe führt. Wenn man an der linken Seite des Wasserfalls hochklettert, gibt es geheime Eingänge nach Arden Vul. 
+
+- Hinter der Barriere finden wir drei leere Sarkophage. 
+
+- 7 Goblins greifen an. Die werden gleich erschlagen (=70 gp). 78 sp und ein Aquamarin (100gp). Finden eine Goblinbarrikade und einen Gang der 100 Fuss tiefer führt.
+
+- Der Krieg gegen die Goblin beginnt. 
+
+- Auf dem Rückweg treffen wir auf vier Skelette im Hauptraum. Ahriman verbannt die problemlos. Der Raum aus dem die Skelette kamen ist voll mit Müll. 
+
