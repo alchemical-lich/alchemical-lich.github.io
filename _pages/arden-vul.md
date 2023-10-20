@@ -276,3 +276,5 @@ Neue Gerüchte:
 
 - Auf dem Rückweg treffen wir auf vier Skelette im Hauptraum. Ahriman verbannt die problemlos. Der Raum aus dem die Skelette kamen ist voll mit Müll. 
 
+- Caroua spricht mit dem Ziegenmann Garoli am Abend. Deino lässt eine Pilzart an der Oberfläche suchen. Caroua ist wahrscheinlich während einer Mission verloren gegangen. Die Tiermenschen sind in einer Legion organisiert. Die Tiermenschen kann man im Süden unter der Pyramide finden. Südwesten an der Kreuzung und dann weiter nach Süden. Hinter der grossen Halle sind die Tiermenschenbarracken. Die Tierschamanen können vielleicht Caroua's Erinnerungen zurückbringen. 
+
