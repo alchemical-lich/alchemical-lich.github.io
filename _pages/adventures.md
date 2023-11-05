@@ -97,5 +97,4 @@ A larger OSR destination crawl inspired by the *Camino de Santiago*.
 ## The Golden Gate of Batara Kala
 A CWN/Shadowrun Campaign.
 
-<img src="http://alchemical-lich.github.io/images/COLLECTIE_TROPENMUSEUM_Wajangpop_voorstellende_Batara_Kala_TMnr_3582-69.jpg"  width="65%" >
 
