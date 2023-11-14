@@ -27,7 +27,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Hauptraum am Ende der Treppe: eine grosse Statue auf schwarzem Onyx.
 
-- Eine Halbling-Gang liegt hier uaf Lauer. Phlebotomas Plumthorn ist Anführer der Halblinge. Die wollen 25 GM einmalig und 10GM pro Sortie, + 10\% und wir müssen jeden 10. magischen Gegenstand abgeben.
+- Eine Halbling-Gang liegt hier auf Lauer. Phlebotomas Plumthorn ist Anführer der Halblinge. Die wollen 25 GM einmalig und 10GM pro Sortie, + 10\% und wir müssen jeden 10. magischen Gegenstand abgeben.
 
 - Die Halblinge wissen das im Westen eine Geheimtür ist, die die Set Anhänger benutzen.
 
@@ -49,17 +49,20 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 - Gerüchte:
   
   - Das alte Imperium hat Ardun Vul erobert und ausgebaut, aber es gab schon vorher Strukturen, insbesondere ein Obsidiantor. Das Tor konnte niemand öffnen oder divinieren.
+  
   - Es gibt wohl einen unterirdischen Trollmarkt in Arden Vul.
+  
   - Indizien von den Schafskopfrangern des alten Imperiums. Die haben versucht Arden Vul zurückzuerobern, aber das ist fehlgeschlagen. Der Anführer hiess Adrienic. Kontaktperson des Imperiums wäre vl interessiert an harten Beweisen zu deren Verbleib (Keko der Lahme).
+  
   - Es soll unterhalb von Arden Vul wohl noch eine sichere Taverne geben (aber nicht empfohlen zum übernachten).
 
-- Die Statue mit den Fallen östlich des Hauptraumes in der Pyramide öffnet eine Geheimtür: linker Arm geradeaus, rechter nach unten --> Geheimtür geht auf
+- Die Statue mit den Fallen östlich des Hauptraumes in der Pyramide öffnet eine Geheimtür: linker Arm geradeaus, rechter nach unten --> Geheimtür geht auf.
 
 - Wir finden einen grossen Raum, voll mit Toten (Menschen, Goblins, Tiermenschen) und einer zerbrochenen Statue.
 
 - Ein gefährlicher Schleim bewacht den Raum und versteckt sich in einem Pool. Wir finden ein **gelbes Tablett** im Pool (8 zoll quadratisch, magische aura).
 
-- Beim rausgehen sehen wir eine mechanische Libelle im Hauptraum. Die Libelle gehört **Kerbok Kahn**. Er spricht durch sie und will, dass wir sie nicht zerstören. Er verrät, dass es eine Geheimwand beim Geröll gibt.
+- Beim rausgehen sehen wir eine mechanische Libelle im Hauptraum. Die Libelle gehört **Kerbog Kahn**. Er spricht durch sie und will, dass wir sie nicht zerstören. Er verrät, dass es eine Geheimwand beim Geröll gibt.
 
 - Im Gasthaus treffen wir Dalton's Darlings (6 Leute). Da gibt es einen Zauberkundigen, **Helio Gabolus(?)**. Dalton ist sehr gutaussehend.
 
@@ -67,7 +70,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Torwachen sagen an einem Turm im Suedosten hat es einen erwischt, ein Geist hat zugeschlagen.
 
-- Beim Schliem entdecken wir den Zugang zum Set-Tempel entdeckt. Ein riesen Kampf bricht aus und mehrere Priester und Akolyten wurden von Meister Al getötet.
+- Beim Schleim entdecken wir den Zugang zum Set-Tempel entdeckt. Ein riesen Kampf bricht aus und mehrere Priester und Akolyten wurden von Meister Al getötet.
 
 - Die Eingangsstatue in der Pyramide ist wohl verbunden mit weiteren Mechanismen.
 
@@ -272,9 +275,49 @@ Neue Gerüchte:
 
 - 7 Goblins greifen an. Die werden gleich erschlagen (=70 gp). 78 sp und ein Aquamarin (100gp). Finden eine Goblinbarrikade und einen Gang der 100 Fuss tiefer führt.
 
-- Der Krieg gegen die Goblin beginnt. 
+- Der Krieg gegen die Goblins beginnt. 
 
 - Auf dem Rückweg treffen wir auf vier Skelette im Hauptraum. Ahriman verbannt die problemlos. Der Raum aus dem die Skelette kamen ist voll mit Müll. 
 
 - Caroua spricht mit dem Ziegenmann Garoli am Abend. Deino lässt eine Pilzart an der Oberfläche suchen. Caroua ist wahrscheinlich während einer Mission verloren gegangen. Die Tiermenschen sind in einer Legion organisiert. Die Tiermenschen kann man im Süden unter der Pyramide finden. Südwesten an der Kreuzung und dann weiter nach Süden. Hinter der grossen Halle sind die Tiermenschenbarracken. Die Tierschamanen können vielleicht Caroua's Erinnerungen zurückbringen. 
+
+## Session 10: Boris
+
+- Boris, Ahriman, Meister Al, Bruder Brock und Cedric sind auf dem Weg zum Tempel des Set Kultes, um eine vermisste Priesterin zu befreien.
+
+- Eine Statue im Ostteil muss manipuliert werden, um den Zugang zum Tempel zu offenbaren.
+
+- Beide Arme nach vorne, östliche Falltür geht auf.
+
+- Rechter Arm unten, linker Arm geradeaus: Geräusch.
+
+- Linker Arm unten, rechter Arm vorne: Falltür.
+
+- Links oben, rechts unten: kein Effekt.
+
+- Links oben, rechts oben: alle Falltüren.
+
+- Rechts oben, links unten: Falltür im Süden.
+
+- Ein Hebel im Nasenloch öffnet die Tür.
+
+- Tothstatuen hängen zusammen, Roskelli interessiert sich dafür. 
+
+- Kerbog Khan's Libelle beobachtet den Raum mit dem Schleim. Der verrät uns, dass die Hohepriesterin den Magier wiederbelebt hat.
+
+- Meister Al segnet Boris mit Stärke.
+
+- Wir umgehen die Speerfalle und bewegen uns auf den Wachraum zu.
+
+- Mit einer Glocke der Unverwundbarkeit und einem Feuerball wird der Set-Tempel angegriffen.
+
+- Web + Chromatic Spray stoppen mehrere Kultisten und unterbrechen den Flammenschlag der Hohepriesterin, Boris tötet ein paar paralysierten Kultisten und der Kampf ist gewonnen.
+
+- Ein überlebender Set-Priester wird von Cedric hypnotisiert. Er verrät, dass die Hohepriesterin ein Opfer zu Ehren Sets bringen wollten. Er gibt Preis, wo die Schätze des Tempels sind. Wir nehmen den Priester und den Dekan als Gefangene mit. 
+
+- Der Set-Magier Marius ist noch am (Un)-Leben.
+
+- Geborgene Schätze: Set-Rüstung (+2 Plattenpanzer, AC 0), Set Mace +2, rote Samtroben mit Bracers of Defence AC 5, Ring of Protection +2, Wand of Negation (12 charges), spezieller Set-Ring namens Sittas, Amulet of Proof against Detection, Potion of Extra Healing, Platin Set-Symbol (250 gp), Schlüsselring (SL 8/1 und 4/106), Set-Rüstung +2, Set Mace +3, Rod of Wind Control, Staff of Withering (15 charges), Pontifex Was Stick, Set-Ring namens Batzas, Necklace of Missiles (1 mal 7, 1 mal 5, 4 mal 3), Boots of the Ogre, Potion of Truthfulness, Potion of Deafening Light, Cleric scrolls (Hallow, Sun's Gift, Warding Chain of Glyphs), Platin Setsymbol (250gp), riesen Schlüsselbund (4-51A, 3-110, SL8-1, 4-106), Set Rüstung (+1) 2x, Dekan-Szepter (2x), 2x Mace +1, Mallet of Protection, Potion of Extra Healing, Potion of Glibness, Scroll of Curse, goldenes Set-Symbol (150gp) 2x, Schlüssel (3-89A), 150sp, goldene Krokodilstatuette (50g), 2xAquamarin (100gp), 2x silbernes Set-Symbol (10 gp).
+
+
 
