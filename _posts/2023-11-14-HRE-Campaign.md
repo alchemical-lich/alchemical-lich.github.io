@@ -9,7 +9,7 @@ tags:
 
 
 **9/27/1631**:
-9/27:
+
 - Straggling members of the Company, Zelphar and Bromely, make their way to Bruckstadt and join the others. Myreg briefs them on the local situation.
 - Zelphar, Bromely, and Yohann decide to scout the location of Castle Aarhorst--afterlal it was promised to the Company.
 - After a two hur hike, the see the ruin from a distance and spot a plume of smoke. Some bandits seem to have taken residence in the structure.
