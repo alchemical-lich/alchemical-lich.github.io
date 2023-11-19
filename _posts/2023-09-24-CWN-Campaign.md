@@ -26,6 +26,6 @@ They use Reiki's connection to Yolanda to lure her away on a proposed date at a 
 
 A short fire fight with the remaining store clerk and a guard dog ends in favor of the team. They advance down to the basement, accidentally triggering a shotgun trap. In the basement, they face-off with Vig, two gang members, and a summoned dogsbody spirit. McBain cuts through the enemies--*literally*--and the ghosts provide essential assistance. They are able to force Vig's surrender and secure 10 samples of the weed, the underlying botanical research, and some valuable lab gear. Before leaving, they set fire to the lab.
 
-Holding on to Vig and Deandre has hostages for the moment, they prepare to meet Mr. Johnson (for the first time!) for the exchange. Mr. Smith receives a text message from the Albanian mobster *Burja Kurti*--he would like to meet the team at noon at his strip club *Two Cups*...
+Holding on to Vig and Deandre as hostages for the moment, they prepare to meet Mr. Johnson (for the first time!) for the exchange. Mr. Smith receives a text message from the Albanian mobster *Burja Kurti*--he would like to meet the team at noon at his strip club *Two Cups*...
 
 
