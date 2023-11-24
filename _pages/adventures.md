@@ -24,6 +24,8 @@ Notes for a DCC hexcrawl, based on existing DCC modules, the DCC Aereth setting 
 
 <img src="http://alchemical-lich.github.io/images/aereth_hex_names_numbers.webp"  width="75%" >
 
+[DCC Tolomak Island Crawl Notes](https://alchemical-lich.github.io/dcc-tolomakcrawl/)
+
 
 
 ## The Crystal Grammaton of Xambaala--A WWN Sandbox
