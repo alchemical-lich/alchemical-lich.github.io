@@ -107,7 +107,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
   
   - Kerbok Khan ist ein Geist? Der sieht alles.
 
-- Gehen nochmal zu der Spinnenhalle. Gucken in einen Raum nördlich. Finden eine Feuerstelle mit einem Topf, Reisigbesen, sauber, aufeghängte Blutmücken und Ratten zum Essen. Finden einen magischen Dreifuss, Periapt, Schriftrollen, ein **grünes Glasquadrat**, **Ankhschlüssel**, Holzkiste/Schmuckschatulle, ein **goldenen Stab**.
+- Gehen nochmal zu der Spinnenhalle. Gucken in einen Raum nördlich. Finden eine Feuerstelle mit einem Topf, Reisigbesen, sauber, aufgehängte Blutmücken und Ratten zum Essen. Finden einen magischen Dreifuss, Periapt, Schriftrollen, ein **grünes Glasquadrat**, **Ankhschlüssel**, Holzkiste/Schmuckschatulle, ein **goldener Stab**.
 
 ## Session 5: Haakon
 
@@ -319,5 +319,48 @@ Neue Gerüchte:
 
 - Geborgene Schätze: Set-Rüstung (+2 Plattenpanzer, AC 0), Set Mace +2, rote Samtroben mit Bracers of Defence AC 5, Ring of Protection +2, Wand of Negation (12 charges), spezieller Set-Ring namens Sittas, Amulet of Proof against Detection, Potion of Extra Healing, Platin Set-Symbol (250 gp), Schlüsselring (SL 8/1 und 4/106), Set-Rüstung +2, Set Mace +3, Rod of Wind Control, Staff of Withering (15 charges), Pontifex Was Stick, Set-Ring namens Batzas, Necklace of Missiles (1 mal 7, 1 mal 5, 4 mal 3), Boots of the Ogre, Potion of Truthfulness, Potion of Deafening Light, Cleric scrolls (Hallow, Sun's Gift, Warding Chain of Glyphs), Platin Setsymbol (250gp), riesen Schlüsselbund (4-51A, 3-110, SL8-1, 4-106), Set Rüstung (+1) 2x, Dekan-Szepter (2x), 2x Mace +1, Mallet of Protection, Potion of Extra Healing, Potion of Glibness, Scroll of Curse, goldenes Set-Symbol (150gp) 2x, Schlüssel (3-89A), 150sp, goldene Krokodilstatuette (50g), 2xAquamarin (100gp), 2x silbernes Set-Symbol (10 gp).
 
+## Session 11: Boris
 
+Neue Gerüchte und Nachrichten:
 
+  - Der Mondrat von Elredd sucht Korbo Khan! Es handelt sich hierbei um den abtrünnigen Erzmagier Cerbactos Kalthetos, der aus der alten Zentralbibliothek unter anderem sechs Bänder geklaut hat. Deswegen:
+
+    - Harte beweise für den Ort, wo er sich versteckt hält, und eine Karte von der Umgebung seines Versteckes: 5000 Gold
+
+    - Jeder Codex, der geborgen wird, 1½× dessen Wert in Gold
+
+    - Die Gefangennahme des Erzmagiers und seine Auslieferung nach Elredd: 25 000 Gold und magische Gegenstände
+
+    - Ein Beweis für seinen Tod: 5000 Gold
+
+ - Lady Alexia Basileon sucht die vier Symbole der Königswürde, welche zur Zeiten der archontischen Kontrolle von Arden Vul berühmt waren, um ihre Unabhängigkeit von Elredd zu betonen. Es handelt sich dabei und die folgenden vier Dinge:
+
+    - Das eiserne Kopfband von Ghanor
+
+    - Der Knochenring von Jagri-Naz
+
+    - Der Ebenerz Speer
+
+    - Die Tafel der Leuchte
+    
+- Callista aus Tazzelingen ist in Arden Vul verschwunden.
+
+- Die Halblinge kochen irgendwas in den Tunneln. Ein Magier ist auch da. Der sieht aus wie ein Drogensüchtiger.Er heisst Blandweg (Alchemist).
+
+- Boris, Cedric, Bruder Brock und die angeheuerte Paladinin Elene gehen auf Goblinjagd. Wir stossen tiefer in die Gänge vor.
+
+- Wir finden eine Goblinbarrikade. Der Goblinkônig heisst Eskellig.
+
+- Wir sprechen kurz mit den Goblin und greifen aber an. 7 Goblins werden schnell erschlagen.
+
+- Die Gruppe dringt weiter vor und kämpft gegen eine Gruppe von 12 Goblins und zwei Echsen.
+
+- Boris und Bruder Brock töten die Echsenreiter und springen auf die Echsen!
+
+- Mehr Goblins machen Lärm tiefer im Gang.
+
+- Die Gruppe drängt nach vorne, ein Paralyse und Color Spray von Cedric legen viele Goblins lahm. Letzendlich werden Kilik Goldkragen und ein Goblin-Captain entführt und der Rest erschlagen.
+
+- Die zwei Echsen werden zu Kronos gebracht. Ein gefangener Goblin kümmert sich um die.
+
+ 
