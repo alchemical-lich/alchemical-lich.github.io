@@ -9,6 +9,7 @@ tags:
 
 
 **9/26/1631**: Prior excursion to the Keudel Mausoleum
+
 - Mad Tim, Sid, Magnus, and the hired retainer Meister Fritz explore the crypt under the Keudel family mausoleum.
 
 - Following the explorations of Gerenscer et al., they push deep into the secret temple of Joz'Quatl.
