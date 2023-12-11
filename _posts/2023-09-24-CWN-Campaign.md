@@ -1,7 +1,7 @@
 ---
 title: 'CWN Campaign Session 1+2'
 date: 2023-09-24
-permalink: /posts/2023/09/cwn-campaign/
+permalink: /posts/2023/09-24/cwn-campaign/
 tags:
   - Shadowrun
   - OSR

@@ -23,7 +23,6 @@ One of the PCs steps on a curse rune, ages and de-ages several years within the 
 
 - They find a passage to another part of the catacombs that lies between the first and their current level.
 
-
 - The other group continues their exploration of the Keudel's Mausoleum. Treasure is recovered and two strange slimes are destroyed, the brave Yosenfef dies.
 
 - They make it to a room with a large frog idol but don't have the time to fully search everything. A locked door remains untouched.

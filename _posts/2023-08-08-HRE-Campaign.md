@@ -7,6 +7,7 @@ tags:
   - OSR
 ---
 
+**September 18, 1631**:
 
 Another group belonging to the mercenary company arrives in Bruckstadt. They are pursuing a rumor about a golden toad idol hidden in the family crypt of the Keudel family.
 
