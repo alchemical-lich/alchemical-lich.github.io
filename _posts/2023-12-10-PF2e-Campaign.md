@@ -10,7 +10,7 @@ tags:
 
 **2 Pharast 4721**: Exploring the Gauntlight
 
-- The party circles Eastward around the **Gauntlight Ruins**. They make their way across a bit of swampy water to access a collapsed part of the Eastern wall. 
+- The party circles eastward around the **Gauntlight Ruins**. They make their way across a bit of swampy water to access a collapsed part of the Eastern wall. 
 
 - Through the wall, they encounter more Mitflits and a Mudflicker Maggot. The fight with the Gremlins attracts three more Mitflits from a room to the South. The party prevails. They find evidence of a large magical battle that occurred in the L-shaped hall. 
 
