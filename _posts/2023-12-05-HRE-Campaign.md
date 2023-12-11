@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**9/28**:
+**9/28/1631**:
 
 - Magnus, Sid, Authlbert, Mad Tim, Bromely, and Zelphas descend into the deepest level of the catacombs.
 
