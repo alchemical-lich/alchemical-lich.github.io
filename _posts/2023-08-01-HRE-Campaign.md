@@ -1,7 +1,7 @@
 ---
 title: 'HRE Campaign Session 1'
 date: 2023-08-01
-permalink: /posts/2023/08/hre-campaign/
+permalink: /posts/2023/08-01/hre-campaign/
 tags:
   - Bruckstadt
   - OSR
