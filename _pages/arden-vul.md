@@ -267,7 +267,7 @@ Neue Gerüchte:
 
 - Wir werden durch eine Raum mit einer offenen Wand geführt, der an einen tiefen Spalt angrenzt. Drei grosse Steinsarkophage sind auch in dem Raum, die Deckel sind aber kaputt. Die sehen leer aus. Wir sehen eine Kiste. Phlebotomas und ein ausgemergelter Magiertyp (Blandweg) stehen hier. 6 weitere Halblinge und Roskelli sind auch da.
 
-- Der Südgang mit der Barriere ist da wegen den Goblins. Die Goblins sagen, dass ganze Gebiet gehört denen. 10 gp pro Kopf, 5 pro Ohr. Edelsteine für 200 gp für den König. Die Goblins vermehren sich ständig. Mir den Tiermenschen und den Untoten sind die nicht alliert. Es gibt wohl viele Untote im Norden. Phlebotomas zeigt uns auch den grossen Spalt. Der geht wohl ganz tief runter. Im Schacht gibt es viele Spinnen.
+- Der Südgang mit der Barriere ist da wegen den Goblins. Die Goblins sagen, dass ganze Gebiet gehört denen. 10 gp pro Kopf, 5 pro Ohr. Edelsteine für 200 gp für den König. Die Goblins vermehren sich ständig. Mit den Tiermenschen und den Untoten sind die nicht alliert. Es gibt wohl viele Untote im Norden. Phlebotomas zeigt uns auch den grossen Spalt. Der geht wohl ganz tief runter. Im Schacht gibt es viele Spinnen.
 
 - Der Set-Kult im Westen hat einen eigenen Ausgang, der zur Südklippe führt. Wenn man an der linken Seite des Wasserfalls hochklettert, gibt es geheime Eingänge nach Arden Vul. 
 
@@ -345,7 +345,7 @@ Neue Gerüchte und Nachrichten:
     
 - Callista aus Tazzelingen ist in Arden Vul verschwunden.
 
-- Die Halblinge kochen irgendwas in den Tunneln. Ein Magier ist auch da. Der sieht aus wie ein Drogensüchtiger.Er heisst Blandweg (Alchemist).
+- Die Halblinge kochen irgendwas in den Tunneln. Ein Magier ist auch da. Der sieht aus wie ein Drogensüchtiger. Er heisst Blandweg (Alchemist).
 
 - Boris, Cedric, Bruder Brock und die angeheuerte Paladinin Elene gehen auf Goblinjagd. Wir stossen tiefer in die Gänge vor.
 
@@ -363,4 +363,23 @@ Neue Gerüchte und Nachrichten:
 
 - Die zwei Echsen werden zu Kronos gebracht. Ein gefangener Goblin kümmert sich um die.
 
- 
+## Session 12: Boris
+
+- Gruppe: Cedric, Bruder Brock, Elena, und Boris.
+
+- Wir treffen in der grossen Halle eine Gruppe Feuerkäfer, die aber glücklicherweise fliehen.
+
+- Die Anführerin der Tiermenschen heisst Deino (Hexe). Es gibt auch vier Herzoge der Tiermenschen: Count Skleros, Count Georgik, Count Nikeos. 
+
+- Die Tiermenschen fühlen sich als Nachfahren einer alten militärischen Expedition.
+
+- Wir übernachten bei den Halblingen und horchen die noch ein bisschen aus. Es gibt 23 Halblinge. Blandweg ist auf der Suche nach Arkanum, einem orange leuchtenden Stein. Der kann in Arden Vul gefunden werden. Das Archontische Reich ist in einem Bürgerkrieg untergegangen. Die Traditionalisten wollten, dass Magie nur unter starker Kontrolle benutzt werden darf. Die andere Fraktion, wollten Magie zugänglicher machen. Arden Vul hat eine Mine für Arkanum gehabt, die war von grossem Interesse im Bürgerkrieg.
+
+- Wir kämpfen wieder gegen Goblins an einer Barrikade. Die locken Boris sogar in eine Grubenfalle.
+
+- Wir schlagen uns weiter nach Süden und dann nach Osten vor, zum alten Rastplatz von Kilik.
+
+- Wir bergen eine Schatztruhe: 391 KM, 4187 SM, 553 GM, Holzstab mit Silber beschlagen (Szepter oder Schlüssel?), Armreif (magisch), diskusartiges Objekt (Metall) mit Glyphen (magisch).
+
+- Wir lernen der Goblinkönig sammelt Arkanum.
+
