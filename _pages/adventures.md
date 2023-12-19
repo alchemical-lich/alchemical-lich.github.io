@@ -46,7 +46,7 @@ Work-in-progress...
 
 This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. May they rot in hell.
 
-This is a **Level 3-6** **DCC/OSR** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
+This is a **Level 3-6** **OSE** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_old.png"  width="65%" >
 
