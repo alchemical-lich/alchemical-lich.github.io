@@ -18,7 +18,7 @@ tags:
 
 - Through another set of double doors, they enter a ramshackle throne room, ruled by one **Boss Skrawng**, the Mitflit leader. He is accompanied by three Mitflits and his pet spider Bite-Bite.
 
-- **Boss Skrawng** seems to be surprised by the heroes arrival. He implies that he hasn't even attacked the town yet, but still preparing his "grand plan"! 
+- **Boss Skrawng** seems to be surprised by the heroes arrival. He implies that he hasn't even attacked the town yet, but is still preparing his "grand plan"! 
 
 - After an attempt at peaceful resolution, violence ensues. **Boss Skrawng** poisons **Rizzard** and Bite-Bite takes several painful bites out of him. Some timely healing by **Arryn**, **Corbin** crushing a Mitflit skull with his new morningstar, **Zgaz** raging through the enemies, and **Rizzard** unleashing a powerful *Shocking Grasp* with his elven sword, brings a quick end to the gremlins. 
 
