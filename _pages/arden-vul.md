@@ -383,3 +383,23 @@ Neue Gerüchte und Nachrichten:
 
 - Wir lernen der Goblinkönig sammelt Arkanum.
 
+## Session 13: Boris
+
+- Boris, Cedric, Ahriman und Bruder Brock kehren zur großen Pyramide zurück. Von der Haupthalle ziehe sie nach Norden. Dort gibt es viele Gänge mit Untoten.
+
+- An einem Alter schwebt eine goldene Feder, die vor Untoten beschützt. Boris nimmt sich eine und steckt sie sich ins Haar.
+
+- Auf dem Weg durch die Gänge treffen wir auf eine Libelle von Kerbok Khan.
+
+- Er sagt uns, dass es durch die Katakomben ein Sprechgitter gibt, da kann man Waren gegen Informationen austauschen. Er will mechanische und magische Dinge.
+
+- Wir gehen eine Treppe runter zu den Howling Caves.
+
+- Wir finden einen Raum mit eingelassenem Glas, das eine Kompassrose darstellt. Vier Albinoaffen stürzen sich auf uns, aber Cedric benutzt Color Spray, um sie ausser Gefecht zu setzen.
+
+- Nach Westen, sehen wir eine seltsame Truhe und viele Leiche. Eine Gruppe an Ghulen zeight sich, aber Ahriman kann einige unter Kontrolle bringen. Wir efahren, dass die Truhe Untote anzieht, aber momentan von einem anti-magischen Feld übertönt wird.
+
+- Wir kämpfen gegen eine ganze Bande an Untoten: 12 Ghule, 4 Zombies und 6 Skelette. Alle dienen dem Ghul Jentris, den wir auch erschlagen.
+
+- Schatzfund: Kupfertorque (25gp), bronze Haarreif (30 gp), 612 silver pennies (612 gp), Wand of Magic Missiles (leer), Scroll (2-22), silbernes 1 Fuß-hohes Ankh mit rotem Glas verziert (Ankh key), 1 Kapitel aus einem Buch: The Deeds of Phagtro the Westron, Amulett (magisch), 3 Tränke, 2 Tränke, 6 silberne heilige Thoth Symbole (50 sp per), 334 silver pennies (334 gp), Thoth-Roben (2x 50gp), 1 Ring (magisch), 1 Scroll, 20 garnets (100 gp).
+
