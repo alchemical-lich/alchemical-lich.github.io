@@ -18,4 +18,4 @@ tags:
 
 - Off from the main hall, they find a secret room that contains a destroyed teleportation circle. Wherever did it lead?
 
-- They push to the North and enter the room right under the copula. They find a strange pool of fresh blood and a iron stair case leading upward. Zgaaz insists the blood must have come from the Mitflits, but the others suspect something strange is afoot.
+- They push to the North and enter the room right under the copula. They find a strange pool of fresh blood and a iron stair case leading upward. Zgaz insists the blood must have come from the Mitflits, but the others suspect something strange is afoot.
