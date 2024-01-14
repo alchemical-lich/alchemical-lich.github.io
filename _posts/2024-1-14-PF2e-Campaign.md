@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**3 Pharast 4721**: Exploring the Gauntlight
+**3-7 Pharast 4721**: Exploring the Gauntlight
 
 - The party retreats from the heavy bronze door barring access to the Gauntlight's copula. 
 
