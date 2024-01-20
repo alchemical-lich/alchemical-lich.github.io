@@ -17,11 +17,22 @@ Destiny called upon a group of simple individuals in the *Accursed Heart of the 
 - Luka Doncic (Burglar)
 - Margerite (Seer)
 
+Here is their story in pictures:
+
+![](IMG_4860.jpg) ![](IMG_4861.jpg)
+
+
+
+**Tolomak Islands Day 1--4**
+
 Grandmaster Zagarius of the Golden Factor in Punjar hired the group to accompany him on a great expedition to the Rolomak Isles. He is looking to capture exotic animals for his menagerie (and arena). He offers handsome rewards for beasts and the discovery of important locations on the Isles. After landing on the Northern beaches of the Eastern Island, Zagarius made camp and introduced the group to a rivaling adventuring party: Trocereo's crew ("a little competition hasn't hurt anyone"). The next morning, the group ventured forth inland into the thick jungle. 
 
 They made contact with a local tribe of `Goldlings', cannibals in service of the Green Lady Eloiz and the Great Ape Gormaz. They were able to make an alliance with the and met the Green Lady in person--a strange individual with a burning hatred for her sister Strava. She offered the party help with capturing Gormaz in exchange for the head of her sister. They secretly followed the lady back to her Green Tower on one of the peaks of the Eastern Island. They then moved West, towards the Maze of the Sunken Ruins. 
 
 In the Sunken Ruins, they discovered some strange ruins (did not enter), fought some Thorn Crabs, and found a strange scrimshaw idol of a women. During their night's rest, they were surprised by a group of Arachnomen. With the help of some of Totino's magic, they were able to capture the leader of the group and repel the rest. During the fight, a woman's voice spoke to Cannoli through the idol: she has been imprisoned on the Isles by a wizard. The group discerns the Arachnomen were after the idol and are guardians of her prison.
+
+
+
 
 **Day 4 on the Tolomak Isles**
 The decide to return to the base camp, one Arachnomen prisoner in tow. On the way back, the remaining Arachnomen return and attack. The group survives and captures a second fiend. They also meet a patrol of Goldlings. Through additional questioning and information from the Goldlings, they learn the wizard Shadankin has a sanctum on the most Northwestern island, while the Earth Prison of the Sea Queen is the flooded caldera to the North of the Maze of the Sunken Ruins. 
