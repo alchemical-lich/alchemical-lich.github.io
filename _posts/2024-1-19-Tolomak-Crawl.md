@@ -15,7 +15,7 @@ Destiny called upon a group of simple individuals in the *Accursed Heart of the 
 - **Totino the Toothless** (Enchanter) and his homunculus Messi
 - **Colin Robinson** (Journeyer)
 - **Luka Doncic** (Burglar)
-- **Margerite** (Seer)
+- **Margerite** (Seer) and her tiny dragon familiar Mellow
 
 
 Here is their story in pictures:
