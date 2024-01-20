@@ -32,7 +32,7 @@ Here is their story in pictures:
 
 <img src="http://alchemical-lich.github.io/images/IMG_4876.JPG" width="250"/> <img src="http://alchemical-lich.github.io/images/IMG_4877.JPG" width="250"/> <img src="http://alchemical-lich.github.io/images/IMG_4878.JPG" width="250"/>
 
-**Tolomak Islands Day 1--4**
+**Tolomak Islands Day 1--3**
 
 Grandmaster Zagarius of the Golden Factor in Punjar hired the group to accompany him on a great expedition to the Rolomak Isles. He is looking to capture exotic animals for his menagerie (and arena). He offers handsome rewards for beasts and the discovery of important locations on the Isles. After landing on the Northern beaches of the Eastern Island, Zagarius made camp and introduced the group to a rivaling adventuring party: Trocereo's crew ("a little competition hasn't hurt anyone"). The next morning, the group ventured forth inland into the thick jungle. 
 
