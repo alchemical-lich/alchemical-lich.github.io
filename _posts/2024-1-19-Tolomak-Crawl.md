@@ -12,7 +12,7 @@ tags:
 Destiny called upon a group of simple individuals in the *Accursed Heart of the World Ender*. The survivors braved the perils of adventures such as *Frozen In Time*, *The Corpse That Love Built*, *The One Who Watches From Below*, and *The Jeweler That Dealt in Stardust*. Many lost their lives, but the remaining heroes are:
 
 - Obi Wan Cannoli the Cleric (Chronicler)
-- Totino the Toothless (Enchanter)
+- Totino the Toothless (Enchanter) and his homunculus Messi
 - Colin Robinson (Journeyer)
 - Luka Doncic (Burglar)
 - Margerite (Seer)
