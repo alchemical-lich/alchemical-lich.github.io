@@ -55,4 +55,4 @@ The group decides to find Shadankin's Sanctum. With a rowboat, they move along t
 
 Down some wet stairs, the thief Luka sneaks ahead and finds a large chamber with floating sea turtle shells and a sheer drop down to a rocky lagoon. He attempts to climb across but slips midway, falling and hitting his head on the hard rocks. The others see him fall and scramble to save him. Totino casts Spider Climb and saves him with a healing potion. 
 
-During the rescue, a group of Lampreymen attacks from hidden arrowslits, harpooning the heroes. A dangerous battle ensues, but the group prevails. What will they find down in the Sanctum?
+During the rescue, a group of Lampreymen attacks from hidden arrow slits, harpooning the heroes. A dangerous battle ensues, but the group prevails. What will they find down in the Sanctum?
