@@ -41,7 +41,7 @@ They made contact with a local tribe of "Goldlings"", cannibals in service of th
 In the Sunken Ruins, they discovered some strange ruins in the distance (but did not approach), fought some Thorn Crabs, and found a strange scrimshaw idol of a women. During their night's rest, they were surprised by a group of Arachnomen. With the help of some of Totino's magic, they were able to capture the leader of the group and repel the rest. During the fight, a woman's voice spoke to Cannoli through the idol: she has been imprisoned somewhere on the Isles by a wizard. The group discerns the Arachnomen were after the idol and are possibly guardians of her prison.
 
 
-<img src="http://alchemical-lich.github.io/images/IMG_45391.jpeg" width="400"/>
+<img src="http://alchemical-lich.github.io/images/IMG_45391b.jpeg" width="400"/>
 
 **Day 4 on the Tolomak Isles**
 
