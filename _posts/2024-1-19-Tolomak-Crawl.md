@@ -20,10 +20,9 @@ Destiny called upon a group of simple individuals in the *Accursed Heart of the 
 
 Here is their story in pictures:
 
-![](http://alchemical-lich.github.io/images/IMG_4860.JPG) ![](http://alchemical-lich.github.io/images/IMG_4861.JPG)
+![](http://alchemical-lich.github.io/images/IMG_4860.JPG =20%x) ![](http://alchemical-lich.github.io/images/IMG_4861.JPG =20%x)
 
 
-<img src="(http://alchemical-lich.github.io/images/IMG_4860.JPG"  width="25%" > <img src="(http://alchemical-lich.github.io/images/IMG_4861.JPG"  width="25%" >
 
 
 **Tolomak Islands Day 1--4**
