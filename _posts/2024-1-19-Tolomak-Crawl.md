@@ -23,7 +23,7 @@ Here is their story in pictures:
 ![](http://alchemical-lich.github.io/images/IMG_4860.JPG =20%x) ![](http://alchemical-lich.github.io/images/IMG_4861.JPG =20%x)
 
 
-
+<img src="http://alchemical-lich.github.io/images/IMG_4860.JPG" width="425"/> <img src="http://alchemical-lich.github.io/images/IMG_4861.JPG" width="425"/>
 
 **Tolomak Islands Day 1--4**
 
