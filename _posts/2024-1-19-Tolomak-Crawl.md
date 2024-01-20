@@ -19,7 +19,9 @@ Destiny called upon a group of simple individuals in the *Accursed Heart of the 
 
 Here is their story in pictures:
 
-![](IMG_4860.jpg) ![](IMG_4861.jpg)
+![](http://alchemical-lich.github.io/images/IMG_4860.jpg) ![](http://alchemical-lich.github.io/images/IMG_4861.jpg)
+
+
 
 
 
