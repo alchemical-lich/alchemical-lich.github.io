@@ -403,3 +403,21 @@ Neue Gerüchte und Nachrichten:
 
 - Schatzfund: Kupfertorque (25gp), bronze Haarreif (30 gp), 612 silver pennies (612 gp), Wand of Magic Missiles (leer), Scroll (2-22), silbernes 1 Fuß-hohes Ankh mit rotem Glas verziert (Ankh key), 1 Kapitel aus einem Buch: The Deeds of Phagtro the Westron, Amulett (magisch), 3 Tränke, 2 Tränke, 6 silberne heilige Thoth Symbole (50 sp per), 334 silver pennies (334 gp), Thoth-Roben (2x 50gp), 1 Ring (magisch), 1 Scroll, 20 garnets (100 gp).
 
+## Session 14: Haakon
+
+- Haakon, Quoorin, Aldon, Skalf erkunden die Katakomben.
+
+- Ruine westlich der Pyramide. 
+
+- Finden einen Raum mit einener halb eingestürzten Decke.
+
+- Ein weiterer Raum mit einem trümmerfreien Platz run dum eine 5 Fuß hohes Steinpodest. Ein steinerner Affe sitzt auf dem Podest, der einen Silence Spruch auslöst. Ein zweiter Affe fliegt durch den Raum und schiesst einen Flammenstrahl auf Skalf. Wir sichern eine Schriftrolle. Aldon zaubert Schlaf und setzt zwei der Affen ausser Gefecht. Wir bergen einen Ring und einen Metallbarren. Wir fliehen aus dem Raum.
+
+- Wir steigen eine Wendeltreppe 300 Fuß in die Tiefe ab und kommen auf dem Level vom Toth Tempel an. Ein illusorische Wand verbirgt den Zugang zu einer weiteren Kammer.
+
+- Im Westen, ein weiterer Raum mit zwei Pavianskeletten. Haakon und Quoorin gehen zu Boden. Ein Schrank enthält eine Schriftrolle.
+
+- Wir ziehen uns zurück. 
+
+- Schätze: Sortianischer Ring (150 gp), Metallbarren (500 gp), Sanctuary Spruchrolle, Spruchrolle mit Identify, Gust of Wind, Basil's Torch Treatment. 
+
