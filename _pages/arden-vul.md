@@ -37,7 +37,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Es gibt wohl Ghule bei den Grabnischen.
 
-- Eine Grabnische im Nordwesten zeigt ein Bild von Toth und einen schwarzer Turm mit einem Licht.
+- Eine Grabnische im Nordwesten zeigt ein Bild von Thoth und einen schwarzer Turm mit einem Licht.
 
 
 ## Session 2: Boris
@@ -87,17 +87,17 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Wir finden eine verkleinerte und versteinerte Mönchsstatue in den Ruinen nordwestlich von der Pyramide.
 
-- Die zweite Ruine scheint ein altes Tempelgebäude zu sein. Im verdeckten Keller finden wir Statuen/teile: eine Goblinstatue (grün), eine orangene Priesterstatue mit Helm (Toth), eine weisse Horus-Statue Horus mit Beinschienen, und ein Kolossusbein  (passt zum Kopf auf dem Dachbalken bei Kesselbauch--liegt noch da (Teil von der Ardenstatue), Füsse der Statue sind bei der Brücke.
+- Die zweite Ruine scheint ein altes Tempelgebäude zu sein. Im verdeckten Keller finden wir Statuen/teile: eine Goblinstatue (grün), eine orangene Priesterstatue mit Helm (Thoth), eine weisse Horus-Statue Horus mit Beinschienen, und ein Kolossusbein  (passt zum Kopf auf dem Dachbalken bei Kesselbauch--liegt noch da (Teil von der Ardenstatue), Füsse der Statue sind bei der Brücke.
 
 - Die drei Statuenhändler bei Kesselbauch bieten nur 80 gp für die Statuen. Das lehnen wir ab und lagern die Statuen in Boris' Zimmer.
 
-- Bei der Ruine finden wir auch eine Wendeltreppe. Die führt 225 fuss in die Tiefe und zu einer Geheimtür. Dahinter ein Raum mit mehreren Tischen, voll mit mit Kram, ein riesiges Gesicht ist an die Wand gemeisselt. Eine Statue zeigt einen Menschen mit Kilt und Tothpriester Kopfschmuck, mit Speer. Der Raum ist wohl das Labor eines Magiers, finden einen Periapt.
+- Bei der Ruine finden wir auch eine Wendeltreppe. Die führt 225 fuss in die Tiefe und zu einer Geheimtür. Dahinter ein Raum mit mehreren Tischen, voll mit mit Kram, ein riesiges Gesicht ist an die Wand gemeisselt. Eine Statue zeigt einen Menschen mit Kilt und Thothpriester Kopfschmuck, mit Speer. Der Raum ist wohl das Labor eines Magiers, finden einen Periapt.
 
 - Wir lernen das Kesselbauch's Frau, **Estelle**, eine Priesterin ist.
 
 ## Session 4: Boris
 
-- Wir gehen die Ruine westlich von der Toth-Pyramide an.
+- Wir gehen die Ruine westlich von der Thoth-Pyramide an.
 - Es sind die Trümmer eines Gebäudes.
 - Treffen 3 Zombies! Einer hat einen Ring! (150 gp)
 - Durchsuchen die Ruinen: Beim Schornstein kann man runter gucken. Kühler Lufthauch bei einer anderen Stelle. Eingang zu einem Raum 60 Fuss tiefer.
@@ -174,7 +174,7 @@ or the consequences shall be severe!"
 
 - Steinerner Altar im Raum, hoert sich hohl an. Eine Giftnadel tötet Goffel. Finden einen Beutel mit Rubinen (1,000 gp) und ein Abzeichen (silbernes Herz, intime Verbindung zwischen zwei Leuten, einseitige Kommunikation). Treffen den alten Mann, der ein verwirrter Paladin ist (und wohl sehr alt, über 200 Jahre).
 
-- Finden eine Geheimtür im Blutmückenraum: Drinnen 4 Pavian-Skelette und ein humanoides Skelett. Die erledigen wir schnell und finden eine weitere Geheimtür. Finden zwei Tische mit goldenen Altarwaren (25 lbs Candelabra 400gp, 3 Kelche 300 total, 2 Teller 200 total, 1 Weihrauchschwenke 150, Toth statue 1000 gp), kleines Köfferchen mit Geld (552 sp).
+- Finden eine Geheimtür im Blutmückenraum: Drinnen 4 Pavian-Skelette und ein humanoides Skelett. Die erledigen wir schnell und finden eine weitere Geheimtür. Finden zwei Tische mit goldenen Altarwaren (25 lbs Candelabra 400gp, 3 Kelche 300 total, 2 Teller 200 total, 1 Weihrauchschwenke 150, Thoth statue 1000 gp), kleines Köfferchen mit Geld (552 sp).
 
 ## Session 8: Boris
 
@@ -301,7 +301,7 @@ Neue Gerüchte:
 
 - Ein Hebel im Nasenloch öffnet die Tür.
 
-- Tothstatuen hängen zusammen, Roskelli interessiert sich dafür. 
+- Thothstatuen hängen zusammen, Roskelli interessiert sich dafür. 
 
 - Kerbog Khan's Libelle beobachtet den Raum mit dem Schleim. Der verrät uns, dass die Hohepriesterin den Magier wiederbelebt hat.
 
@@ -413,11 +413,29 @@ Neue Gerüchte und Nachrichten:
 
 - Ein weiterer Raum mit einem trümmerfreien Platz run dum eine 5 Fuß hohes Steinpodest. Ein steinerner Affe sitzt auf dem Podest, der einen Silence Spruch auslöst. Ein zweiter Affe fliegt durch den Raum und schiesst einen Flammenstrahl auf Skalf. Wir sichern eine Schriftrolle. Aldon zaubert Schlaf und setzt zwei der Affen ausser Gefecht. Wir bergen einen Ring und einen Metallbarren. Wir fliehen aus dem Raum.
 
-- Wir steigen eine Wendeltreppe 300 Fuß in die Tiefe ab und kommen auf dem Level vom Toth Tempel an. Ein illusorische Wand verbirgt den Zugang zu einer weiteren Kammer.
+- Wir steigen eine Wendeltreppe 300 Fuß in die Tiefe ab und kommen auf dem Level vom Thoth Tempel an. Ein illusorische Wand verbirgt den Zugang zu einer weiteren Kammer.
 
 - Im Westen, ein weiterer Raum mit zwei Pavianskeletten. Haakon und Quoorin gehen zu Boden. Ein Schrank enthält eine Schriftrolle.
 
 - Wir ziehen uns zurück. 
 
 - Schätze: Sortianischer Ring (150 gp), Metallbarren (500 gp), Sanctuary Spruchrolle, Spruchrolle mit Identify, Gust of Wind, Basil's Torch Treatment. 
+
+## Session 15: Haakon
+
+- Quoorin, Haakon, Aldon, und Ekon gehen wieder durch den Keller zum Temple of Thoth. 
+
+- Sie finden einen Zick-Zack-Gang mit Schiessscharten, hinter denen sich zwei Zombie umtun. Der Zombie schnappt sich Haakon's Stab, den Aldon benutzt hat um durch die Schiessscharte anzugreifen. Nach einem fehlgeschlagenen Angriff, haut der Zombie mit dem Stab zu und Aldon fällt ohnmächtig um.
+
+- Wir finden einen Edelstein (Jasper, 125 gp) und ein **blaues Glasquadrat**.
+
+- Wir holen noch mehr goldene Federn und gehen dann wieder nach Osten.
+
+- Der Raum im Osten hat einen aktiven Lichtzauber. Die Kammer ist voller Fresken, lauter Ibisköpfe, die in die Mitte des Raumes gucken.
+
+- Wir gehen erstmal nach Westen und dann Süden zum Grabrundgang. 11 Riesenratten stürzen sich auf uns. Quoorin geht zu Boden, aber die Ratten fliehen nachdem Ekon zwei erledigt. Wir finden Münzen (459 sp), Zitrine (4x50gp), eine Perle (500gp), zwei Aquamarine (2x100gp), Lapislazuli-Goldring (500 gp), eine goldene Fackel (20 Fuss Nachtsicht Fackel/ Blacklight Torch). Haakon nimmt die Fackel und kann sie nicht mehr ablegen.
+
+- Wir finden eine geheine Grabkammer mit vielen Schätzen, aber auch vier Ghulen. Wir ziehen uns vorerst zurück.
+
+
 
