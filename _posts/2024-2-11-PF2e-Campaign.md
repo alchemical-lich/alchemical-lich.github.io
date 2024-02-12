@@ -10,7 +10,7 @@ tags:
 
 **10-16 Pharast 4721**: Downtime and The Gauntlight Ruins
 
-- The group spends one week of downtime in Otari. Corbin starts his business of offering occult consultations, albeit with a slow start. Zazgaz spends the week helping farmers till the fields. Arryn is invited to marvel at the display of his recovered monster corpses in Hall of Honors in the Dawnflower Library--right next to famous town heirlooms. Rizzard learns how to play cards at the Crooks Nook. The proprietor, **Yinyasmerah**, let's slip that she is looking for four of her associates that have not returned from the Gauntlight (50 gp reward!).
+- The group spends one week of downtime in Otari. Corbin starts his business of offering occult consultations, albeit with a slow start. Zazgaz spends the week helping farmers till the fields. Arryn is invited to marvel at the display of his recovered monster corpses in Hall of Honors in the Dawnflower Library--right next to famous town heirlooms. Rizzard learns how to play cards at the Crooks Nook. The proprietor, **Yinyasmerah**, lets slip that she is looking for four of her associates that have not returned from the Gauntlight (50 gp reward!).
 
 - **Carman Rajani**, often seen sleeping off his drunken bender in the town square, gets in a scuffle with the town guard. The group has to defuse the situation before things turn even uglier. Carman sure seems to have a reputation in town.
 
