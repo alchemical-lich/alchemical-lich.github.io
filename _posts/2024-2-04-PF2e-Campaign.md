@@ -1,7 +1,7 @@
 ---
-title: 'Abomination Vaults Session 6'
-date: 2024-02-04
-permalink: /posts/2024/02-04/pf2e-campaign/
+title: 'Abomination Vaults Session 7'
+date: 2024-2-04
+permalink: /posts/2024/2-04/pf2e-campaign/
 tags:
   - Abomination Vaults
   - PF2e
