@@ -438,4 +438,24 @@ Neue Gerüchte und Nachrichten:
 - Wir finden eine geheine Grabkammer mit vielen Schätzen, aber auch vier Ghulen. Wir ziehen uns vorerst zurück.
 
 
+## Session 16: Boris
+
+- Boris, Cedric, Ahriman, und Aldon ziehen Richtung Set-Tempel.
+
+- Wir dringen in den Set-Tempel vor. Auf dem. Hauptalter steht eine windende Schlangenstatue mit Edelsteinen. 
+
+- Im ersten Nebenraum steht ein weiterer Altar, einer mummifizierten Hand und einem Krokodilkopf. Neben dem Tisch steht ein Vogelkäfig mit einem halb-toten Ibis. Zwei Fläschchen mit einer silbernen Flüssigkeit (je 10 gp), zwei goldene Kerzenhalter (je 50 gp).
+
+- Der dritte Raum oben hat ein paar Stühle, einen Tisch und ein Fass. An der Wand eine Malerei von einem Sternenhimmel.
+
+- Dann schauen wir uns die Haupthalle an. Der Altar ist ein roter Steinblock. Hat eine menschlich-geformte Einbuchtung. Pulsiert leicht. Hinter dem Alter steht eine Statue von einem Set-Tier. Die Figur trägt einen Prügelstock und einen Ankh. Der Kopf ist aus Elfenbein mit Edelsteinen. Wir stehlen die Rubinaugen (je 5000 gp), zertrümmern den Kopf um Gold, Elfenbein und Lapis zu sichern.
+
+- Boris und Cedric werden von Set verflucht (-1 CON pro Monat bis zum Tod.)
+
+- Wir müssen mit vier Krokodile kämpfen.
+
+- Im Süden, eine Set-Krokodil-Statue und ein weiterer Altar. Beim Altar, eine weitere Set Statue (Krieger). Ein Becken mit Lotusblumen, eiserner Kerzenständer. Wandmalereien zeigen wie Set Menschen erschlägt. Am Fuss der Statue ist ein Spalt. Der Zeh entriegelt den Mechanismus. Es offenbart sich eine Geheimtür in den Gang hinter dem Hauptraum. 
+
+- Auf dem Rückweg gehen wir zu den vier Ghulen in der geheimen Grabkammer. Ahriman holt seine magische Box heraus und saugt drei Ghule ein. Der letzte wird gebannt und verfällt zu Staub. Wir finden: ein Set zweier magischer Ringe aus weissem Gold (3-17, Inschrift Ruritanus, Ethelgifu), magischer Speer mit Lapiseinlegearbeiten (3-17), vier grosse Alabasterurnen (je 225 gp), 16 alte Gold Solidii (160 gp), Kupfer im Wert von (231 gp), Silber im Wert von 1135 gp, 2x silber Torques (Ibiskopfverzierung, als Set 280 gp).
+
 
