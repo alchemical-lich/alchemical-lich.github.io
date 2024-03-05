@@ -10,7 +10,7 @@ tags:
 
 **10/02/1631 -- 10/03/1631**:
 
-- After a night's rest, Magnus, Mad Tim, Cromby, and Cröde resolve to explore teh crypt below the keep. With effort they remove the slab blocking access and enter the ice-cold crypt.
+- After a night's rest, Magnus, Mad Tim, Cromby, and Cröde resolve to explore the crypt below the keep. With effort they remove the slab blocking access and enter the ice-cold crypt.
 
 - They find two sarcophagi, one opened, and a stalking creature in the shadows.
 
