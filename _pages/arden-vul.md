@@ -458,4 +458,23 @@ Neue Gerüchte und Nachrichten:
 
 - Auf dem Rückweg gehen wir zu den vier Ghulen in der geheimen Grabkammer. Ahriman holt seine magische Box heraus und saugt drei Ghule ein. Der letzte wird gebannt und verfällt zu Staub. Wir finden: ein Set zweier magischer Ringe aus weissem Gold (3-17, Inschrift Ruritanus, Ethelgifu), magischer Speer mit Lapiseinlegearbeiten (3-17), vier grosse Alabasterurnen (je 225 gp), 16 alte Gold Solidii (160 gp), Kupfer im Wert von (231 gp), Silber im Wert von 1135 gp, 2x silber Torques (Ibiskopfverzierung, als Set 280 gp).
 
+## Session 17: Haakon
+
+- Skalf, Aldon und Haakon wandern zur südlichen Insel und schauen sich die Palastruine an. Eine Warnung steht an der Tür.
+
+- Wir brechen durch einen Spalt ein. Finden zwei Leichen. Wir finden einen Teleportationzirkel.
+
+- Wir öffnen eine Tür nach Norden und finden einen überwachsenen Garten mit einem Springbrunnen. Ein Kompostmann bewacht den Brunnen. Wir versuchen den Raum mit Unsichtbarkeit zu erkunden, finden aber nichts. Es gibt wohl eine Loge zu der man klettern kann. Wir ziehen uns zurück.
+
+- Wir wandern nach Nordwesten zu einer Turmruine. Wir durchsuchen die Ruine nach Schätzen. Wir finden ein bone scroll case (20gp).
+
+- Wir ziehen weiter nach Westen zu einem weiteren Gebäude/Langhaus. Fensterläden sind verschlossen. Das Haus sieht wie aus der Zeit gefallen aus. Das Haus ist mit magischen Schutzzeichen versehen, die vor nekromantischer Magie schützen. Galed Eisenhand scheint dort zu wohnen. Das Haus ist voll mit Ghulen. Wir ziehen uns zurück.
+
+- Wir gehen als nächstes zum Turm im Norden am Wasser. 10 Fuss hohe Restmauer, aufgefüllt mit Trümmern. Trümmer könnten entfernt werden, ist aber gefährlich. Wir laufen Richtung Süden an den anderen Türmen vorbei.
+
+- Die zwei runden Türme sind das West Gate. Das Gate wurde repariert und die Türme sind im guten Zustand.
+
+- Wir gehen zurück zum Nordturm und buddeln. Wir weichen mehreren Steinschlägen aus und bergen einen silbernen Koffer (100gp). Zwei silberne Ankhs. Eins mit schwarzem Glas, eines mit weissen Glas. Auch ein Kupfertablett mit alter Inschrift: "To open the Chamber of the Beacon, all three ankhs must be pressed into the proper locations on the proper monument at midday."
+
+- Obelisk im Süden hat eine Ankheinbuchtung und eine Inschrift: The Beacon shall be revealed to those who bring midday life to the Sun, the Moon and the Stars. Ein weiterer Obelisk ist im Sumpf. Der dritte Obelisk ist auf der mittleren Insel.
 
