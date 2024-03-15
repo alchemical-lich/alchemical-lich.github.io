@@ -478,3 +478,25 @@ Neue Gerüchte und Nachrichten:
 
 - Obelisk im Süden hat eine Ankheinbuchtung und eine Inschrift: The Beacon shall be revealed to those who bring midday life to the Sun, the Moon and the Stars. Ein weiterer Obelisk ist im Sumpf. Der dritte Obelisk ist auf der mittleren Insel.
 
+## Session 18: Haakon
+- Party: Haakon, Skalf, Aldon, Serapion.
+
+- Wir gehen zur Teleportationspyramide im Südwesten des Tempel des Thoth.
+
+- Die Halblinge wollen trotzdem eine Gebühr, obwohl wir über den Umweg einschleichen.
+
+- Zwei Magic Mouths, einer lobt, einer beschimpft Toth.
+
+- Richtung Süden entdecken wir einen Raum mit einem Halblingkopf auf einem Pfahl.
+
+- Östlich der Pyramide finden wir ein grosses Becken. Grüner Nebel umgibt das Becken. Das Becken ist voll mit einer braunen Flüssigkeit.
+
+- Weiter im Südosten finden wir einen Raum mit drei Steinbänken und einer Grube mit einer schwarzen Säule. Inschrift: ""Thou May Ask of Thoth What Thou Will, Provided Thou Accept His Judgment." Haakon berührt die Säule und hat eine Vision der Teleportationskreise. 
+
+- Hinter der Tür im Osten finden wir einen Raum voll mit Müll. Aldon findet einer Geheimtür in der Südwand. Wir finden ein **weisses Glasquadrat**.
+
+- Die Geheimtür führt in einen Gang der wieder nach oben führt mit einer weiteren Geheimtür. Die Tür führt in eine grosse Säulenhalle. Mehrere gold-bemalte Säulen. Tote auf dem Boden. 3-67:  2 Tränke, Geldbeutel (34 sp, 48 gp), Stahlhelm, Fisch-Stab (kann nicht identifiziert werden, wahrscheinlich ein Steuerungsinstrument für Arden Vul).
+
+- Wir kämpfen gegen die Quallen, aber die erlegen Haakon sofort. Wir ziehen uns in den Gang zurück und töten eine Qualle. 
+
+
