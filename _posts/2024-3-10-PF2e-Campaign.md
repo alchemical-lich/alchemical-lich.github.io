@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**16 Pharast 4721**: The Gauntlight Ruins
+**17 Pharast 4721**: The Gauntlight Ruins
 
 - The party leaves the dungeon below the Apprentice's Island. Corbin attends to some personal business, while Rizzard, Arryn, and Zazgaz pursue some quests in Otari.
 
