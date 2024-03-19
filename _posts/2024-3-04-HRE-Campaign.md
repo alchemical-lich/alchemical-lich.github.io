@@ -1,7 +1,7 @@
 ---
 title: 'HRE Campaign Session 17'
 date: 2024-03-04
-permalink: /posts/2024/2-26/hre-campaign/
+permalink: /posts/2024/3-04/hre-campaign/
 tags:
   - Bruckstadt
   - OSR
