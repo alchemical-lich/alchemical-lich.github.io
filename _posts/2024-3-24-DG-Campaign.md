@@ -22,4 +22,4 @@ tags:
 
 - Brandon's parents arrive from the airport as the storm intensifies. The agents do their best to keep Brandon separated from his parents.
 
-- Suddently, at the main door, another Brandon McGilll appears.
+- Suddenly, at the main door, another Brandon McGill appears.
