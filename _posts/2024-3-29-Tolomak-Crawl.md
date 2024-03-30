@@ -12,9 +12,9 @@ The party puhses deeper into the wizard Shadankin's Sanctum. Further down a damp
 
 <img src="http://alchemical-lich.github.io/images/lamprey.jpeg" width="600"/>
 
-In the end, the group is able to save Tottino, who was teetering on the brink of collapse, but Obi Wan Cannoli was hurt and fell unconscious in the process. Colin Robinson has to apply one of his valuable healing potions to save her.
+In the end, the group is able to save Tottino, who was teetering on the brink of collapse, but Obi Wan Cannoli was hurt and fell unconscious in the process. Colin Robinson had to apply one of his valuable healing potions to save her.
 
-The heroes push down a set of crude stairs and find an abandoned wizard's study. Moldy and broken furniture lies on the ground, but the heroes attention is drawn by an old wall mosaic depicting a wizard approaching a large sea shell containing a strange horn. Tottino discerns the wizard is shown to be covered with a strange aura or bubble. In the corner of the room, Luka finds three sealed barrels. With quick and nimlbe hands, he pries them open and recovers three squishy membranes, floating in brine. They take the strange objects into their possession and proceed.
+The heroes push down a set of crude stairs and find an abandoned wizard's study. Moldy and broken furniture lies on the ground, but the heroes attention is drawn by an old wall mosaic depicting a wizard approaching a large sea shell containing a strange horn. Tottino discerns the wizard is shown to be covered with a strange aura or bubble. In the corner of the room, Luka finds three sealed barrels. With quick and nimble hands, he pries them open and recovers three squishy membranes, floating in brine. They take the strange objects into their possession and proceed.
 
 <img src="http://alchemical-lich.github.io/images/barrel.jpeg" width="600"/>
 
