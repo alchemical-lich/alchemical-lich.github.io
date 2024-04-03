@@ -491,12 +491,26 @@ Neue Gerüchte und Nachrichten:
 
 - Östlich der Pyramide finden wir ein grosses Becken. Grüner Nebel umgibt das Becken. Das Becken ist voll mit einer braunen Flüssigkeit.
 
-- Weiter im Südosten finden wir einen Raum mit drei Steinbänken und einer Grube mit einer schwarzen Säule. Inschrift: ""Thou May Ask of Thoth What Thou Will, Provided Thou Accept His Judgment." Haakon berührt die Säule und hat eine Vision der Teleportationskreise. 
+- Weiter im Südosten finden wir einen Raum mit drei Steinbänken und einer Grube mit einer schwarzen Säule. Inschrift: "Thou May Ask of Thoth What Thou Will, Provided Thou Accept His Judgment." Haakon berührt die Säule und hat eine Vision der Teleportationskreise. 
 
-- Hinter der Tür im Osten finden wir einen Raum voll mit Müll. Aldon findet einer Geheimtür in der Südwand. Wir finden ein **weisses Glasquadrat**.
+- Hinter der Tür im Osten finden wir einen Raum voll mit Müll. Aldon findet eine Geheimtür in der Südwand. Wir finden ein **weisses Glasquadrat**.
 
 - Die Geheimtür führt in einen Gang der wieder nach oben führt mit einer weiteren Geheimtür. Die Tür führt in eine grosse Säulenhalle. Mehrere gold-bemalte Säulen. Tote auf dem Boden. 3-67:  2 Tränke, Geldbeutel (34 sp, 48 gp), Stahlhelm, Fisch-Stab (kann nicht identifiziert werden, wahrscheinlich ein Steuerungsinstrument für Arden Vul).
 
 - Wir kämpfen gegen die Quallen, aber die erlegen Haakon sofort. Wir ziehen uns in den Gang zurück und töten eine Qualle. 
 
+## Session 19: Haakon
+- Haakon, Skalf und Porphyrios kehren in die Pyramide zurück.
+
+- Wir ziehen Richtung Set-Forum.
+
+- Wir finden einen Folterraum der Haakon und Skalf in Angts fliehen lässt.
+
+- Die Treppen hinab, brennende Kerzen machen Qualm wenn nicht-böse Kreaturen vorbeilaufen. Ein heulendes Kreischen ist auch zu hören.
+
+- Wir finden einen Raum mit ausgestopften Tierköpfen.
+
+- Einen Raum weiter finden wir ein Kompostmonster, dass aus einem Lock kriecht und uns verfolgt.
+
+- Eine lange Flucht und ein Kampf mit dem Monster enden fast in einer Tragödie, aber wir überleben. Wir versuchen aus der Abfallgrube Schätze zu bergen, werden aber von hinten von einem Gelatinous Cube überrascht. Haaken wird paralysiert, überlebt aber. Wir finden zwei Diamanten (2200 gp).
 
