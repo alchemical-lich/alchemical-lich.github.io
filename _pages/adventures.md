@@ -48,12 +48,12 @@ This adventure is about the vile crimes of **Christman Grippertenius** and his a
 
 This is a **Level 3-6** **OSE** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
 
-<img src="http://alchemical-lich.github.io/images/bergkessel_old.png"  width="65%" >
+<img src="http://alchemical-lich.github.io/images/bergkessel_old_2024.png"  width="65%" >
 
 
 While not exactly happening at the right time, this adventure can be embedded in a bigger map of a fake Holy Roman Empire during the Thirty Years War. The map below is an example, liberally combining different geographies and cities into a larger adventuring region. You can locate other modules on the map and knit together a sandbox full of adventure pretty easily. Consider modules like the Saint of Bruckstadt, The Son of Baphomet, Call of the Toad, Better Than Any Man, Death Frost Doom, No Rest for the Wicked, Falkrest Abbey, The Isle, Kidnap the Archpriest, and Castle Xyntillan:
 
-<img src="http://alchemical-lich.github.io/images/HRE_map_old.png"  width="65%" >
+<img src="http://alchemical-lich.github.io/images/HRE_map_old_2024.png"  width="65%" >
 
 Campaign hook:
 
