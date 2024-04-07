@@ -22,7 +22,7 @@ tags:
 
 - The group decides to explore the Morlock territory to the South. They find some new traps left by the Morlocks. In a former kitchen to the West, they find a make-shift shrine of a female figure. They secure the offerings (several interesting gems) and find a secret door to the North.
 
-- Through the secret door, a narrow corridor is revealed. Alcoved filled with stone sarcophagi line the walls. Arryn takes the lead, looking for traps. As he was scanning the floor in front of hime, a shadowy being emerges from a sarcophagus and drains him from his life force. The others rush to his aid and the group dispatches the shadow being. 
+- Through the secret door, a narrow corridor is revealed. Alcoves filled with stone sarcophagi line the walls. Arryn takes the lead, looking for traps. As he was scanning the floor in front of hime, a shadowy being emerges from a sarcophagus and drains him from his life force. The others rush to his aid and the group dispatches the shadow being. 
 
 
 
