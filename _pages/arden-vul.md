@@ -98,11 +98,17 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 ## Session 4: Boris
 
 - Wir gehen die Ruine westlich von der Thoth-Pyramide an.
+
 - Es sind die Trümmer eines Gebäudes.
+
 - Treffen 3 Zombies! Einer hat einen Ring! (150 gp)
+
 - Durchsuchen die Ruinen: Beim Schornstein kann man runter gucken. Kühler Lufthauch bei einer anderen Stelle. Eingang zu einem Raum 60 Fuss tiefer.
+
 - Der Zugang führt zu einem Säulenraum voll mit Riesenspinnen.
+
 - Gucken in den Kamin, finden unten Blutmücken. Töten 16 mit einer Feuerfalle, finden Notizen und Geld. 
+
 - Gerücht:
   
   - Kerbok Khan ist ein Geist? Der sieht alles.
@@ -442,7 +448,7 @@ Neue Gerüchte und Nachrichten:
 
 - Boris, Cedric, Ahriman, und Aldon ziehen Richtung Set-Tempel.
 
-- Wir dringen in den Set-Tempel vor. Auf dem. Hauptalter steht eine windende Schlangenstatue mit Edelsteinen. 
+- Wir dringen in den Set-Tempel vor. Auf dem Hauptalter steht eine windende Schlangenstatue mit Edelsteinen. 
 
 - Im ersten Nebenraum steht ein weiterer Altar, einer mummifizierten Hand und einem Krokodilkopf. Neben dem Tisch steht ein Vogelkäfig mit einem halb-toten Ibis. Zwei Fläschchen mit einer silbernen Flüssigkeit (je 10 gp), zwei goldene Kerzenhalter (je 50 gp).
 
@@ -452,7 +458,7 @@ Neue Gerüchte und Nachrichten:
 
 - Boris und Cedric werden von Set verflucht (-1 CON pro Monat bis zum Tod.)
 
-- Wir müssen mit vier Krokodile kämpfen.
+- Wir müssen mit vier Krokodilen kämpfen.
 
 - Im Süden, eine Set-Krokodil-Statue und ein weiterer Altar. Beim Altar, eine weitere Set Statue (Krieger). Ein Becken mit Lotusblumen, eiserner Kerzenständer. Wandmalereien zeigen wie Set Menschen erschlägt. Am Fuss der Statue ist ein Spalt. Der Zeh entriegelt den Mechanismus. Es offenbart sich eine Geheimtür in den Gang hinter dem Hauptraum. 
 
@@ -514,3 +520,16 @@ Neue Gerüchte und Nachrichten:
 
 - Eine lange Flucht und ein Kampf mit dem Monster enden fast in einer Tragödie, aber wir überleben. Wir versuchen aus der Abfallgrube Schätze zu bergen, werden aber von hinten von einem Gelatinous Cube überrascht. Haaken wird paralysiert, überlebt aber. Wir finden zwei Diamanten (2200 gp).
 
+## Session 20: Boris
+
+- Magister Al, Ahriman, Boris, und Cedric gehen auf Jagd im Set-Tempel.
+
+- Auf dem Weg treffen sie auf drei Aasfresser.
+
+- Im Set-Tempel ist ein Schlangenritual im Gange. Magister Al schleudert einen Feuerball und wir attackieren.
+
+- Wir erschlagen den Dekan und mehrere Akolyten und stossen tiefer auf das Set-Forum vor.
+
+- Ein langer Kampf entfacht im Set-Forum und wir überleben knapp.
+
+- Die Guild of Service übernimmt das Set-Forum.
