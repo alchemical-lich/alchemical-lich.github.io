@@ -1,7 +1,7 @@
 ---
 title: 'Tolomak Crawl Session 4'
-date: 2024-5-05
-permalink: /posts/2024/5-05/dcc-campaign/
+date: 2024-5-04
+permalink: /posts/2024/5-04/dcc-campaign/
 tags:
   - DCC
   - Hexcrawl
