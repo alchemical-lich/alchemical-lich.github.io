@@ -533,3 +533,12 @@ Neue Gerüchte und Nachrichten:
 - Ein langer Kampf entfacht im Set-Forum und wir überleben knapp.
 
 - Die Guild of Service übernimmt das Set-Forum.
+
+## Session 21: Haakon
+- Wir stossen in den Set-Tempel vor und treffen eine neue Gruppe an Set-Kultisten.
+
+- Ein Kampf entfacht, aber wir sind siegreich. 
+
+- Tiefer im Set-Tempel sammelt Gunnar seine Sklaventreiber. Wir ziehen uns zurück.
+
+- Wir gehen auf Goblinjagd.
