@@ -545,6 +545,6 @@ Neue Gerüchte und Nachrichten:
 
 ## Session 22: Haakon
 
-Wir gehen wieder Set-Kultisten und Sklavenjäger jagen. Wir finden eine Gruppe, die den Weg blockiert. Nach einem Kampf, bergen wir einen Wos Stick.
+- Wir gehen wieder Set-Kultisten und Sklavenjäger jagen. Wir finden eine Gruppe, die den Weg blockiert. Nach einem Kampf, bergen wir einen Wos Stick.
 
-
+- Wir gehen die Katakomben erkunden und finden eine Geheimtür.
