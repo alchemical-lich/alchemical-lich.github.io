@@ -548,3 +548,13 @@ Neue Gerüchte und Nachrichten:
 - Wir gehen wieder Set-Kultisten und Sklavenjäger jagen. Wir finden eine Gruppe, die den Weg blockiert. Nach einem Kampf, bergen wir einen Wos Stick.
 
 - Wir gehen die Katakomben erkunden und finden eine Geheimtür.
+
+## Session 23: Boris
+
+- Angriff auf das Set-Forum.
+
+- Wir erledigen eine Menge Set-Kultisten, aber nicht Gunnar, den Anführer der Sklaventreiber. Die haben ihr Hauptquartier Nordöstlich des Forums.
+
+- Alexandrus ist der neue Anführer der Set-Kleriker. Der lauerert im Nordwesten.
+
+- Wir machen ein Abkommen mir den Händlern. Hazlett wird der Vorsprecher der Händler und wir übernehmen.
