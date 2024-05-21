@@ -1,14 +1,14 @@
 ---
 title: 'HRE Campaign Session 21'
-date: 2024-04-29
-permalink: /posts/2024/4-22/hre-campaign/
+date: 2024-05-06
+permalink: /posts/2024/5-06/hre-campaign/
 tags:
   - Bruckstadt
   - OSR
 ---
 
 
-**10/29/1631 -- 10/31/1631**:
+**10/29/1631 -- 10/30/1631**:
 
 - The Wolfguard sets out to return to Moorbach. On the Wetterstrasse, they encounter a group of downtrodden highwaymen. Authlbert hails them and heals their wounds. They share reports of escalating banditry to the North around the town of Menz.
 
