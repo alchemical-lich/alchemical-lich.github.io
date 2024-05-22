@@ -555,6 +555,25 @@ Neue Gerüchte und Nachrichten:
 
 - Wir erledigen eine Menge Set-Kultisten, aber nicht Gunnar, den Anführer der Sklaventreiber. Die haben ihr Hauptquartier Nordöstlich des Forums.
 
-- Alexandrus ist der neue Anführer der Set-Kleriker. Der lauerert im Nordwesten.
+- Alexandrus ist der neue Anführer der Set-Kleriker. Der lauert im Nordwesten.
 
 - Wir machen ein Abkommen mir den Händlern. Hazlett wird der Vorsprecher der Händler und wir übernehmen.
+
+## Session 24 Boris
+
+- 4 ehemalige Sklaven haben sich bereit erklärt zu helfen. 
+
+- Eine Gruppe von Elfen taucht auf. 5 Elfen, Jiltorin, suchen nach Magiern. Es gibt einen Goblinmarkt, Set Markt, Trollmarkt. 
+
+- Der Elf erzählt uns es gibt einen Gestaltwandler.
+
+- Die anderen gehen zu den Halblingen gucken und geraten in einen gemeinen Hinterhalt.
+
+- Mit hilfe eines Feuerballs werden die Halblinge erledigt. Phlebotomas Pflaumendorn und der Magier sind tot.
+
+
+
+
+
+
+
