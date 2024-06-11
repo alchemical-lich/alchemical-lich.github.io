@@ -572,6 +572,46 @@ Neue Gerüchte und Nachrichten:
 - Mit hilfe eines Feuerballs werden die Halblinge erledigt. Phlebotomas Pflaumendorn und der Magier sind tot.
 
 
+## Session 25 Haakon
+
+- Wir gehen zum Wasserfall. Auf dem Weg gucken wir uns den Obelisken an: “The Beacon shall be revealed to those who bring midday life to the Sun, the Moon and the Stars.” Obelisk der Sonne.
+
+- Wir kommen zur grossen Treppe und stellen sicher, dass die Türme verlassen sind. Der Ostturm ist kollabiert.
+
+- Wir sehen einen weissen Pavian, der aus einem Loch lugt.
+
+- Weiter die Rampe herunter finden wir eine Raststelle.
+
+- Weiter unten ein weiterer Raststopp/Verteidigungsposition. 
+
+- Unten gucken wir uns einen Turm an. Wir finden eine Falltür und ein Geist kommt uns entgegen. Der Geist verschreckt Haakon, Aldon und Rin, die altern 10 Jahre. Ekon wird kurz besessen, kann sich aber befreien.
+
+- Wir gehen auf die andere Seite vom See und untersuchen eine Höhle. Wir überwältigen Höhlenmenschen und lernen, dass die Tiermenschen oft bei Mondschein auf Suche gehen. Es gibt einen Geheimgang auf der Westseite des Wasserfalls.
+
+- Die Set-Kultisten kommen auch aus einem Geheimausgang. Es gibt ein Lichtsignal und einen Korbfahrstuhl.
+
+- Es gibt auch einen Berglöwen. Da gibt es den Geheimgang (Westseite). 
+
+- Die Ritter des Azurschildes sind am Wasserfall interessiert. 
+
+- Echsenmenschen kommen auch bei den Set-Kultisten raus. 
+
+- Die Höhlenmenschen haben eine Götzenfigur von Kauket. Die haben auch eine Axtklinge mit Silberrunen.
+
+
+## Session 26 Boris
+
+- Wir gehen zu den Tiermenschen.
+
+- Aldon klettert über die Barriere und fällt in eine Falle. Ein Tiermensch erscheint und blockiert den Durchgang.
+
+- Wir verhandeln einen Angriff auf die Goblins.
+
+- Wir gehen Richtung Goblins, aber ein Gellertwürfel greift an. Wir entdecken eine Geheimtür mit einem Pavian-Fresko.
+
+- Beim alten Halblingslager kämpfen wir mit 7 Feuerkäfern und Goblins.
+
+- Danach treffen wit Skleros, den Tiermensch Kriegsgraf. Wenn wir die Goblins erledigen, bieten uns die Tiermenschen eine sichere Zuflucht an.
 
 
 
