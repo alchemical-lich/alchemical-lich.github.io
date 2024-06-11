@@ -613,6 +613,8 @@ Neue Gerüchte und Nachrichten:
 
 - Danach treffen wit Skleros, den Tiermensch Kriegsgraf. Wenn wir die Goblins erledigen, bieten uns die Tiermenschen eine sichere Zuflucht an.
 
+- Skleros sagt, die Tiermenschen suchen eine gewisse Pilzsorte (*cloud cap mushrooms*) an der Oberfläche. Der grüne Drache hindert daran. 
+
 
 
 
