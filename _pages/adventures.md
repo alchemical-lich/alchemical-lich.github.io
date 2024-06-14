@@ -85,7 +85,7 @@ Other **factions** that are active in the area include:
 ## Behemoth
 A Dirty Dozen-style fantasy civil war campaign.
 
-<img src="http://alchemical-lich.github.io/images/war_alt.png"  width="85%" >
+<img src="http://alchemical-lich.github.io/images/balgrendia.png"  width="85%" >
 
 
 ## The Pilgrimage of St. Berthold
