@@ -616,6 +616,24 @@ Neue Gerüchte und Nachrichten:
 - Skleros sagt, die Tiermenschen suchen eine gewisse Pilzsorte (*cloud cap mushrooms*) an der Oberfläche. Der grüne Drache hindert daran. Er möchte auch Informationen über die Gründer der Tiermenschen (Gennadius und Rex).
 
 
+## Session 27 Boris
 
+- Wir ziehen zum Set-Tempel.
+
+- Wir bekämpfen Riesenfrosche und Aaskriecher.
+
+- Wir erledigen den Anführer der Sklavenjäger und eine Abenteurergruppe. Nehmen 5 Wikinger gefangen.
+
+## Session 27 Boris
+
+- Wir suchen weiter den Set-Tempel ab.
+
+- Wir finden mehr Sklaventreiber. 17 Flaschen Wein, eine Kiste im Kleiderschrank. Eine unsichtbare Magierin wird von Cedric entdeckt und ein Kamf entfacht. Sie nutzt eine Spruchrolle und verwirrt Boris und Cedric, aber die Gruppe besiegt sie letztendlich. 
+
+- In einem weiteren Raum werden zwei Sklaventreiber in Schlaf versetzt.
+
+- Wir durchsuchen die Quartiere der Sklaventreiber. 
+
+- Wir befreien 13 Menschen, 5 Beastment, 5 Goblins, 15 talentierte Menschen, 4 talentierte Goblins, und die heimliche Anführerin Bergthoda, 12 Menschen, 3 Demi-humans.
 
 
