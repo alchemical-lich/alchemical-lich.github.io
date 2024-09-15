@@ -636,4 +636,6 @@ Neue Gerüchte und Nachrichten:
 
 - Wir befreien 13 Menschen, 5 Beastment, 5 Goblins, 15 talentierte Menschen, 4 talentierte Goblins, und die heimliche Anführerin Bergthoda, 12 Menschen, 3 Demi-humans.
 
+## Session 28 Boris
 
+Wir erledigen den Rest des Set-Kultes in einem grossen Kampf.
