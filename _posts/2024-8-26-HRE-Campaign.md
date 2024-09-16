@@ -25,5 +25,5 @@ tags:
 
 - They also learn the Archbishop is a gourmand, having fine foods and wine delivered every day to the keep.
 
-- They overhear on the streets that Vicar Gormstead is likely to succeed the Archbishop.
+- They overhear on the streets that Vicar Gomstead is likely to succeed the Archbishop.
 
