@@ -11,8 +11,20 @@ tags:
 **12/03/1631**:
 
 
-- The Wolfguard tends to some business in Castle Aarhorst. They also meet with Theodor Franzwein in Bruckstadt. True to his word, he rewards the party with 2,000 gp just for meeting. He proposes a daring mission: kidnap an important individual and receive 50,000 gp in return. If interested, he invites the party to meet him at midnight on the Wetterstrasse.
+- While the Wolfguard prepares for their trip to Würzburg, their domain around Castle Aarhorst grows. New construction projects are beginning, while scouts roam the countryside to claim more territory. The small community around Castle Aarhorst begins to grow. A pair of noble duelists passes by Castle Aarhorst, searching for a scoundrel than has impuned their honor. The Wolfguard lends assistance and earns their favor.
 
-- The Wolfguard decides to take on this unusual mission. Meeting Theodor three days later under cloak and dagger, they learn the target of the mission: **Franz von Hatzfeld** the Archbishop of Würzburg! They are to abduct him before the year ends and bring him to a river castle.
+- The Wolfguard arrives in Würzburg and learns at the docks that the Archbishop is scheduled to leave town for Rome in two days! They fan out to learn as much as possible about the town and the Archbishop.
 
-- The party travels to Metz, stumbling over a small gargoyle lair, in part to learn more about the bandit bounties, but also to lay a false trail and establish their presence in Metz. Once arrived, they hire a few locals to pretend to be the Wolfguard, while they secretly hire a riverboat to voyage to Würzburg.
+- They learn that the Schwarzritter and an incorruptible mercenary force protecting the Archbishop, who has not been seen at mass in the White Cathedral.
+
+- Magnus acquires a rowboat and learns that the rives is secured at night with submerged chains, blocking passage.
+
+- Gaspard poses as a pilgrim and gains entrance to the Fortress Marienburg. At the reception desk, he steals a glance into the appointment book and they learn about a few meetings the Archbishop has scheduled with his Vicars:
+
+  - Lunch with Cardinal Gomstead at noon.
+  - Confession with Father Osmund from 1-2pm.
+
+- They also learn the Archbishop is a gourmand, having fine foods and wine delivered every day to the keep.
+
+- They overhear on the streets that Vicar Gormstead is likely to succeed the Archbishop.
+
