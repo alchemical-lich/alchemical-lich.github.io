@@ -10,7 +10,6 @@ tags:
 
 **12/03/1631**:
 
-
 - While the Wolfguard prepares for their trip to Würzburg, their domain around Castle Aarhorst grows. New construction projects are beginning, while scouts roam the countryside to claim more territory. The small community around Castle Aarhorst begins to grow. A pair of noble duelists passes by Castle Aarhorst, searching for a scoundrel than has impuned their honor. The Wolfguard lends assistance and earns their favor.
 
 - The Wolfguard arrives in Würzburg and learns at the docks that the Archbishop is scheduled to leave town for Rome in two days! They fan out to learn as much as possible about the town and the Archbishop.

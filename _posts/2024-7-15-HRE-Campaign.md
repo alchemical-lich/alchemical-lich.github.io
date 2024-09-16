@@ -10,7 +10,6 @@ tags:
 
 **11/18/1631 -- 12/03/1631**:
 
-
 - The Wolfguard tends to some business in Castle Aarhorst. They also meet with Theodor Franzwein in Bruckstadt. True to his word, he rewards the party with 2,000 gp just for meeting. He proposes a daring mission: kidnap an important individual and receive 50,000 gp in return. If interested, he invites the party to meet him at midnight on the Wetterstrasse.
 
 - The Wolfguard decides to take on this unusual mission. Meeting Theodor three days later under cloak and dagger, they learn the target of the mission: **Franz von Hatzfeld** the Archbishop of Würzburg! They are to abduct him before the year ends and bring him to a river castle.
