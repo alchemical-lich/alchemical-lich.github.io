@@ -12,7 +12,7 @@ tags:
 
 - The party takes a rest after the encounter with the Lurker in the Light. They explore around the reading room and discover a set of stairs leading deeper below as well as a well-kept washroom.
 
-- They return to the library hall and head East. They push through a door and encounter a room filled with Ghoul Cultists. The Lurker is also present is is egging the Ghouls on. An extended battle ensues in which Arryn gets severely injured by the rage-filled lurker, but the heroes prevail. Except, one ghoul flees North through a set of double doors and they hear a violent scream. 
+- They return to the library hall and head East. They push through a door and encounter a room filled with Ghoul Cultists. The Lurker is also present and is egging the Ghouls on. An extended battle ensues in which Arryn gets severely injured by the rage-filled lurker, but the heroes prevail. Except, one ghoul flees North through a set of double doors and they hear a violent scream. 
 
 - The party decides to retreat before whatever issued the scream emerges from the library.
 

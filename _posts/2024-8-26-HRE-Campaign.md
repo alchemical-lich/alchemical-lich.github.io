@@ -18,6 +18,8 @@ tags:
 
 - Magnus acquires a rowboat and learns that the rives is secured at night with submerged chains, blocking passage.
 
+- The party also acquires a painting of the Marienberg Fortress.
+
 - Gaspard poses as a pilgrim and gains entrance to the Fortress Marienburg. At the reception desk, he steals a glance into the appointment book and they learn about a few meetings the Archbishop has scheduled with his Vicars:
 
   - Lunch with Cardinal Gomstead at noon.
