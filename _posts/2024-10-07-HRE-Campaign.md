@@ -24,6 +24,6 @@ tags:
 
 - In Tour-en-Savoy, they sleep the night at the Tap, a disreputable tavern and guesthouse. 
 
-- The next day, they begin exploring the ruins of Castle Xyntillan. The castle is in ruins, but the courtyard is still intact, albeit abandoned. The party is attacked by skeletons and a strange vampiric cloud. Grimnir is knocked unconscious by the soporific smells of a rose garden and falls down a parapet, hitting his head. 
+- The next day, they begin exploring the ruins of Castle Xyntillan. The castle is in ruins, but the courtyard is still intact, albeit abandoned. The party is attacked by skeletons and a strange vampiric cloud. Grimnar is knocked unconscious by the soporific smells of a rose garden and falls down a parapet, hitting his head. 
 
 
