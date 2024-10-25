@@ -639,3 +639,15 @@ Neue Gerüchte und Nachrichten:
 ## Session 28 Boris
 
 Wir erledigen den Rest des Set-Kultes in einem grossen Kampf.
+
+## Session 29 Boris
+
+- Gegen den Schlammkraken!
+
+- Wir erschlagen 10 Goblins auf dem Weg und erlegen dann den Schleimkraken. Heiliges Wasser wird benutzt um den Brunnen zu reinigen.
+
+- Wir finden im Set Forum einige Schätze, inklusive einem Torq, der der Frau eines Geistes gehört hat und zwei grosse Saphire, die in die Toth-Statue im Brunnen passen.
+
+- Wir setzten die Saphire ein und Toth belohnt uns mit göttlicher Einsicht.
+
+
