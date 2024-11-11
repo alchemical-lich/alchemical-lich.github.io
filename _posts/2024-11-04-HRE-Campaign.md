@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**12/19/1631**:
+**12/19/1631 -- 12/20/1631**:
 
 - The Wolfguard pays for curing Elowen's lycanthropy. She will have to stay at the hospital in Tours-en-Savoy until Feb 18 is the return date.
 
