@@ -1,5 +1,5 @@
 ---
-title: 'PF2e Adventure Path Reviews'
+title: 'PF2e Adventure Path Reviews: Triumph of the Tusk Book 1'
 date: 2025-01-11
 permalink: /posts/2025/01-11/pf2e-campaign/
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 
-# Triumph of the Tusk
+# Triumph of the Tusk--Book 1
 Triumph of the Tusk has a strong idea for a campaign. It is centered on the changes and conflicts emerging from the Godsrain event for the Orcs in Belkzen. Ardax the Whitehair trying to change Orc society, facing off with other Orc factions, dealing with the repercussions of the changes of the Orcish pantheon, and having to deal with the looming outside threat of the Whispering Tyrant. This strikes me as a great setup. But it falters in implementation. Here are some specific issues I see in the first book that are representative of Paizo APs more generally:
 
 1. Party motivation. The AP asks players to pick a patron for their PC and players can choose to be Orcs from the Holds of Belkzen or outsiders. Curiously, the Player's Guide mostly focuses on options for being foreign dignitaries. This strikes me as odd for two reasons. One, if the PCs all have different patrons, it is unclear why they would collaborate on any of the events in Chapter 1. As written, the only thing bringing the group together is setting up their tents next to each other. Two, it seems to me the AP would work much better if the PCs all belong to a Hold of Belkzen and are attending the moot to curry favor with Ardax. That means they are personally vested in Ardax's overall mission and they have more connective tissue with the other factions. It also explains why they would be eager to be helpful during the Torrentmoot. 

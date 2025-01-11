@@ -1,5 +1,5 @@
 ---
-title: 'PF2e Adventure Path Reviews'
+title: 'PF2e Adventure Path Reviews: Spore War Book 1'
 date: 2025-01-12
 permalink: /posts/2025/01-12/pf2e-campaign/
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 
-# Spore War
+# Spore War--Book 1
 I just read Book 1 of the Spore War AP and here are a few things I liked/didn't like: 
 
 - This AP is about the elven nation of Kyonin and the demon Treerazor. I don't particularly care for either but I find the idea of an AP about a war against a demonic force appealing.
