@@ -10,7 +10,7 @@ tags:
 
 **3--4 Gozren 4721**: Belcorra's Retreat
 
-- They keep exploring Belcorr'a Retreat and discover a long hallway with sarcophagi, containing the dead bodies of Belcorra's enemies. To the South a ghostly barrier blocks the way to a descending staircase. To the North, an octagonal room holds a shrine of Nimbaloth.
+- They keep exploring Belcorra's Retreat and discover a long hallway with sarcophagi, containing the dead bodies of Belcorra's enemies. To the South a ghostly barrier blocks the way to a descending staircase. To the North, an octagonal room holds a shrine of Nimbaloth.
 
 - As the party approaches the shrine, two Cairn Wrights emerge and attack but are handled quickly. In the temple, Skrall shoots lightning at two severed hands, which causes them to animate and attack. The hands are joined by four Flickerwisps, which confuse Zazgazan and Corbin. In the end, the party is able to overcome the strange creatures. A strange sense of despair permeates the temple.
 
