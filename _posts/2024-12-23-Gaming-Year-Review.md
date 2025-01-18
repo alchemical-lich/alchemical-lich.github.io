@@ -16,6 +16,7 @@ GM:
 - 6 sessions DCC
 - 4 Sessions Shadow of the Demon Lord
 - 2 Sessions Delta Green
+- 3 Sessions Swords & Wizardry
 
 
 Player:
