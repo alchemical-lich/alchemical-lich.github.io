@@ -3,8 +3,7 @@ title: 'Delta Green Campaign Session 5'
 date: 2024-05-18
 permalink: /posts/2024/5-18/dg-campaign/
 tags:
-  - Bruckstadt
-  - OSR
+  - Delta Green
 ---
 
 
