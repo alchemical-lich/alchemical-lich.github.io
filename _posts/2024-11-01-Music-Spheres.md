@@ -1,5 +1,5 @@
 ---
-title: 'Music of the Spheres of Chaos 1'
+title: 'Music of the Spheres is Chaos 1'
 date: 2024-11-01
 permalink: /posts/2024/11-01/dcc-campaign/
 tags:
@@ -7,7 +7,7 @@ tags:
   - Hexcrawl
 ---
 
-**Session 1 Music of the Spheres of Chaos**
+**Session 1 Music of the Spheres is Chaos**
 
 After returning from the Tolomak Isles, the party rests and recuperates in Punjar. Spending their well earned money, they enjoy a bit of downtime. Totino sequesters himself and works on creating a Wizard's Staff. He adorns a piece of oak with all the strange teeth he has collected over the years. Sacrificing a bit of himself, he empowers the staff with arcane force.
 

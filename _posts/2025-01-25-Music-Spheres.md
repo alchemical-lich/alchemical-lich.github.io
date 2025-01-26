@@ -1,5 +1,5 @@
 ---
-title: 'Music of the Spheres of Chaos 2'
+title: 'Music of the Spheres is Chaos 2'
 date: 2025-01-25
 permalink: /posts/2025/01-25/dcc-campaign/
 tags:
@@ -7,7 +7,7 @@ tags:
   - Hexcrawl
 ---
 
-**Session 2 Music of the Spheres of Chaos**
+**Session 2 Music of the Spheres is Chaos**
 
 The party explores the desolate plateau. In an abandoned monastic cell, they find a straneg altar with profaned holy symbols of three gods and a wall tapestry depicting a mandala of chaos surrounded by the elements of water, earth, and fire. Totino peeks behind the tapstry and finds a secret passage. Luka and Margerite sneak into the tunnel to explore. They find the frozen remains of a Theophage, clutching in their frozen arms a wooden box. Luke carefully pries the box free, but the movement triggers icicles to drop. They quickly retreat as the icicles turn into a swarm of ice spiders. Margerite turns around and weaves a spell to block their passage--the party is saved at the last minute!
 
