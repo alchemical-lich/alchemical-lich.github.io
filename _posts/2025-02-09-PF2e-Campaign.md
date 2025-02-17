@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**6--7 Gozren 4721**: Otari
+**5--6 Gozren 4721**: Otari
 
 The heroes meet with Oseph Menhemes to get his support in their further exploration of the Gauntlight and their investigation of the dwarf saboteurs. He willingly gifts them his ancestor's brooch and wants to be kept abreast of their investigation of the dwarves. He also asked them for another favor: to tutor his daughter.
 
