@@ -1,7 +1,7 @@
 ---
 title: 'Music of the Spheres is Chaos 5'
 date: 2025-03-18
-permalink: /posts/2025/01-31/dcc-campaign/
+permalink: /posts/2025/03-18/dcc-campaign/
 tags:
   - DCC
   - Hexcrawl
