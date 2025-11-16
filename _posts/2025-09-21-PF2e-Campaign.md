@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**13-14 Gozren 4721**: The Laboratory
+**13-14 Gozren 4721**: Otari Under Attack
 
 The party defeats the devils and rescues Vandy. Several citizens perished in the attack, including Oloria Gallatine.
 
