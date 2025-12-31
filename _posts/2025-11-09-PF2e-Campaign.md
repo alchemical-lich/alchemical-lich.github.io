@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**13-14 Gozren 4721**: The Laboratory
+**13-14 Gozren 4721**: The Prison
 
 The party delves into the prison level of the Abomination Vaults. They destroy a devil training of group of Grothluts. They then encounter a fly devil and several fleshwarped Morlocks, killing them quickly. On the fly devil, they find a piece of a pentragram amulet.
 
