@@ -19,5 +19,5 @@ Realizing the situation is quickly getting out of hand, the heroes make another 
 
 This proofs to be a winning strategy. The heroes manage to slay Ysondkhelir and let the remaining monster weaken each other. The villain is slain and Doriana Menhemes is finally safe/
 
-From Ysonkhelir they retrieve another piece of the pentagram amulet.
+From Ysondkhelir they retrieve another piece of the pentagram amulet.
 
