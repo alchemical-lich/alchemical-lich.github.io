@@ -12,27 +12,7 @@ Here are some adventure projects I am currently playing, working on, or thinking
 
 A Level 1--11 5E adventure.
 
-[Andromalion's Blessing](https://alchemical-lich.github.io/andromalion/)
-
 <img src="http://alchemical-lich.github.io/images/dancing_mania.jpg"  width="75%" >
-
-
-## DCC Hexcrawl Notes
-Notes for a DCC hexcrawl, based on existing DCC modules, the DCC Aereth setting guide, and 3rd-party products.
-
-[DCC Hexcrawl Notes](https://alchemical-lich.github.io/dcc-hexcrawl/)
-
-<img src="http://alchemical-lich.github.io/images/aereth_hex_names_numbers.webp"  width="75%" >
-
-[DCC Tolomak Island Crawl Notes](https://alchemical-lich.github.io/dcc-tolomakcrawl/)
-
-
-
-## The Crystal Grammaton of Xambaala--A WWN Sandbox
-
-Work-in-progress...
-
-<img src="http://alchemical-lich.github.io/images/wwn_map.png"  width="65%" >
 
 
 ## The Vile Tale of Christman Grippertenius
@@ -46,7 +26,7 @@ Work-in-progress...
 
 This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. May they rot in hell.
 
-This is a **Level 3-6** **OSE** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
+This is a **Level 4-8** **OSE** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_old_2024.png"  width="65%" >
 
@@ -82,18 +62,10 @@ Other **factions** that are active in the area include:
   
     - They are searching for the *Philosopher's Stone*--a metaphor for self-perfection but also an actual instruction manual for achieving eternal life through lichdom. The Kristallbund is looking for pacts with extraplanar entities, placing members into positions of power at various academies and courts. They are actively searching for powerful magical relics. No friends of organized religion. 
   
-## Behemoth
-A Dirty Dozen-style fantasy civil war campaign.
-
-<img src="http://alchemical-lich.github.io/images/balgrendia.png"  width="85%" >
-
-
 ## The Pilgrimage of St. Berthold
 A larger OSR destination crawl inspired by the *Camino de Santiago*.
 
-
 <img src="http://alchemical-lich.github.io/images/pilgrimage.png"  width="85%" >
-
 
 
 ## The Golden Gate of Batara Kala
