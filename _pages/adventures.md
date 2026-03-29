@@ -83,3 +83,8 @@ We finished a 20+ session campaign of Hyperborea 3E, set in the region around Xa
 
 <img src="http://alchemical-lich.github.io/images/hyperborea 5.png"  width="85%" >
 
+## The Wars of Balgrendia
+
+A 1-10 Shadow of the Demon Lord campaign. A group of criminals is drawn into a succession conflict in the Kingdom of Balgrendia. Can they stop Duke Uthred from killing the Queen and her twin sons? As they are sent behind enemy lines, they uncover a deeper mystery behind the Duke’s attempt to claim the throne...
+
+<img src="http://alchemical-lich.github.io/images/balgrendia.png"  width="85%" >
