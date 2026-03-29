@@ -1,0 +1,348 @@
+/* ==========================================================================
+   Dark Grimoire Theme Overrides
+   Fixes hardcoded light-theme colors throughout the SCSS partials
+   ========================================================================== */
+
+/*
+   Base overrides (_base.scss)
+   ========================================================================== */
+
+figcaption a:hover {
+  color: $primary-color;
+  border-bottom-color: $primary-color;
+}
+
+blockquote {
+  border-left-color: mix($primary-color, $background-color, 60%);
+}
+
+td {
+  border-bottom-color: $border-color;
+}
+
+/*
+   Navigation overrides (_navigation.scss)
+   ========================================================================== */
+
+.greedy-nav {
+  background: $background-color;
+
+  a {
+    color: $masthead-link-color;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+  }
+
+  button {
+    color: $text-color;
+    background-color: $primary-color;
+  }
+
+  .hidden-links {
+    background: $lighter-gray;
+    border: 1px solid $border-color;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+    a {
+      color: $text-color;
+
+      &:hover {
+        color: $primary-color;
+        background: mix($primary-color, $background-color, 15%);
+      }
+    }
+
+    &:before,
+    &:after {
+      border-color: $lighter-gray transparent;
+    }
+  }
+}
+
+.greedy-nav a:before {
+  background: mix($primary-color, $background-color, 40%);
+}
+
+/* Pagination */
+.pagination {
+  a {
+    color: $text-color;
+
+    &.current {
+      color: $background-color;
+      background: $primary-color;
+    }
+
+    &.disabled {
+      color: mix($text-color, $background-color, 30%);
+    }
+  }
+}
+
+.pagination--pager {
+  color: $text-color;
+  border-color: $border-color;
+
+  &:hover {
+    background-color: mix($primary-color, $background-color, 15%);
+  }
+
+  &.disabled {
+    color: mix($text-color, $background-color, 30%);
+  }
+}
+
+/* Table of contents */
+.toc {
+  background-color: $lighter-gray;
+  border: 1px solid $border-color;
+
+  .nav__title {
+    color: $text-color;
+    background: $primary-color;
+    color: $background-color;
+  }
+}
+
+.toc__menu {
+  a {
+    color: $text-color;
+    border-bottom-color: $border-color;
+
+    &:hover {
+      color: $primary-color;
+      background: mix($primary-color, $background-color, 10%);
+    }
+  }
+}
+
+/* Nav list */
+.nav__list .active {
+  color: $background-color;
+
+  &:hover {
+    color: $background-color;
+  }
+}
+
+/*
+   Footer overrides (_footer.scss)
+   ========================================================================== */
+
+.page__footer {
+  background-color: mix(#000, $background-color, 30%);
+  border-top-color: $border-color;
+  color: $gray;
+
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: $gray;
+  }
+
+  a {
+    color: $gray;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+/*
+   Sidebar overrides (_sidebar.scss)
+   ========================================================================== */
+
+.author__urls-wrapper {
+  button {
+    background-color: $lighter-gray;
+    color: $text-color;
+    border-color: $border-color;
+  }
+}
+
+.author__urls {
+  background: $lighter-gray;
+  border: 1px solid $border-color;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+  &:before,
+  &:after {
+    border-color: $lighter-gray transparent;
+  }
+
+  a {
+    color: $text-color;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+/*
+   Page overrides (_page.scss)
+   ========================================================================== */
+
+.page__meta {
+  color: $gray;
+}
+
+.page__taxonomy-item {
+  background-color: $lighter-gray;
+  border-color: $border-color;
+  color: $text-color;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  &:hover {
+    background-color: mix($primary-color, $background-color, 15%);
+  }
+}
+
+.page__comments-form {
+  background: $lighter-gray;
+}
+
+.page__content {
+  h2 {
+    border-bottom-color: $border-color;
+  }
+
+  a:hover img {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* Hero overlays (keep light text on dark overlays) */
+.page__hero--overlay {
+  .page__title,
+  .page__meta,
+  .page__lead,
+  .btn {
+    color: $text-color;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  }
+}
+
+.page__hero-caption {
+  color: $text-color;
+  background: rgba(0, 0, 0, 0.5);
+
+  a {
+    color: $primary-color;
+  }
+}
+
+/*
+   Archive overrides (_archive.scss)
+   ========================================================================== */
+
+.archive__subtitle {
+  color: $gray;
+  border-bottom-color: $border-color;
+}
+
+.archive__item-title a {
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.archive__item:hover .archive__item-teaser {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.archive a:hover img {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/*
+   Button overrides (_buttons.scss)
+   ========================================================================== */
+
+.btn {
+  color: $background-color !important;
+  background-color: $primary-color;
+
+  &:hover {
+    background-color: mix(#fff, $primary-color, 20%);
+  }
+
+  &--inverse {
+    background-color: $lighter-gray;
+    color: $text-color !important;
+    border: 1px solid $border-color;
+
+    &:hover {
+      background-color: mix($primary-color, $background-color, 20%);
+      color: $text-color !important;
+    }
+  }
+
+  &--light-outline {
+    border-color: $text-color !important;
+    color: $text-color !important;
+  }
+}
+
+/*
+   Notice overrides (_notices.scss)
+   ========================================================================== */
+
+.notice,
+.notice--primary,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger {
+  background-color: $lighter-gray;
+  color: $text-color;
+
+  a {
+    color: $primary-color;
+  }
+
+  code {
+    background-color: $code-background-color;
+  }
+}
+
+/*
+   Code / syntax overrides
+   ========================================================================== */
+
+code {
+  border: 1px solid $border-color;
+}
+
+.highlight {
+  background: $code-background-color;
+  border: 1px solid $border-color;
+}
+
+/*
+   Masthead title color
+   ========================================================================== */
+
+.masthead .site-title {
+  color: $primary-color;
+}
+
+/*
+   Selection color for dark backgrounds
+   ========================================================================== */
+
+::selection {
+  background: mix($primary-color, $background-color, 40%);
+  color: $text-color;
+}
