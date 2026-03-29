@@ -10,7 +10,14 @@ Here are some adventure projects I am currently playing, working on, thinking ab
 
 ## Andromalion's Blessing
 
-A Level 1--11 5E adventure.
+> "The effects of the Black Death had not yet subsided, and the graves of millions of its victims were scarcely closed, when a strange delusion arose in Germany, which took possession of the minds of men, and, in spite of the divinity of our nature, hurried away body and soul into the magic circle of hellish superstition.  It was a convulsion which in the most extraordinary manner infuriated the human frame, and excited the astonishment of contemporaries for more than two centuries, since which time it has never reappeared.  It was called the dance of St. John or of St. Vitus, on account of the Bacchantic leaps by which it was characterised, and which gave to those affected, whilst performing their wild dance, and screaming and foaming with fury, all the appearance of persons possessed."
+>
+> _Justus Friedrich Karl Hecker, The Black Death / The Dancing Mania_ [Link](https://www.gutenberg.org/files/1739/1739-h/1739-h.htm)
+
+
+This is a **Level 1-12** **5E** adventure I played with two groups of players. The player characters confront a being from the Far Realm and it's earthly agents in the form of a religious cult. This adventure follows the genre of **heroic fantasy** with a helping of **dark fantasy** elements and **OSR** sensibilities.
+
+The main inspiration for the adventure is the historical phenomenon of the *Veitstanz*, *Dancing Mania*, or *St. Vitus Dance*, an instance of collective mania that led people to uncontrollably move or dance to exhaustion in the 14th to the 17th century in different parts of Europe. See [Wikipedia](https://en.wikipedia.org/wiki/Dancing_mania) for a quick overview.
 
 <img src="http://alchemical-lich.github.io/images/dancing_mania.jpg"  width="75%" >
 
