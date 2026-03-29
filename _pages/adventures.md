@@ -15,7 +15,7 @@ Here are some adventure projects I am currently playing, working on, thinking ab
 > _Justus Friedrich Karl Hecker, The Black Death / The Dancing Mania_ [Link](https://www.gutenberg.org/files/1739/1739-h/1739-h.htm)
 
 
-This is a **Level 1-12** **5E** adventure I played with two groups of players. The player characters confront a being from the Far Realm and it's earthly agents in the form of a religious cult. This adventure follows the genre of **heroic fantasy** with a helping of **dark fantasy** elements and **OSR** sensibilities.
+This is a **Level 1-12** **5E** adventure I played with two groups of players. The player characters confront a being from the Far Realm and its earthly agents in the form of a religious cult. This adventure follows the genre of **heroic fantasy** with a helping of **dark fantasy** elements and **OSR** sensibilities. It mixes a classic linear adventure, with sandbox sections, featuring classic dungeon adventuring, a murder mystery, a prison break, the siege of a city, and a grand set piece finale.
 
 The main inspiration for the adventure is the historical phenomenon of the *Veitstanz*, *Dancing Mania*, or *St. Vitus Dance*, an instance of collective mania that led people to uncontrollably move or dance to exhaustion in the 14th to the 17th century in different parts of Europe. See [Wikipedia](https://en.wikipedia.org/wiki/Dancing_mania) for a quick overview.
 
