@@ -5,7 +5,7 @@ permalink: /adventures/
 author_profile: true
 ---
 
-Here are some adventure projects I am currently playing, working on, or thinking about.
+Here are some adventure projects I am currently playing, working on, thinking about, or finished playing.
 
 
 ## Andromalion's Blessing
@@ -24,7 +24,7 @@ A Level 1--11 5E adventure.
 <img src="http://alchemical-lich.github.io/images/Admirable_Discovrs_D'vn_Brigand_Nomme_Christeman.jpg"  width="65%" >
 
 
-This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. May they rot in hell.
+This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. 
 
 This is a **Level 4-8** **OSE** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
 
@@ -35,7 +35,7 @@ While not exactly happening at the right time, this adventure can be embedded in
 
 <img src="http://alchemical-lich.github.io/images/HRE_map_old_2024.png"  width="65%" >
 
-Campaign hook:
+Here is the campaign hook we used for a 35+ session OSE campaign set in the HRE:
 
 The PCs are part of a mercenary company that was routed at the *Battle of Magdeburg*. The leading officers of the Company have been killed or captured--the PCs are now in charge. Time to re-group, re-build, acquire a new base of operations, and get back into action. New characters joining are stragglers of the *Battle of Magdeburg*, having made their way to the current group's location with some delay or fresh recruits, ready to risk their meager lives for some coin.
 
@@ -62,13 +62,24 @@ Other **factions** that are active in the area include:
   
     - They are searching for the *Philosopher's Stone*--a metaphor for self-perfection but also an actual instruction manual for achieving eternal life through lichdom. The Kristallbund is looking for pacts with extraplanar entities, placing members into positions of power at various academies and courts. They are actively searching for powerful magical relics. No friends of organized religion. 
   
-## The Pilgrimage of St. Berthold
+## The Pilgrimage of St. Bertolo
 A larger OSR destination crawl inspired by the *Camino de Santiago*.
 
 <img src="http://alchemical-lich.github.io/images/pilgrimage.png"  width="85%" >
 
 
-## The Golden Gate of Batara Kala
-A CWN/Shadowrun Campaign.
+## Pallid Suns
+A CWN/Shadowrun Campaign. In development.
 
+## Low Income Barony
+Gang wizards slingin’ potions in a poor barony, while vampires scheme. A Shadowdark sandbox adventure.
+
+## The Music of the Spheres is Chaos
+
+We finished a fun campaign of DCC, playing through several modules before culminating with the fantastic The Music of the Spheres is Chaos. Long live Totino the Toothless!
+
+## The Crystal Grammaton
+We finished a 20+ session campaign of Hyperborea 3E, set in the region around Xambaala. I smashed together several modules (A Late Trapper’s Lament, The Ghost Ship of the Desert Dunes, the Anthropophagi of Xambaala, Rat’s in the Walls), sprinkled in some home-brew, and let the player’s go wild. 
+
+<img src="http://alchemical-lich.github.io/images/hyperborea 5.png"  width="85%" >
 
