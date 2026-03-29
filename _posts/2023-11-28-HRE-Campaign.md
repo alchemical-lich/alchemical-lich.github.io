@@ -18,5 +18,5 @@ tags:
 
 - The party is able to recover several silver toad statuettes and the book, leaving the terrifying slime behind.
 
-- Total treasure recovered: 1280 gp in coins, 1 sold silver toad statuette (1200 gp), 1 sold homunculus (1000 gp), a spellbook (Hold Person, Detect Invisible), sheet music *The Call of Life**, one magical toad statuette that works like a small trumpet (magical, not sold).
+- Total treasure recovered: 1280 gp in coins, 1 solid silver toad statuette (1200 gp), 1 sold homunculus (1000 gp), a spellbook (Hold Person, Detect Invisible), sheet music *The Call of Life*, one magical toad statuette that works like a small trumpet (magical, not sold).
 

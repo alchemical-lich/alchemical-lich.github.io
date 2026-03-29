@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign Session 35'
+title: 'HRE Campaign Session 37'
 date: 2024-11-18
 permalink: /posts/2024/11-18/hre-campaign/
 tags:
@@ -10,7 +10,7 @@ tags:
 
 **12/24/1631 -- 12/30/1631**:
 
-- The Wolfguard Scouts hear the news of Archbishop Hatzfeld's return to Würzburg. The people are calling it a Christmas Miracle. The Archbishop blames identifies the Wolfguard as the culprit for his abduction, with the secret support of the city of Bruckstadt, and Protestant sycophants in the region. He is calling on all true Catholics to rally to his banner to exact retribution. Uh-oh.
+- The Wolfguard Scouts hear the news of Archbishop Hatzfeld's return to Würzburg. The people are calling it a Christmas Miracle. The Archbishop identifies the Wolfguard as the culprit for his abduction, with the secret support of the city of Bruckstadt, and Protestant sycophants in the region. He is calling on all true Catholics to rally to his banner to exact retribution. Uh-oh.
 
 - The Scouts return to Castle Xyntillan and begin to explore the second level. They discover a library and other well-appointed rooms.
 

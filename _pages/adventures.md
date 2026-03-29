@@ -59,7 +59,7 @@ Other **factions** that are active in the area include:
     
   - A Mercenary Company: **Mentzer's Irregulars**
   
-    - A rival company for the PCs. There is bad blood and a history of betrayal. The Irregalurs will take any job, no matter the employer...
+    - A rival company for the PCs. There is bad blood and a history of betrayal. The Irregulars will take any job, no matter the employer...
     
   - A Mercantile concern: **Handelshaus von Bodeck** and the **Hammelburg Waffenwerke** as a center of weapons manufacturing under the leadership of **Familie Klee**.
   
@@ -86,7 +86,7 @@ Criminal wizard gangs slingin’ potions in a poor barony, while vampires scheme
 We finished a fun campaign of DCC, playing through several modules before culminating with the fantastic The Music of the Spheres is Chaos. Long live Totino the Toothless!
 
 ## The Crystal Grammaton
-We finished a 20+ session campaign of Hyperborea 3E, set in the region around Xambaala. I smashed together several modules (A Late Trapper’s Lament, The Ghost Ship of the Desert Dunes, the Anthropophagi of Xambaala, Rat’s in the Walls), sprinkled in some home-brew, and let the player’s go wild. 
+We finished a 20+ session campaign of Hyperborea 3E, set in the region around Xambaala. I smashed together several modules (A Late Trapper’s Lament, The Ghost Ship of the Desert Dunes, the Anthropophagi of Xambaala, Rats in the Walls), sprinkled in some home-brew, and let the players go wild. 
 
 <img src="http://alchemical-lich.github.io/images/hyperborea 5.png"  width="85%" >
 

@@ -12,7 +12,7 @@ tags:
 I GMed or played the following RPG sessions:
 
 - Pathfinder 2E: 16 sessions
-- OD%D: 35 sessions
+- OD&D: 35 sessions
 - AD&D: 7 sessions
 - Delta Green: 5 sessions
 - OSE: 6 sessions
@@ -48,18 +48,18 @@ Books I read:
 - Richard Osman--*The Man Who Died Twice*
 - Richard Osman--*The Bullet that Missed*
 - Richard Swan--*Grave Silence*
-- Jay Kristof--*Nevernight*
+- Jay Kristoff--*Nevernight*
 - Andy Weir--*Project Hail Mary*
 - Anthony Ryan--*Tide of Black Steel*
 - Joe Abercrombie--*The Devils*
 - Ryan Cahill--*Of Darkness and Light*
 - Ryan Cahill--*Of War and Ruin*
-- Robert Jackson Bennet--*A Drop of Corruption*
+- Robert Jackson Bennett--*A Drop of Corruption*
 - Jonathan Maberry--*Son of the Poison Rose*
 - Mitchell Lüthi--*The Pilgrim*
 - Dan Brown--*The Secret of Secrets*
 - Mick Herron--*Slow Horses*
-- Jay Kristof--*Empire of the Vampire*
-- Jay Kristof--*Empire of the Damned*
-- Jay Kristof--*Empire of Dawn*
+- Jay Kristoff--*Empire of the Vampire*
+- Jay Kristoff--*Empire of the Damned*
+- Jay Kristoff--*Empire of Dawn*
 

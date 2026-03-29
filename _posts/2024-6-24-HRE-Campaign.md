@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign Session 25'
+title: 'HRE Campaign Session 27'
 date: 2024-06-24
 permalink: /posts/2024/6-24/hre-campaign/
 tags:
@@ -17,7 +17,7 @@ tags:
 
 - They are rewarded with a magical ring by St. Maria for freeing the Abbey of Abbot Guillaume. They make their way down the mountain and encounter a Treant. Gaspard, with his elvish sensibilities, is able to treat with the tree creature and win its favor by gifting it a healing potion. The Wolfguard receives the Treant's protection.
 
-- They return to their Keep and Bruckstadt to tend to some business. They decline to bring the holy water to Pastor Ludwig von Acht. Instead, they use it to restore Sid's life energy. They pick up some additional rumors in town: Mentzer's Irregulars, a famous mercenary company, has a new captain: Jeka Garcia. Apparently, she is hiring men all over the region. The magistrate of Metz is calling for help. 20,000 gp for the brave soul that can apprehend the bandit Christman Grippertenius--dead or alive. The Wolfguard is also offered 2,000 go to attend a secret meeting with one Theodor Franzwein. They are to meet him in Bruckstadt in three days time, at midnight in the graveyard.
+- They return to their Keep and Bruckstadt to tend to some business. They decline to bring the holy water to Pastor Ludwig von Acht. Instead, they use it to restore Sid's life energy. They pick up some additional rumors in town: Mentzer's Irregulars, a famous mercenary company, has a new captain: Jeka Garcia. Apparently, she is hiring men all over the region. The magistrate of Metz is calling for help. 20,000 gp for the brave soul that can apprehend the bandit Christman Grippertenius--dead or alive. The Wolfguard is also offered 2,000 gp to attend a secret meeting with one Theodor Franzwein. They are to meet him in Bruckstadt in three days time, at midnight in the graveyard.
 
 - Treasure value recovered: 4,163 GP total
 - Magic items: Potion of Gaseous Form, Potion of Flying, Silvered staff +1, Ring of Protection +1, Spell Book (Light, Read Magic, Knock, Invisibility 10ft)

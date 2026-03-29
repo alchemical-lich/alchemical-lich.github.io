@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign Session 21'
+title: 'HRE Campaign Session 23'
 date: 2024-05-06
 permalink: /posts/2024/5-06/hre-campaign/
 tags:
@@ -14,7 +14,7 @@ tags:
 
 - In Moorbach, they learn more about the assault from a few nights ago. Green-clad bandits descended on the town, targeting visitors in the Golden Goose. They abducted 18 people and killed 7 villagers. 
 
-- The Wolfguard travels through the swamp, evading some giant leeches, and hatches a plan for their assault on the cloister. Streng, the Halfling thief, is made in invisible and scouts the building.
+- The Wolfguard travels through the swamp, evading some giant leeches, and hatches a plan for their assault on the cloister. Streng, the Halfling thief, is made invisible and scouts the building.
 
 - At dusk, Streng is sent back in to open the main doors from the inside, while the rest of the party waits outside for a frontal assault.
 

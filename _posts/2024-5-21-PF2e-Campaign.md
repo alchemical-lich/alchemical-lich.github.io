@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 15'
+title: 'Abomination Vaults Session 16'
 date: 2024-5-21
 permalink: /posts/2024/5-21/pf2e-campaign/
 tags:
@@ -16,4 +16,4 @@ tags:
 
 - The party re-groups and explores to the North. They find a small reading room with a fey occupant. The Lurker in the Light becomes agitated when Corbin takes one of "his" books and rejects Zazgaz' offer of some magical sling bullets. The creature turns vile and attacks. Zazgaz and Rizzard attack from two sides: Zazgaz hits the creature mid-flight and it tumbles to the ground; Rizzard jumps forward and grapples the nasty bugger. Before others can land a hit, the Fey bites down on Rizzard's arm and teleports away.
 
-- In the reading room, the group recovers several interesting book--one outlining the creation of Poltergeists, the other a tome sought after by Morlibint.
+- In the reading room, the group recovers several interesting books--one outlining the creation of Poltergeists, the other a tome sought after by Morlibint.

@@ -1,7 +1,7 @@
 ---
-title: 'HRE Campaign Session 21'
+title: 'HRE Campaign Session 22'
 date: 2024-04-29
-permalink: /posts/2024/4-22/hre-campaign/
+permalink: /posts/2024/4-29/hre-campaign/
 tags:
   - Bruckstadt
   - OSR
@@ -12,9 +12,9 @@ tags:
 
 - The Wolfguard travels to Nordhausen to sell the crown of the Carr family to Lutz von Groten, Bishop of Nordhausen.
 
-- On the way, they encounter a group of brigands. Mad Tim charms their leader Peldred and assures safe passage. The birgands lair in the woods to the North (Hex 0111).
+- On the way, they encounter a group of brigands. Mad Tim charms their leader Peldred and assures safe passage. The brigands lair in the woods to the North (Hex 0111).
 
-- In Nordhausen, they find rooms at the Neuenegg Inn. During the night, a loud gunshot wakes everyone in the Inn. Crüde is the first to investigate. Pistil in hand, wearing his nightgown, he finds the dead body of another guest in a room across the hallway. Before the other guests appear, he is able to snatch the dead man's diary.
+- In Nordhausen, they find rooms at the Neuenegg Inn. During the night, a loud gunshot wakes everyone in the Inn. Crüde is the first to investigate. Pistol in hand, wearing his nightgown, he finds the dead body of another guest in a room across the hallway. Before the other guests appear, he is able to snatch the dead man's diary.
 
 - Another guest, Inquisitor Moritz Kirchner, takes over the crime scene and orders everyone back to their rooms as he investigates the apparent suicide.
 
@@ -24,8 +24,8 @@ tags:
 
 - They travel back toward Bruckstadt. On the way, they encounter pack of friendly St. Bernard dogs and hear the news of a bandit raid on Moorbach. Apparently, a group of bandits attacked the town overnight and abducted over a dozen villagers.
 
-- Back in Bruckstadt, the party sells the holy oils and greases to a pleased Cafarelli. They also hire him to dispel the protective glyphs on the two remaining chests recovered from the Cloister of the Frog God. Inside, they find a cache of valuables and magit items.
+- Back in Bruckstadt, the party sells the holy oils and greases to a pleased Cafarelli. They also hire him to dispel the protective glyphs on the two remaining chests recovered from the Cloister of the Frog God. Inside, they find a cache of valuables and magic items.
 
-- The Wolfguard spends 5,000 go to restore their keep. Although some unfortunate accidents increase the costs, their Keep will be completed by 10/30.
+- The Wolfguard spends 5,000 gp to restore their keep. Although some unfortunate accidents increase the costs, their Keep will be completed by 10/30.
 
-- Treasure recovered: 2,200 gp, six saphhires (800 gp each), 2 blocks of orange wax (cast Commune for evil deities), a scroll case with coded documents, 9 potions of healing, 2 potions of extra healing, a potion of poison, a super acid, a potion of speed, a potion of distilled disease, the elixir of all-seeing doom, the Hand of the Revenant.
+- Treasure recovered: 2,200 gp, six sapphires (800 gp each), 2 blocks of orange wax (cast Commune for evil deities), a scroll case with coded documents, 9 potions of healing, 2 potions of extra healing, a potion of poison, a super acid, a potion of speed, a potion of distilled disease, the elixir of all-seeing doom, the Hand of the Revenant.

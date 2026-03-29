@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 23'
+title: 'Abomination Vaults Session 24'
 date: 2024-12-08
 permalink: /posts/2024/12-08/pf2e-campaign/
 tags:
@@ -8,11 +8,11 @@ tags:
 ---
 
 
-**1--3 Gozren 4721**: Belcorra's Retreat
+**1--3 Gozran 4721**: Belcorra's Retreat
 
 - After the battle with Volluk Azrinae, the party returns to Otari to heal their wounds and rest. Arryn has learned to read and speak Aklo and translates Belcorra's journal and the architectural plans of the Gauntlight.
 
-- They return to the Gauntlight on the 3rd of Gozren. On their way to Volluk's rooms, they encounter a Corspelight close to the spiderwebs. The undead is no threat but the commotion attracts two Hunting Spiders and an Ogre Spider. The group handles the threat and delves deep into the Gauntlight.
+- They return to the Gauntlight on the 3rd of Gozren. On their way to Volluk's rooms, they encounter a Corpselight close to the spiderwebs. The undead is no threat but the commotion attracts two Hunting Spiders and an Ogre Spider. The group handles the threat and delves deep into the Gauntlight.
 
 - The scour the rooms of Volluk Azrinae. They find a magical lantern and some scrolls on a desk, but Corbin discovers a secret door to the East, leading to the central tower of the Gauntlight. Inside, they see the strange blue-white necromantic energy spiraling from the floor to the roof. This time, it passes through a screaming dwarf, chained to a metal table. They use a bit of magical trickery to open the manacles and the dwarf rolls to the side. The necromantic energy extinguishes and the group approaches. At that moment, a Will-o-Wisp materializes and attacks the party. A mighty blow by Zazgazan and a well aimed Force Barrage by Skrall take care of the ghostly creature.
 

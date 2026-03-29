@@ -18,8 +18,8 @@ tags:
 
 - The party returns to the basement of the Gauntlight and explores further. They learn more about the ghostly energy in the washroom--a remnant of the thief Otari Ilvashti, member of the Roseguard. At some point he was down here, hiding from something before he died. 
 
-- They meet the devil Zozzlarin, who has been bound to this level of the Gauntlight to clean it. He has been diligently doing his job for hundreds of years. The group let's him live (for now).
+- They meet the devil Zozzlarin, who has been bound to this level of the Gauntlight to clean it. He has been diligently doing his job for hundreds of years. The group lets him live (for now).
 
-- The push down South to confront the Morlocks. They find a tunnel to a damp cave in which a strange maggot-like, tentacled creature dwells. It's moans cause extreme discomfort. The group acts quickly and lays into the beast, killing it quickly. Morlocks emerge from the North, their leader, Graulgust, among them. They surge towards the group while their king begins to cast occult spells. A battle ensues that sees Corbin lose consciousness after a nasty blow to the head, but the group prevails and slays the Morlocks. The basement level of the Gauntlight seems mostly cleared, but what lies below?
+- They push down South to confront the Morlocks. They find a tunnel to a damp cave in which a strange maggot-like, tentacled creature dwells. Its moans cause extreme discomfort. The group acts quickly and lays into the beast, killing it quickly. Morlocks emerge from the North, their leader, Graulgust, among them. They surge towards the group while their king begins to cast occult spells. A battle ensues that sees Corbin lose consciousness after a nasty blow to the head, but the group prevails and slays the Morlocks. The basement level of the Gauntlight seems mostly cleared, but what lies below?
 
 

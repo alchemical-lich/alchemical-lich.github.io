@@ -12,7 +12,7 @@ tags:
 
 - After some further exploration of the underground Servant's Quarters, the party descends a set of stairs deeper below the Gauntlight.
 
-- They encounter a ghoul-morlock, named Augreal, reading on an old leather couch. He eyes them warily but curious. He was expelled from the Morlock tribe after his transformation and has been lingering down here. His passion are book, but he has little access to the main library on this floor because the *Cult of the Canker* bars him from accessing it. The group convinces Augreal to accompany them.
+- They encounter a ghoul-morlock, named Augreal, reading on an old leather couch. He eyes them warily but curious. He was expelled from the Morlock tribe after his transformation and has been lingering down here. His passion is books, but he has little access to the main library on this floor because the *Cult of the Canker* bars him from accessing it. The group convinces Augreal to accompany them.
 
 - They move northwards along a narrow corridor. They find another ghostly apparition of the thief Otari. To the West, a small reading room harbors a terrifying haunt--a strange red eye opens on the wall and causes fear and paranoia in the group. Luckily, Corbin's vast experience with exorcisms allows him to end the apparition. They discover two hidden teleportation circles behind a set of secret doors in the room.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 16'
+title: 'Abomination Vaults Session 17'
 date: 2024-5-26
 permalink: /posts/2024/5-26/pf2e-campaign/
 tags:
@@ -20,4 +20,4 @@ tags:
 
 - Back in Otari, they tend to business. Arryn struggles with his Blue Blister affliction and has to seek the help of Vandy Banderdash. For a generous donation, she calls on the aid of Sarenrae to heal his painful rash.
 
-- Corbin is visited by local merchant Keeleno Lathenar, who warns him off Worliwynn. He seems to have a grduge against the druids of the Stone Circle. He explains that 20 years ago a member of the Circle, Jaul Mesmin, brutally murdered his wife. The druids tried to cover up his crimes. When the villagers confronted him, he jumped off the Otaru cliffs and was never seen again.
+- Corbin is visited by local merchant Keeleno Lathenar, who warns him off Worliwynn. He seems to have a grudge against the druids of the Stone Circle. He explains that 20 years ago a member of the Circle, Jaul Mesmin, brutally murdered his wife. The druids tried to cover up his crimes. When the villagers confronted him, he jumped off the Otaru cliffs and was never seen again.

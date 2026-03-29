@@ -20,7 +20,7 @@ They step inside and see three sleeping women, suspended in a large sphere of wa
 
 A wild battle ensues. In the swirling melee, Margerita is knocked unconscious, as is Crab-Tino. Even mighty Colin Cannoli goes down after being hit by 6 (!) magic missiles from the Queen. The tide of the battle turns, when Margerita calls in the power of her patron--sacrificing her own blood, she begs the Strangled Bride Dzzali to help her. So she does. Dzzali intervenes and confuses the Queen, making her unable to pick friend from foe. The moment of respite is enough for the others to slay the Queen's handmaiden and Obi-Wan Robinson to issue a prayer while speaking the Queen's true name: Qeel-Ilsh-aaha! The spell is broken and the Queen is freed.
 
-The heroes help the Queen out of the prison and tell her about her sister's on the islands. The Sea Queen's return will likely re-establish a semblance of peace between the rivaling sisters. Now, the party sets their eyes on a new prize: getting rid of Master Zagarius and his evil merchant scheme.
+The heroes help the Queen out of the prison and tell her about her sisters on the islands. The Sea Queen's return will likely re-establish a semblance of peace between the rivaling sisters. Now, the party sets their eyes on a new prize: getting rid of Master Zagarius and his evil merchant scheme.
 
 <img src="http://alchemical-lich.github.io/images/queen2.jpg" width="600"/>
 

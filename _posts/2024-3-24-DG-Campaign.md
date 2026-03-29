@@ -1,7 +1,7 @@
 ---
 title: 'Delta Green Campaign Session 4'
 date: 2024-03-24
-permalink: /posts/2024/3-18/dg-campaign/
+permalink: /posts/2024/3-24/dg-campaign/
 tags:
   - Delta Green
 ---
@@ -11,7 +11,7 @@ tags:
 
 - H Cell has been dispatched to Yosemite National Park for OPERATION FULMINATE.
 
-- The Team (Kreese, Krause, Seans) arrives at the Racnhero Falls Trailhead Ranger Station and begins questioning BRANDON MCGILL. They discover strange scars on his body and a suspicious tattoo on his neck.
+- The Team (Kreese, Krause, Seans) arrives at the Ranchero Falls Trailhead Ranger Station and begins questioning BRANDON MCGILL. They discover strange scars on his body and a suspicious tattoo on his neck.
 
 - They investigate Brandon's disappearance, his report of tall strangers, a deep cave, and two other kids. They find suggestive evidence children have been going missing in Yosemite since at least 1914.
 

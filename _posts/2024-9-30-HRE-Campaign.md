@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign Session 29'
+title: 'HRE Campaign Session 31'
 date: 2024-09-30
 permalink: /posts/2024/9-30/hre-campaign/
 tags:
@@ -10,7 +10,7 @@ tags:
 
 **12/04/1631 -- 12/08/1631**:
 
-- Sid escapes through and window and joins Gaspard and Wilhelm in the boat. They paddle down the river and deliver the gaseous Archbishop to the waiting ship at the docks. Alarm bells are ringing throughout the city. Guards and Schwarzritter and swarming the streets. Magnus wanders through the city, starting a fire as a distraction, and eventually makes his way to the docks. Relying on their invisibility, the others escape from Fortress Marienburg just as the gates are being closed. As they make their way to the docks, riots engulf the city.
+- Sid escapes through and window and joins Gaspard and Wilhelm in the boat. They paddle down the river and deliver the gaseous Archbishop to the waiting ship at the docks. Alarm bells are ringing throughout the city. Guards and Schwarzritter are swarming the streets. Magnus wanders through the city, starting a fire as a distraction, and eventually makes his way to the docks. Relying on their invisibility, the others escape from Fortress Marienburg just as the gates are being closed. As they make their way to the docks, riots engulf the city.
 
 - On the ship, they attempt to secure the Archbishop as he transforms back to his regular form. While they succeed, he is able to knock Sid on the head. Ouch!
 
@@ -24,5 +24,5 @@ tags:
 
 - Several days of journeying later, they make it back to Castle Aarhorst, 50k richer!
 
-- Treasure claimed: 50k go, jewelry (1800gp), The Ring of Iron Loyalty, The Staff of St. Bartholomäus /Healer's Staff.
+- Treasure claimed: 50k gp, jewelry (1800gp), The Ring of Iron Loyalty, The Staff of St. Bartholomäus /Healer's Staff.
 

@@ -122,12 +122,12 @@ Use rules as written with the following adjustments:
 
 - Every piece of Cyberware increases the DR for nanopower/magic tests by +1.
 
-- Every piece of Cyberware increases the DR for social test by +1.
+- Every piece of Cyberware increases the DR for social tests by +1.
 
 # Magic/Nanopowers
 New Nano-powers/magic can be acquired in-game. Procedures vary. It always takes Karma Points to successfully acquire a new Nano-power and sometimes also costs credits.
 
-The Nano-Power Skill increases the chances of successfully activating a Nano-power, giving you a bonus on your activation test. Your nanopower skill also makes it more difficult for targets of your power to resist. If the power call for a resistance test, adjust the DR by your skill rating.
+The Nano-Power Skill increases the chances of successfully activating a Nano-power, giving you a bonus on your activation test. Your nanopower skill also makes it more difficult for targets of your power to resist. If the power calls for a resistance test, adjust the DR by your skill rating.
 
 ## Controlling and Unleashing Nano-powers
 A key feature of Shadowrun magic is the ability to decide the amount of risk and reward involved in casting a spell. RAW CY_Borg has a risk attached to activating nano-powers, but gives no opportunity for characters to affect that risk. By RAW, activating a nano-power is also fairly difficult, which makes it very risky. 
@@ -173,7 +173,7 @@ Here are some additional powers:
 | **Change Face**| Change your physical appearance for 1d6 hours.  |
 | **Cloak**| Become invisible and cloaked from visual sensors for 1d6 minutes. +/- 2 on all attack and defense tests.   |
 | **Fly**| Gain the ability to fly at half your regular speed for 1d6 X 10 minutes.   |
-| **Summon Aberration**| Summon a mutated beast with the stats of a **Warg** (p.100) for 1d6 hours. The creature will obey your commands. If you die or become unconscious, the create will 1--3 vanish or 4--6 attack the nearest target.  |
+| **Summon Aberration**| Summon a mutated beast with the stats of a **Warg** (p.100) for 1d6 hours. The creature will obey your commands. If you die or become unconscious, the creature will 1--3 vanish or 4--6 attack the nearest target.  |
 
 
 ## Magical Weapons and Foci
@@ -272,7 +272,7 @@ Adapted from Unheroic Feats in MB Heretic.
 |   25      |  First Strike         |  You gain a +1 to initiative rolls and your first attack in combat gains **Advantage**.         |
 |   26      |  Reckless Blow          |   When wielding two-handed weapons, you may swing with DR+2. If the attack lands, you add d6 to your damage. Missing allows your opponent to strike with an attack that you can defend against at DR+2.       |
 |   31      |  Harbinger of Misery         | Gain 4 maximum Glitches instead of 2. As long as you live, the GM rolls two Misery dice every day.   |
-|   32      |  Home-Chemist         |  Once per day, you may scrounge to find the necessary chemical substances to to create an infection-curing elixir that also heals d4 HP.  Test Presence DR12 to attempt this treatment. Failing instead creates a toxin dealing d4 damage.      |
+|   32      |  Home-Chemist         |  Once per day, you may scrounge to find the necessary chemical substances to create an infection-curing elixir that also heals d4 HP.  Test Presence DR12 to attempt this treatment. Failing instead creates a toxin dealing d4 damage.      |
 |   33      |  Hyper Awareness         |  You can never be the victim of a surprise attack. Additionally, your side takes the initiative on 3+.  |
 |   34      |  Tough as Nails         | You ignore all DR modifiers from **Wounds**.         |
 |   35      |   Likeable        | Whenever a reaction roll is made, roll 3d6 and keep the highest two dice.         |
@@ -303,7 +303,7 @@ Adapted from Unheroic Feats in MB Heretic.
 # Dying Rules
 HP represent stamina, grit, and luck, not health. They represent how long you can avoid actual damage. 
 
-When a PC hits 0 HP or less, they have to test Toughness test with DR 12:
+When a PC hits 0 HP or less, they have to test Toughness with DR 12:
 
   - On a success, the PC stays conscious but takes one **Wound**. For every **Wound**, all future DR tests (except for damage resistance) are increased by 1 point. If a PC accumulates wounds equal to their Toughness modifier +1 (minimum of 2), they automatically die.
   

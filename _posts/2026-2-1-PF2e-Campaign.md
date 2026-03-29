@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 41'
+title: 'Abomination Vaults Session 43'
 date: 2026-2-1
 permalink: /posts/2026/2-01/pf2e-campaign/
 tags:

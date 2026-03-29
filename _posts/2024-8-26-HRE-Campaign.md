@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign Session 27'
+title: 'HRE Campaign Session 29'
 date: 2024-08-26
 permalink: /posts/2024/8-26/hre-campaign/
 tags:
@@ -10,13 +10,13 @@ tags:
 
 **12/03/1631**:
 
-- While the Wolfguard prepares for their trip to Würzburg, their domain around Castle Aarhorst grows. New construction projects are beginning, while scouts roam the countryside to claim more territory. The small community around Castle Aarhorst begins to grow. A pair of noble duelists passes by Castle Aarhorst, searching for a scoundrel than has impuned their honor. The Wolfguard lends assistance and earns their favor.
+- While the Wolfguard prepares for their trip to Würzburg, their domain around Castle Aarhorst grows. New construction projects are beginning, while scouts roam the countryside to claim more territory. The small community around Castle Aarhorst begins to grow. A pair of noble duelists passes by Castle Aarhorst, searching for a scoundrel that has impugned their honor. The Wolfguard lends assistance and earns their favor.
 
 - The Wolfguard arrives in Würzburg and learns at the docks that the Archbishop is scheduled to leave town for Rome in two days! They fan out to learn as much as possible about the town and the Archbishop.
 
-- They learn that the Schwarzritter and an incorruptible mercenary force protecting the Archbishop, who has not been seen at mass in the White Cathedral.
+- They learn that the Schwarzritter are an incorruptible mercenary force protecting the Archbishop, who has not been seen at mass in the White Cathedral.
 
-- Magnus acquires a rowboat and learns that the rives is secured at night with submerged chains, blocking passage.
+- Magnus acquires a rowboat and learns that the river is secured at night with submerged chains, blocking passage.
 
 - The party also acquires a painting of the Marienberg Fortress.
 

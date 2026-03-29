@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 19'
+title: 'Abomination Vaults Session 20'
 date: 2024-10-13
 permalink: /posts/2024/10-13/pf2e-campaign/
 tags:

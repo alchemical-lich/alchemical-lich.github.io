@@ -22,7 +22,7 @@ tags:
 
 - The party regroups and rests for the night. They re-enter the crypt with Sid, her deadwood sword, and sanctified weapons. This time, their collective might vanquishes the creature. 
 
-- The find a diamond-studded diadem, the book Magic of the Toad sought by Cafarelli, and three pieces of toadglass.
+- They find a diamond-studded diadem, the book Magic of the Toad sought by Cafarelli, and three pieces of toadglass.
 
 - They return to Bruckstadt, deliver the book to Cafarelli for a reward. They learn that he belongs to a secret fraternity of scholars that will pay handsomely for more relics of the toad god. He believes a secret sanctuary of the cult exists in the nearby swamp--the fabled Cloister of the Frog God. The Wolfguard is to retrieve relics and ceremonial oils from this accursed place.
 

@@ -18,7 +18,7 @@ tags:
 
 - The group proceeds North. They find a room with wall paintings and a ceiling grate. Darvan unlocks the grate and finds a mysterious glass bottle full of blue smoke. Behind the wall paintings, grave niches are hidden. One contains an old piece of parchment, suggesting the bottle imprisons a jinn. Another wall niche triggers a trap of magical darkness. The group flees to the North and is immediately ambushed by a large spider!
 
-- Further North, they find a room with a magically sealed lattice door. A statue of a woman with frog-like features indicates the way to open the gate: bless your hand in the dark waters in the stone bowl. Does this have anything to do with the cult of Joz'Quatl?The new torchbearer Yohann is brave enough to do it and opens the gate.
+- Further North, they find a room with a magically sealed lattice door. A statue of a woman with frog-like features indicates the way to open the gate: bless your hand in the dark waters in the stone bowl. Does this have anything to do with the cult of Joz'Quatl? The new torchbearer Yohann is brave enough to do it and opens the gate.
 
 - To the West, they find more spiders. The light of a torch seems to making them come alive. Darvan is swarmed by spiders and would have died, if it not were for Sid commanding the jinn to save his life. Sid, having cast Sleep on the spiders, cuts them to pieces before they wake. 
 - North of the spiders' room, a robbed tomb and a sealed door. Yohann breaks down the door, which is protected by a curse rune, without any trouble. Does he have the blessings of Fortuna?

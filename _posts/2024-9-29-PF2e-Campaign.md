@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 18'
+title: 'Abomination Vaults Session 19'
 date: 2024-9-29
 permalink: /posts/2024/9-29/pf2e-campaign/
 tags:
@@ -20,4 +20,4 @@ tags:
 
 - While the others finally kill the dwarf and his wild pet, Rizzard is attacked by a Gargoyle. Maintaining his invisibility, he jumps down into the courtyard, runs toward the portcullis' winch, and begins lifting the heavy iron barrier. The gargoyle flies after him and bites his neck. A spurt of deep red blood gushes out and covers the dark grey skin of the gargoyle. Rizzard collapses, but the portcullis remains partially lifted. 
 
-- The others break off their attempts and first aid and rush towards Rizzard's aid. Corbin crawls under the portcullis and assesses the threat: he surmises the create has a natural resistance to physical damage--only adamantine weapons being able to penetrate the beast's petrified skin. The gargoyle kills the remaining town guard and flenses Corbin's skin with its claws. Zazgaz and Arryn do their best to protect their companions. Two party members down and two dead guards...at the last moment Arryn sends a desperate prayer to Nethys. Divine energy emanates from everyone and both Corbin and Rizzard regain consciousness while the gargoyle menacingly hovers above the party, it's beady eyes focusing on Zazgaz...
+- The others break off their attempts and first aid and rush towards Rizzard's aid. Corbin crawls under the portcullis and assesses the threat: he surmises the creature has a natural resistance to physical damage--only adamantine weapons being able to penetrate the beast's petrified skin. The gargoyle kills the remaining town guard and flenses Corbin's skin with its claws. Zazgaz and Arryn do their best to protect their companions. Two party members down and two dead guards...at the last moment Arryn sends a desperate prayer to Nethys. Divine energy emanates from everyone and both Corbin and Rizzard regain consciousness while the gargoyle menacingly hovers above the party, its beady eyes focusing on Zazgaz...

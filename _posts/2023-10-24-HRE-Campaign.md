@@ -16,7 +16,7 @@ tags:
 
 - Further North, they find a large, brown stone spider. They carefully approach without any torch and destroy the spider before it awakes. The group has learned to keep Yohann and his torch in the back while exploring this level.
 
-- Behind some rumble in a eastward corridor, Toblar-oun and Sid find grave niches filled with human skulls and gold ducats. Whenever they take one the room gets colder. After three coins are taken, frost bite saps the tow of some of their strength and they decide to retreat. 
+- Behind some rumble in a eastward corridor, Toblar-oun and Sid find grave niches filled with human skulls and gold ducats. Whenever they take one the room gets colder. After three coins are taken, frost bite saps the two of some of their strength and they decide to retreat. 
 
 - Further north, they find a large domed area full of cobwebs. Sid hears a noise. They carefully approach and find two more cannibals, feasting on a dead body. They spring an ambush on the cannibals. They take them down quickly but not without Sid taking a knife wound. 
 

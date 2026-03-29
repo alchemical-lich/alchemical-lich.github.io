@@ -1,5 +1,5 @@
 ---
-title: 'HRE Campaign Session 23'
+title: 'HRE Campaign Session 25'
 date: 2024-05-27
 permalink: /posts/2024/5-27/hre-campaign/
 tags:

@@ -8,7 +8,7 @@ tags:
 ---
 
 **Day 5 on the Tolomak Isles -- Continued**
-The party puhses deeper into the wizard Shadankin's Sanctum. Further down a damp hallway, they happen upon a nest of six lampreymen. While Colin Robinson prepares a defensive slash with his katana, Tottino the Toothless surges forward by himself into the midst of the eel-creatures. He is swarmed by four of the beast, two attaching their round, toothy mouths to his body. Loud sucking sounds echo through the cavern. A wild melee ensues to save Tottino. Luka Donic, sneaking between fishes hanging from the ceiling, attacks form the shadows and dispatches two lampreymen. Margerita rushes to attack with her elven sword, but stumbles on the slippery floor and breaks her sword. 
+The party pushes deeper into the wizard Shadankin's Sanctum. Further down a damp hallway, they happen upon a nest of six lampreymen. While Colin Robinson prepares a defensive slash with his katana, Tottino the Toothless surges forward by himself into the midst of the eel-creatures. He is swarmed by four of the beast, two attaching their round, toothy mouths to his body. Loud sucking sounds echo through the cavern. A wild melee ensues to save Tottino. Luka Donic, sneaking between fishes hanging from the ceiling, attacks from the shadows and dispatches two lampreymen. Margerita rushes to attack with her elven sword, but stumbles on the slippery floor and breaks her sword. 
 
 <img src="http://alchemical-lich.github.io/images/lamprey.jpeg" width="600"/>
 
@@ -18,7 +18,7 @@ The heroes push down a set of crude stairs and find an abandoned wizard's study.
 
 <img src="http://alchemical-lich.github.io/images/barrel.jpeg" width="600"/>
 
-A tunnel leads the group towards a large lagoon, at the bottom of which, covered by 20 ft of sea water, a large sea shells beckons. Obi Wan, Luka, and Colin don the membranes and descend into the water, while Margerita and Tottino keep watch from a ledge. The membranes seem to provide the three with a protective air bubble. They slowly paddle towards the shell and prepare to pry it open with crowbars.
+A tunnel leads the group towards a large lagoon, at the bottom of which, covered by 20 ft of sea water, a large sea shell beckons. Obi Wan, Luka, and Colin don the membranes and descend into the water, while Margerita and Tottino keep watch from a ledge. The membranes seem to provide the three with a protective air bubble. They slowly paddle towards the shell and prepare to pry it open with crowbars.
 
 Suddenly, a large, black hammerhead shark cuts through the salty seawater and attacks Colin. Colin and Obi-Wan battle the beast, while Luka continues to prod the shell. A dangerous underwater fight ensues--Colin is bitten by the shark, a pound of dwarf flesh is lost. Margerita and Tottino, standing upon the ledge, call upon their patrons for aid! 
 

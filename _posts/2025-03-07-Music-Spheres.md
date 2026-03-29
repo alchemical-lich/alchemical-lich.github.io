@@ -1,7 +1,7 @@
 ---
 title: 'Music of the Spheres is Chaos 4'
 date: 2025-03-07
-permalink: /posts/2025/01-31/dcc-campaign/
+permalink: /posts/2025/03-07/dcc-campaign/
 tags:
   - DCC
   - Hexcrawl
@@ -13,4 +13,4 @@ The heroes circle the outside of the Alembic, passing through the House of the W
 
 On their way, they have to confront powerful animated statues and a pack of Hyena-Apes. Totino also bests Old Fenris in a contest of strength and is rewarded with the Wolf-Cloak of the Old King. 
 
-Luka and Margerita push into the depth of the House of the Lion and fail to find their way back. Eventually, they turn into motes of light and ascend to the Court of the Cat Queen, never to be seen gain...
+Luka and Margerita push into the depth of the House of the Lion and fail to find their way back. Eventually, they turn into motes of light and ascend to the Court of the Cat Queen, never to be seen again...

@@ -21,7 +21,7 @@ I tried to keep the comparison across systems fair, i.e., I relied on a simple f
 
 Here are a few things I ignore: magic items, "combat as war" considerations, and morale. All of these things are available, at least as optional rules, in all four systems and would complicate the comparison of mechanical damage. 
 
-In each case, I calculate the **expected damage per round** against the creature (including crit damage if it is part of the system). I then compare the expected PC damage per round to the monster HP to determine the **expected number of rounds until death**. This straightforward for BX, 5e, and DCC and boils down to the ratio of monster HP and expected damage per round by the PC. It's a bit trickier for Cairn because monsters get a STR save when reaching 0 HP to stay in the fight. To figure out the expected number of rounds until monster death, I had first calculate the expected number of rounds the monster will stay alive based on HP and then add the expected number of additional turns based on the probability of passing STR saves.
+In each case, I calculate the **expected damage per round** against the creature (including crit damage if it is part of the system). I then compare the expected PC damage per round to the monster HP to determine the **expected number of rounds until death**. This is straightforward for BX, 5e, and DCC and boils down to the ratio of monster HP and expected damage per round by the PC. It's a bit trickier for Cairn because monsters get a STR save when reaching 0 HP to stay in the fight. To figure out the expected number of rounds until monster death, I had to first calculate the expected number of rounds the monster will stay alive based on HP and then add the expected number of additional turns based on the probability of passing STR saves.
 
 Apart from calculating the offensive potential of a PC, I also look at the damage the monster can return per round relative to PC AC/armor and HP/STR. To get at the overall offensive+defensive performance, I calculate the **net difference in expected rounds until death** (**Monster expected rounds - PC expected rounds**). Positive numbers indicate the PC killing the monster before being killed (in terms of rounds before the monster wins). Negative numbers indicate the monster winning.
 
@@ -75,7 +75,7 @@ Again, it is striking how closely a 5e Fighter tracks the classic BX Fighter.
 
 
 ## Owlbear
-Looking at the Owlbear, we see a similar pattern in terms of PC damage outputL Cairn and DCC Warriors have high damage output relative to monster HP and stay ahead of BX and 5e.
+Looking at the Owlbear, we see a similar pattern in terms of PC damage output: Cairn and DCC Warriors have high damage output relative to monster HP and stay ahead of BX and 5e.
 
 
 ![Expected Rounds To Kill A Goblin](http://alchemical-lich.github.io/images/owlbear_rounds.png)

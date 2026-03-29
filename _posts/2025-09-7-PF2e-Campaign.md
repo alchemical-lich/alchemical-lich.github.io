@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 37'
+title: 'Abomination Vaults Session 38'
 date: 2025-09-07
 permalink: /posts/2025/09-07/pf2e-campaign/
 tags:
@@ -16,6 +16,6 @@ Licking their wounds, they retreat to the surface.
 
 During the night, they are suddenly awoken by the sound of screams. Otari is under attack by devils.
 
-The heroes rush out to help. They organize the villagers to extinguishing the fires that are burning all over the city and guide the weak and vulnerable to safety. 
+The heroes rush out to help. They organize the villagers to extinguish the fires that are burning all over the city and guide the weak and vulnerable to safety. 
 
 Eventually, they stumble on a large group of devils that are attempting to kidnap Vandy Banderdash. 

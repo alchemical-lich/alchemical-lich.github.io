@@ -20,7 +20,7 @@ tags:
 
 - The Westernmost cave moth opens into a system of tunnels. Down several passages, Sid discovers a cave with a mossy tree, ten large stone statues, and a pool filled with a glowing amber substance. Four monstrous creatures sit on the statues' shoulders, gnawing on bones: large birds crossed with the upper bodies of a woman. Sid acts quickly and unleashes a Sleep spell. All four of the harpies fall into a slumber and Cagna carefully dispatches them.
 
-- In the pool, gold, an iorn flask, and a dagger are visible. The amber substance though seems to dissolve organic matter. The group, using rope and a grappling hook, are able to retrieve the flask and the dagger, before the rope frays. The gold remains submerged for now.
+- In the pool, gold, an iron flask, and a dagger are visible. The amber substance though seems to dissolve organic matter. The group, using rope and a grappling hook, is able to retrieve the flask and the dagger, before the rope frays. The gold remains submerged for now.
 
 - Through a bricked up wall, the party finds catacombs. They are immediately rushed by a mob of eleven undead, dressed in green robes and armed with rust flails. The turning powers of Magnus and Authlbert, paired with a strategic use of the amber pool allows the group to dispatch the zombies. But not without serious injuries to the whole party. Sid nearly goes down and Anzor had to be saved again by Authlbert. 
 

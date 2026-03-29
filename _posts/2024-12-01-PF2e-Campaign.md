@@ -1,5 +1,5 @@
 ---
-title: 'Abomination Vaults Session 22'
+title: 'Abomination Vaults Session 23'
 date: 2024-12-01
 permalink: /posts/2024/12-01/pf2e-campaign/
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**1 Gozren 4721**: The Library
+**1 Gozran 4721**: The Library
 
 - Corbin rests to deal with his ghoul fever.
 

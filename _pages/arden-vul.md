@@ -91,7 +91,7 @@ Das sind die Aufzeichnungen von Boris "Der Bergfuchs" Hornbeisser und Haakon Hor
 
 - Die drei Statuenhändler bei Kesselbauch bieten nur 80 gp für die Statuen. Das lehnen wir ab und lagern die Statuen in Boris' Zimmer.
 
-- Bei der Ruine finden wir auch eine Wendeltreppe. Die führt 225 fuss in die Tiefe und zu einer Geheimtür. Dahinter ein Raum mit mehreren Tischen, voll mit mit Kram, ein riesiges Gesicht ist an die Wand gemeisselt. Eine Statue zeigt einen Menschen mit Kilt und Thothpriester Kopfschmuck, mit Speer. Der Raum ist wohl das Labor eines Magiers, finden einen Periapt.
+- Bei der Ruine finden wir auch eine Wendeltreppe. Die führt 225 fuss in die Tiefe und zu einer Geheimtür. Dahinter ein Raum mit mehreren Tischen, voll mit Kram, ein riesiges Gesicht ist an die Wand gemeisselt. Eine Statue zeigt einen Menschen mit Kilt und Thothpriester Kopfschmuck, mit Speer. Der Raum ist wohl das Labor eines Magiers, finden einen Periapt.
 
 - Wir lernen das Kesselbauch's Frau, **Estelle**, eine Priesterin ist.
 
@@ -225,7 +225,7 @@ movement of 90’.
 
 - Wir sehen in der grossen Halle über 50 Goblins. Hier hält der Goblinkönig Hof. Der Raum hat auch zwei Ebenen, man sieht Brücken.
 
-- Viele Gefangene hier sind zu sehen: ein Elf, Halbling, Vikinger, eine Frau, Echsenmensch, Froschmensch, ein stattlicher Goblin, Beastman. Wir töten die gefangenen Goblins und befreuen den Rest.
+- Viele Gefangene hier sind zu sehen: ein Elf, Halbling, Vikinger, eine Frau, Echsenmensch, Froschmensch, ein stattlicher Goblin, Beastman. Wir töten die gefangenen Goblins und befreien den Rest.
 
 - Wir fliehen mit den Gefangenen zurück durch die seltsame Obsidiantür:
   
@@ -339,7 +339,7 @@ Neue Gerüchte und Nachrichten:
 
     - Ein Beweis für seinen Tod: 5000 Gold
 
- - Lady Alexia Basileon sucht die vier Symbole der Königswürde, welche zur Zeiten der archontischen Kontrolle von Arden Vul berühmt waren, um ihre Unabhängigkeit von Elredd zu betonen. Es handelt sich dabei und die folgenden vier Dinge:
+ - Lady Alexia Basileon sucht die vier Symbole der Königswürde, welche zur Zeiten der archontischen Kontrolle von Arden Vul berühmt waren, um ihre Unabhängigkeit von Elredd zu betonen. Es handelt sich dabei um die folgenden vier Dinge:
 
     - Das eiserne Kopfband von Ghanor
 
@@ -391,7 +391,7 @@ Neue Gerüchte und Nachrichten:
 
 ## Session 13: Boris
 
-- Boris, Cedric, Ahriman und Bruder Brock kehren zur großen Pyramide zurück. Von der Haupthalle ziehe sie nach Norden. Dort gibt es viele Gänge mit Untoten.
+- Boris, Cedric, Ahriman und Bruder Brock kehren zur großen Pyramide zurück. Von der Haupthalle ziehen sie nach Norden. Dort gibt es viele Gänge mit Untoten.
 
 - An einem Alter schwebt eine goldene Feder, die vor Untoten beschützt. Boris nimmt sich eine und steckt sie sich ins Haar.
 
@@ -403,7 +403,7 @@ Neue Gerüchte und Nachrichten:
 
 - Wir finden einen Raum mit eingelassenem Glas, das eine Kompassrose darstellt. Vier Albinoaffen stürzen sich auf uns, aber Cedric benutzt Color Spray, um sie ausser Gefecht zu setzen.
 
-- Nach Westen, sehen wir eine seltsame Truhe und viele Leiche. Eine Gruppe an Ghulen zeight sich, aber Ahriman kann einige unter Kontrolle bringen. Wir efahren, dass die Truhe Untote anzieht, aber momentan von einem anti-magischen Feld übertönt wird.
+- Nach Westen, sehen wir eine seltsame Truhe und viele Leiche. Eine Gruppe an Ghulen zeigt sich, aber Ahriman kann einige unter Kontrolle bringen. Wir erfahren, dass die Truhe Untote anzieht, aber momentan von einem anti-magischen Feld übertönt wird.
 
 - Wir kämpfen gegen eine ganze Bande an Untoten: 12 Ghule, 4 Zombies und 6 Skelette. Alle dienen dem Ghul Jentris, den wir auch erschlagen.
 
@@ -415,9 +415,9 @@ Neue Gerüchte und Nachrichten:
 
 - Ruine westlich der Pyramide. 
 
-- Finden einen Raum mit einener halb eingestürzten Decke.
+- Finden einen Raum mit einer halb eingestürzten Decke.
 
-- Ein weiterer Raum mit einem trümmerfreien Platz run dum eine 5 Fuß hohes Steinpodest. Ein steinerner Affe sitzt auf dem Podest, der einen Silence Spruch auslöst. Ein zweiter Affe fliegt durch den Raum und schiesst einen Flammenstrahl auf Skalf. Wir sichern eine Schriftrolle. Aldon zaubert Schlaf und setzt zwei der Affen ausser Gefecht. Wir bergen einen Ring und einen Metallbarren. Wir fliehen aus dem Raum.
+- Ein weiterer Raum mit einem trümmerfreien Platz rund um eine 5 Fuß hohes Steinpodest. Ein steinerner Affe sitzt auf dem Podest, der einen Silence Spruch auslöst. Ein zweiter Affe fliegt durch den Raum und schiesst einen Flammenstrahl auf Skalf. Wir sichern eine Schriftrolle. Aldon zaubert Schlaf und setzt zwei der Affen ausser Gefecht. Wir bergen einen Ring und einen Metallbarren. Wir fliehen aus dem Raum.
 
 - Wir steigen eine Wendeltreppe 300 Fuß in die Tiefe ab und kommen auf dem Level vom Thoth Tempel an. Ein illusorische Wand verbirgt den Zugang zu einer weiteren Kammer.
 
@@ -491,7 +491,7 @@ Neue Gerüchte und Nachrichten:
 
 - Die Halblinge wollen trotzdem eine Gebühr, obwohl wir über den Umweg einschleichen.
 
-- Zwei Magic Mouths, einer lobt, einer beschimpft Toth.
+- Zwei Magic Mouths, einer lobt, einer beschimpft Thoth.
 
 - Richtung Süden entdecken wir einen Raum mit einem Halblingkopf auf einem Pfahl.
 
@@ -510,15 +510,15 @@ Neue Gerüchte und Nachrichten:
 
 - Wir ziehen Richtung Set-Forum.
 
-- Wir finden einen Folterraum der Haakon und Skalf in Angts fliehen lässt.
+- Wir finden einen Folterraum der Haakon und Skalf in Angst fliehen lässt.
 
 - Die Treppen hinab, brennende Kerzen machen Qualm wenn nicht-böse Kreaturen vorbeilaufen. Ein heulendes Kreischen ist auch zu hören.
 
 - Wir finden einen Raum mit ausgestopften Tierköpfen.
 
-- Einen Raum weiter finden wir ein Kompostmonster, dass aus einem Lock kriecht und uns verfolgt.
+- Einen Raum weiter finden wir ein Kompostmonster, das aus einem Loch kriecht und uns verfolgt.
 
-- Eine lange Flucht und ein Kampf mit dem Monster enden fast in einer Tragödie, aber wir überleben. Wir versuchen aus der Abfallgrube Schätze zu bergen, werden aber von hinten von einem Gelatinous Cube überrascht. Haaken wird paralysiert, überlebt aber. Wir finden zwei Diamanten (2200 gp).
+- Eine lange Flucht und ein Kampf mit dem Monster enden fast in einer Tragödie, aber wir überleben. Wir versuchen aus der Abfallgrube Schätze zu bergen, werden aber von hinten von einem Gelatinous Cube überrascht. Haakon wird paralysiert, überlebt aber. Wir finden zwei Diamanten (2200 gp).
 
 ## Session 20: Boris
 
@@ -557,7 +557,7 @@ Neue Gerüchte und Nachrichten:
 
 - Alexandrus ist der neue Anführer der Set-Kleriker. Der lauert im Nordwesten.
 
-- Wir machen ein Abkommen mir den Händlern. Hazlett wird der Vorsprecher der Händler und wir übernehmen.
+- Wir machen ein Abkommen mit den Händlern. Hazlett wird der Vorsprecher der Händler und wir übernehmen.
 
 ## Session 24 Boris
 
@@ -569,7 +569,7 @@ Neue Gerüchte und Nachrichten:
 
 - Die anderen gehen zu den Halblingen gucken und geraten in einen gemeinen Hinterhalt.
 
-- Mit hilfe eines Feuerballs werden die Halblinge erledigt. Phlebotomas Pflaumendorn und der Magier sind tot.
+- Mit Hilfe eines Feuerballs werden die Halblinge erledigt. Phlebotomas Pflaumendorn und der Magier sind tot.
 
 
 ## Session 25 Haakon
@@ -611,7 +611,7 @@ Neue Gerüchte und Nachrichten:
 
 - Beim alten Halblingslager kämpfen wir mit 7 Feuerkäfern und Goblins.
 
-- Danach treffen wit Skleros, den Tiermensch Kriegsgraf. Wenn wir die Goblins erledigen, bieten uns die Tiermenschen eine sichere Zuflucht an.
+- Danach treffen wir Skleros, den Tiermensch Kriegsgraf. Wenn wir die Goblins erledigen, bieten uns die Tiermenschen eine sichere Zuflucht an.
 
 - Skleros sagt, die Tiermenschen suchen eine gewisse Pilzsorte (*cloud cap mushrooms*) an der Oberfläche. Der grüne Drache hindert daran. Er möchte auch Informationen über die Gründer der Tiermenschen (Gennadius und Rex).
 
@@ -628,13 +628,13 @@ Neue Gerüchte und Nachrichten:
 
 - Wir suchen weiter den Set-Tempel ab.
 
-- Wir finden mehr Sklaventreiber. 17 Flaschen Wein, eine Kiste im Kleiderschrank. Eine unsichtbare Magierin wird von Cedric entdeckt und ein Kamf entfacht. Sie nutzt eine Spruchrolle und verwirrt Boris und Cedric, aber die Gruppe besiegt sie letztendlich. 
+- Wir finden mehr Sklaventreiber. 17 Flaschen Wein, eine Kiste im Kleiderschrank. Eine unsichtbare Magierin wird von Cedric entdeckt und ein Kampf entfacht. Sie nutzt eine Spruchrolle und verwirrt Boris und Cedric, aber die Gruppe besiegt sie letztendlich. 
 
 - In einem weiteren Raum werden zwei Sklaventreiber in Schlaf versetzt.
 
 - Wir durchsuchen die Quartiere der Sklaventreiber. 
 
-- Wir befreien 13 Menschen, 5 Beastment, 5 Goblins, 15 talentierte Menschen, 4 talentierte Goblins, und die heimliche Anführerin Bergthoda, 12 Menschen, 3 Demi-humans.
+- Wir befreien 13 Menschen, 5 Beastmen, 5 Goblins, 15 talentierte Menschen, 4 talentierte Goblins, und die heimliche Anführerin Bergthoda, 12 Menschen, 3 Demi-humans.
 
 ## Session 28 Boris
 
@@ -646,8 +646,8 @@ Wir erledigen den Rest des Set-Kultes in einem grossen Kampf.
 
 - Wir erschlagen 10 Goblins auf dem Weg und erlegen dann den Schleimkraken. Heiliges Wasser wird benutzt um den Brunnen zu reinigen.
 
-- Wir finden im Set Forum einige Schätze, inklusive einem Torq, der der Frau eines Geistes gehört hat und zwei grosse Saphire, die in die Toth-Statue im Brunnen passen.
+- Wir finden im Set Forum einige Schätze, inklusive einem Torq, der der Frau eines Geistes gehört hat und zwei grosse Saphire, die in die Thoth-Statue im Brunnen passen.
 
-- Wir setzten die Saphire ein und Toth belohnt uns mit göttlicher Einsicht.
+- Wir setzen die Saphire ein und Thoth belohnt uns mit göttlicher Einsicht.
 
 

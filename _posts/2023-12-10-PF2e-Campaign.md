@@ -22,7 +22,7 @@ tags:
 
 - After an attempt at peaceful resolution, violence ensues. **Boss Skrawng** poisons **Rizzard** and Bite-Bite takes several painful bites out of him. Some timely healing by **Arryn**, **Corbin** crushing a Mitflit skull with his new morningstar, **Zgaz** raging through the enemies, and **Rizzard** unleashing a powerful *Shocking Grasp* with his elven sword, brings a quick end to the gremlins. 
 
-- Before his demise, **Boss Skrawng** was able to obscure parts of his battle plan for Otari, which he had drawn in a small sandbox. Under his throne, the party retrieves a hand-drawn map of the Ruins. Where did the Mitflits come from? What where their plans? There is certainly more to this...
+- Before his demise, **Boss Skrawng** was able to obscure parts of his battle plan for Otari, which he had drawn in a small sandbox. Under his throne, the party retrieves a hand-drawn map of the Ruins. Where did the Mitflits come from? What were their plans? There is certainly more to this...
 
 - Exploring a room to the West, **Arryn** investigates the corpse of a giant frog, but is surprised by two more maggots, bursting from its guts. **Rizzard** gets caught in the mandibles of the beasts, but **Corbin**'s morning star has no trouble breaking through the chitinous armor, crushing the soft maggot flesh underneath. **Zgaz** is sure the frog was killed by a draconic creature.
 

@@ -23,9 +23,9 @@ Player:
 
 - 40 Sessions OD&D
 - 13 Sessions Arden Vul
-- 3 Sessions Hyperborea (NTRGP Con)
-- 1 Session Delta Green (NTRGP Con)
-- 1 Session DCC (NTRGP Con)
+- 3 Sessions Hyperborea (NTRPG Con)
+- 1 Session Delta Green (NTRPG Con)
+- 1 Session DCC (NTRPG Con)
 - 1 Session Shadowdark (NTRPG Con)
 - 1 Session AD&D (NTRPG Con)
 
@@ -33,7 +33,7 @@ Books I read:
 
 - Matt Dinniman *Dungeon Crawler Carl* Books 1--6
 - Pierce Brown *Red Rising Series* Books 1--6
-- Clark Aston Smith *The Dark Eidolon*
+- Clark Ashton Smith *The Dark Eidolon*
 - Christopher Ruocchio *Empire of Silence* Books 1--2
 - Richard Zimmerman *Neat*
 - Django Wexler *Ashes of the Sun*
@@ -42,7 +42,7 @@ Books I read:
 - Robert Jackson Bennett *The Tainted Cup*
 - James Logan *The Silverblood Promise*
 - Jonathan Mayberry *Kagen the Damned*
-- Naomi Novik *His Majesty's Dargon*
+- Naomi Novik *His Majesty's Dragon*
 - Richard Swan *The Trials of Empire*
 - Ryan Cahill *Of Blood and Fire*
 - Joe Abercrombie *Best Served Cold*
