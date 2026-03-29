@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Source Serif 4", Georgia, Times, serif;
-$sans-serif                 : -apple-system, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : "IBM Plex Sans", -apple-system, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -28,12 +28,12 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-/* Clean Modern theme typefaces */
-$cormorant                  : "Cormorant Garamond", Georgia, serif;
+/* Bebas Neue + IBM Plex Sans theme typefaces */
+$bebas                      : "Bebas Neue", Impact, sans-serif;
 
-$global-font-family         : $serif;
-$header-font-family         : $cormorant;
-$caption-font-family        : $serif;
+$global-font-family         : $sans-serif;
+$header-font-family         : $bebas;
+$caption-font-family        : $sans-serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
