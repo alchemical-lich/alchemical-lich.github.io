@@ -72,7 +72,7 @@ A larger OSR destination crawl inspired by the *Camino de Santiago*.
 A CWN/Shadowrun Campaign. In development.
 
 ## Low Income Barony
-Gang wizards slingin’ potions in a poor barony, while vampires scheme. A Shadowdark sandbox adventure.
+Criminal wizard gangs slingin’ potions in a poor barony, while vampires scheme. A Shadowdark sandbox adventure.
 
 ## The Music of the Spheres is Chaos
 
