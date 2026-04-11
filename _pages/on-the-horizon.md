@@ -46,8 +46,8 @@ A three-volume mega-campaign from [Pulp Hummock Press](https://pulphummock.com/)
 ## Outcast Silver Raiders
 A dark, [occult-medieval OSR game](https://www.osr-rpg.com/) set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, three character classes (Rogue, Sorcerer, Warrior), and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats.
 
-## Classic Fantasy with Domain Management and Warfare
-A classic old-school campaign: adventure for gold and XP, build a stronghold, recruit troops, wage war, rule a barony. Two systems do this especially well — [Adventurer Conqueror King System (ACKS II)](https://autarch.co/adventurer-conqueror-king/) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
+## Where They Make a Desert
+A classic old-school campaign, paired with grand strategy: adventure in dungeons for gold and XP, build a stronghold, recruit troops, wage war, rule a barony. Two systems do this especially well — [Adventurer Conqueror King System (ACKS II)](https://autarch.co/adventurer-conqueror-king/) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
 
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders* meets *Thief: The Dark Project*.
