@@ -10,6 +10,15 @@ A running list of games and campaigns we might play next. Take a look, see what 
 ## Pallid Suns — continue the CWN mission
 We already started a campaign chasing down the mystery of the magical weed. [Cities Without Number](https://www.drivethrurpg.com/en/product/449079/cities-without-number) is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
 
+## Shadowdark
+A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/products/shadowdark-rpg), stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two flavors for what we'd actually play:
+
+- **The official sandbox setting** — plenty of ready-to-run adventures, straight out of the box.
+- **Low-Income Barony** (homebrew) — magic is illegal, paladins and clerics enforce harsh laws, and the wizards you meet survive by slinging alchemical potions and spell components for criminal gangs. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
+
+## Nimble 2e
+[5E streamlined and dramatically improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, still plays as a recognizable high-fantasy game — but every round is more decisive. The best option if you want "D&D, but better and quicker."
+
 ## Worlds Without Number
 The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN in a fantasy wrapper, with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A [free edition](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) is available from [Sine Nomine](https://www.drivethrurpg.com/en/product/348791/worlds-without-number).
 
@@ -43,8 +52,6 @@ A classic old-school campaign: adventure for gold and XP, build a stronghold, re
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders* meets *Thief: The Dark Project*.
 
-## Nimble 2e
-[5E streamlined and dramatically improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, still plays as a recognizable high-fantasy game — but every round is more decisive. The best option if you want "D&D, but better and quicker."
 
 ## More Pathfinder 2e — Stolen Fate
 A high-level continuation of our PF2e experience. [Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/) is an 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. A chance to play PF2e at the top of its power curve.
@@ -58,8 +65,4 @@ A [rules-light science-fantasy zine RPG](https://www.electrumarchive.com). Heavy
 ## Oath Hammer
 A [new d6 dice-pool fantasy RPG](https://thebrokenblade.com/oath-hammer). Set on Osric Isle, the ancestral home of the dwarven clans, who were defeated and driven out by orcish reavers — and are now returning to reclaim it. Every character swears three binding oaths that guide their conduct and grant special boons when honored. D6 dice pools, hexcrawl exploration, crafting, and domain-level play. A good fit if you want a focused reconquest campaign with a strong thematic hook.
 
-## Shadowdark
-A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/products/shadowdark-rpg), stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two flavors for what we'd actually play:
 
-- **The official sandbox setting** — plenty of ready-to-run adventures, straight out of the box.
-- **Low-Income Barony** (homebrew) — magic is illegal, paladins and clerics enforce harsh laws, and the wizards you meet survive by slinging alchemical potions and spell components for criminal gangs. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
