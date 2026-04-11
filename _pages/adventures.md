@@ -78,7 +78,7 @@ I combined some home-brew with third-party modules like the Saint of Bruckstadt,
 
 <img src="http://alchemical-lich.github.io/images/HRE_map_old_2024.png"  width="65%" >
 
-*The Vile Tales of Christman Grippertenius* is the northern part of the map (even though the historical tales that inspired this module did place way before the Thirty Years War).
+*The Vile Tales of Christman Grippertenius* is the northern part of the map (even though the historical tales that inspired this module took place way before the Thirty Years War).
  
 **Factions** that are active in the area include:
 
