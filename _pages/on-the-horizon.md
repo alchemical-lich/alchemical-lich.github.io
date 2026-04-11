@@ -19,6 +19,9 @@ A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/prod
 ## Nimble 2e
 [5E streamlined and dramatically improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, still plays as a recognizable high-fantasy game — but every round is more decisive. The best option if you want "D&D, but better and quicker."
 
+## Draw Steel
+MCDM's new heroic fantasy RPG — Avengers-level high-power fantasy with deeply tactical combat. Did you want to throw enemies through walls? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character more powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the [digital tools](https://www.mcdmproductions.com/draw-steel-resources) — character builder, VTT support — are genuinely excellent. Comes with its own custom VTT with incredible levels of automation.
+
 ## Worlds Without Number
 The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN in a fantasy wrapper, with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A [free edition](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) is available from [Sine Nomine](https://www.drivethrurpg.com/en/product/348791/worlds-without-number).
 
@@ -34,8 +37,6 @@ A [Japanese-style console RPG](https://need.games/fabula-ultima/) brought to the
 ## Twilight: 2000
 World War III has flattened Europe. Your unit is cut off, supply is gone, and the chain of command is a rumor. [Free League's 4th edition](https://freeleaguepublishing.com/games/twilight-2000/) is a hex-crawl survival game of scrounging, jury-rigging repairs, and short brutal firefights, set in the ruins of Poland or Sweden. Gritty, mechanical, deeply atmospheric — the military-survival equivalent of a cold, wet, hungry West Marches campaign.
 
-## Draw Steel
-MCDM's new heroic fantasy RPG — Avengers-level high-power fantasy with deeply tactical combat. Did you want to throw enemies through walls? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. Every attack lands (no to-hit rolls), every turn matters, and the [digital tools](https://www.mcdmproductions.com/draw-steel-resources) — character builder, VTT support — are genuinely excellent. Comes with its own custom VTT with incredible levels of automation.
 
 ## Forbidden Lands
 A [fantasy survival hex-crawl](https://freeleaguepublishing.com/shop/forbidden-lands/) from Free League. You're not chosen heroes — you're raiders, rogues, and treasure-hunters making your own mark on a cursed world just emerging from a centuries-long Blood Mist. D6 dice pools, lethal combat, stronghold-building, and one of the best official campaigns in print (*Raven's Purge* / *The Bloodmarch*).
