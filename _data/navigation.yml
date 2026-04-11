@@ -2,11 +2,14 @@
 main:
   - title: "Posts"
     url: /year-archive/
-  
+
   - title: "Adventures"
     url: /adventures/
-  
- 
+
+  - title: "On the Horizon"
+    url: /on-the-horizon/
+
+
 
 
   
