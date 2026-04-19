@@ -31,6 +31,9 @@ Grimdark with a thick coat of British humor. Play a Ratcatcher, a coachman, or a
 ## The One Ring (2e)
 [Tolkien roleplaying](https://freeleaguepublishing.com/games/the-one-ring/) done properly. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
 
+## A Return to DCC
+Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. 
+
 ## Fabula Ultima
 A [Japanese-style console RPG](https://need.games/fabula-ultima/) brought to the tabletop — think Final Fantasy, Chrono Trigger, Xenogears. Players collaboratively build the world at the table before the campaign even starts, and the system is built around elemental affinities, dramatic turn-based combat, and high-emotion storylines. Very different from anything we've played. Good pick if you want something narrative and tonally unusual. Has a good Foundry system.
 
