@@ -34,8 +34,8 @@ Grimdark with a thick coat of British humor. Play a Ratcatcher, a coachman, or a
 ## A Return to DCC
 Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. 
 
-## Fabula Ultima / Last Arc
-Want to play a tabletop RPG inspired by classic Japanese-style console RPGs (Final Fantasy, Chrono Trigger, Xenogears)? We have two good options: Fabula Ultima or Last Arc. FU is a more rules-light, narrative game. LA is more crunchy, tactical, and based on D&D rules—either one should be fun!
+## Fabula Ultima
+Want to play a tabletop RPG inspired by classic Japanese-style console RPGs like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is a rules-light game with fast, tactical combat. Foundry is available! 
 
 ## Twilight: 2000
 World War III has flattened Europe. Your unit is cut off, supply is gone, and the chain of command is a rumor. [Free League's 4th edition](https://freeleaguepublishing.com/games/twilight-2000/) is a hex-crawl survival game of scrounging, jury-rigging repairs, and short brutal firefights, set in the ruins of Poland or Sweden. Gritty, mechanical, deeply atmospheric — the military-survival equivalent of a cold, wet, hungry West Marches campaign.
