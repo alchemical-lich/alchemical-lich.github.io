@@ -35,7 +35,7 @@ The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a fle
 [Tolkien roleplaying](https://freeleaguepublishing.com/games/the-one-ring/) done properly. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
 
 ## A Return to DCC
-Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. 
+Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. A big dungeon? A campaign of thievery, swords, and sorcery in Lankhmar?
 
 ## Twilight: 2000
 World War III has flattened Europe. Your unit is cut off, supply is gone, and the chain of command is a rumor. [Free League's 4th edition](https://freeleaguepublishing.com/games/twilight-2000/) is a hex-crawl survival game of scrounging, jury-rigging repairs, and short brutal firefights, set in the ruins of Poland or Sweden. Gritty, mechanical, deeply atmospheric — the military-survival equivalent of a cold, wet, hungry West Marches campaign.
