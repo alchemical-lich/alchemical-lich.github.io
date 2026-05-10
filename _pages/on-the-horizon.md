@@ -68,4 +68,5 @@ A [rules-light science-fantasy zine RPG](https://www.electrumarchive.com). Heavy
 ## Oath Hammer
 A [new d6 dice-pool fantasy RPG](https://thebrokenblade.com/oath-hammer). Set on Osric Isle, the ancestral home of the dwarven clans, who were defeated and driven out by orcish reavers — and are now returning to reclaim it. Every character swears three binding oaths that guide their conduct and grant special boons when honored. D6 dice pools, hexcrawl exploration, crafting, and domain-level play. A good fit if you want a focused reconquest campaign with a strong thematic hook.
 
-
+## Runequest
+A classic RPG! D100 Bronze Age, mythical fantasy. Every character has some magical powers attached to their gods. You adventure in the famous fantasy world of Glorantha, protecting your home and community. Brutal combat.
