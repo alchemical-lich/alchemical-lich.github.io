@@ -52,6 +52,13 @@ A dark, [occult-medieval OSR game](https://www.osr-rpg.com/) set in the Mythic N
 ## Where They Make a Desert, They Call it Peace
 Let’s do our own classic old-school campaign, paired with domain management and wargaming: adventure in dungeons for gold and XP, build a stronghold, recruit troops, wage war, rule a barony. Two systems do this well — [Adventurer Conqueror King System (ACKS II)](https://autarch.co/adventurer-conqueror-king/) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
 
+## Delta Green
+Your handler calls, you better answer.
+
+## Call of Cthulhu—Masks of Nyarlathotep
+One of the greatest campaigns ever written. Discover a 1920s world-spanning conspiracy and face off with cults and mythos entities.
+
+
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders* meets *Thief: The Dark Project*.
 
