@@ -32,25 +32,25 @@ Grimdark with a thick coat of British humor. Play a Ratcatcher, a coachman, or a
 The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN in a fantasy wrapper, with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A [free edition](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) is available from [Sine Nomine](https://www.drivethrurpg.com/en/product/348791/worlds-without-number).
 
 ## The One Ring (2e)
-[Tolkien roleplaying](https://freeleaguepublishing.com/games/the-one-ring/) done properly. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
+[Tolkien roleplaying](https://freeleaguepublishing.com/games/the-one-ring/) done right. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
 
 ## A Return to DCC
-Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. A big dungeon? A campaign of thievery, swords, and sorcery in Lankhmar?
+Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. A big dungeon? A campaign of thievery, swords, and sorcery in Lankhmar? 
 
 ## Twilight: 2000
 World War III has flattened Europe. Your unit is cut off, supply is gone, and the chain of command is a rumor. [Free League's 4th edition](https://freeleaguepublishing.com/games/twilight-2000/) is a hex-crawl survival game of scrounging, jury-rigging repairs, and short brutal firefights, set in the ruins of Poland or Sweden. Gritty, mechanical, deeply atmospheric — the military-survival equivalent of a cold, wet, hungry West Marches campaign.
 
 ## Forbidden Lands
-A [fantasy survival hex-crawl](https://freeleaguepublishing.com/shop/forbidden-lands/) from Free League. You're not chosen heroes — you're raiders, rogues, and treasure-hunters making your own mark on a cursed world just emerging from a centuries-long Blood Mist. D6 dice pools, lethal combat, stronghold-building, and one of the best official campaigns in print (*Raven's Purge* / *The Bloodmarch*).
+A [fantasy survival hex-crawl](https://freeleaguepublishing.com/shop/forbidden-lands/) from Free League. You're not chosen heroes — you're raiders, rogues, and treasure-hunters making your own mark on a cursed world just emerging from a centuries-long Blood Mist. D6 dice pools, lethal combat, stronghold-building, and a very good official campaign (*Raven's Purge*).
 
 ## Gods of the Forbidden North
-A three-volume mega-campaign from [Pulp Hummock Press](https://pulphummock.com/) written for Old-School Essentials: Advanced Fantasy (i.e., old-school DnD). Classic fantasy sandbox with a long, open middle section and an epic finale in the frozen North. A grand campaign.
+A three-volume mega-campaign from [Pulp Hummock Press](https://pulphummock.com/) written for Old-School Essentials: Advanced Fantasy (i.e., old-school DnD). Classic fantasy sandbox with a long, open middle section and an epic finale in the frozen North. A grand campaign. Could be played with a different system as well.
 
 ## Outcast Silver Raiders
-A dark, [occult-medieval OSR game](https://www.osr-rpg.com/) set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, three character classes (Rogue, Sorcerer, Warrior), and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats.
+A dark, [occult-medieval OSR game](https://www.osr-rpg.com/) set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, three character classes (Rogue, Sorcerer, Warrior), and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats. Comes with a fully-fleshed out campaign setting for you to explore.
 
 ## Where They Make a Desert, They Call it Peace
-A classic old-school campaign, paired with domain management and wargaming: adventure in dungeons for gold and XP, build a stronghold, recruit troops, wage war, rule a barony. Two systems do this well — [Adventurer Conqueror King System (ACKS II)](https://autarch.co/adventurer-conqueror-king/) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
+Let’s do our own classic old-school campaign, paired with domain management and wargaming: adventure in dungeons for gold and XP, build a stronghold, recruit troops, wage war, rule a barony. Two systems do this well — [Adventurer Conqueror King System (ACKS II)](https://autarch.co/adventurer-conqueror-king/) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
 
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders* meets *Thief: The Dark Project*.
@@ -60,7 +60,7 @@ A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blade
 A high-level continuation of our PF2e experience. [Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/) is an 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
 
 ## Dragonbane: Trudvang
-A Norse and Celtic-inspired dark fantasy setting using the [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/) rules (coming in 2026) — [Free League has announced](https://www.enworld.org/threads/free-league-announces-dragonbane-trudvang.715854/) a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes. Dragonbane itself is a really good rule engine: no classes, skill-based, armor as damage reduction, and some of the smoothest rules in print. Great pick if you want something rules-light but with real mechanical teeth.
+A Norse and Celtic-inspired dark fantasy setting using the [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/) rules (coming in 2026) — [Free League has announced](https://www.enworld.org/threads/free-league-announces-dragonbane-trudvang.715854/) a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes. Dragonbane itself is a really good rule engine: no classes, skill-based, armor as damage reduction, and quick resolution mechanics. Great pick if you want something rules-light but with real mechanical teeth.
 
 ## The Electrum Archive
 A [rules-light science-fantasy zine RPG](https://www.electrumarchive.com). Heavy on Dune, Morrowind, and Ultraviolet Grasslands vibes. You play *inkseekers* — adventurers who venture into the decaying world of Orn, looking for lost ink-tech and Elder artifacts in abandoned sandstorm shelters and fallen starships. Currency is literal drops of elder ink. 
