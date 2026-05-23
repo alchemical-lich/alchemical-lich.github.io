@@ -28,13 +28,13 @@ A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/prod
 - **Low-Income Barony** (homebrew) — Magic is illegal, paladins and clerics enforce harsh laws, but the streets are ruled by criminal gangs slinging alchemical potions, drugs, and spell components. All of you are members of a freelance gang, trying your best to survive the magical drug game. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
 
 ## Fabula Ultima
-Want to play a tabletop RPG inspired by classic Japanese-style console RPGs like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
+Want to play a tabletop RPG inspired by classic Japanese-style console games like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
 
 ## Nimble 2e
-[5E streamlined and improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, still plays as classic DnD 5e. The best option if you want "D&D, but better and quicker."
+[5E streamlined and improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, but still plays as classic DnD 5e. 
 
 ## Draw Steel
-MCDM's new heroic fantasy RPG — Avengers-level high-power fantasy with deeply tactical combat. Did you want to throw enemies through walls? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character more powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the [digital tools](https://www.mcdmproductions.com/draw-steel-resources) — character builder, VTT support — are excellent. Comes with its own custom VTT with incredible levels of automation.
+Avengers-level high-power fantasy game with deeply tactical combat. Do you want to teleport across the battlefield, throw enemies through walls, and unleash massive attacks taking out a dozen enemies at once? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character *more* powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the [digital tools](https://www.mcdmproductions.com/draw-steel-resources) — character builder, VTT support — are excellent. Comes with its own custom VTT with incredible levels of automation.
 
 ## Warhammer: The Old World Roleplaying Game
 Grimdark but with plenty of dark British humor. Play a Ratcatcher, a coachman, or a jaded witch hunter in a world where the forces of Chaos are always lurking in the shadows. Heavy on investigation and low-fantasy horror, light on high-powered heroics. D10 dice pools + interesting tactics in combat. Very good Foundry system available. 
@@ -45,10 +45,10 @@ Alternative: Warhammer Fantasy RPG 4e is a bit crunchier, D100 system in the sam
 The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A [free edition](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) is available from [Sine Nomine](https://www.drivethrurpg.com/en/product/348791/worlds-without-number).
 
 ## The One Ring (2e)
-[Tolkien roleplaying](https://freeleaguepublishing.com/games/the-one-ring/) done right. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
+[A great rpg](https://freeleaguepublishing.com/games/the-one-ring/) that gets the vibes of Tolkien right. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
 
 ## A Return to DCC
-Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. A big dungeon? A campaign of thievery, swords, and sorcery in Lankhmar? 
+Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. A big dungeon? A campaign of thievery, swords, and sorcery in Lankhmar? You decide!
 
 ## Hyperborea
 A classic Sword and Sorcery old-school RPG based on AD&D. Want to fight cannibals, treat with ape-men, and plot against sorcerer-kings? Comes with flavorful class options and a great setting inspired by Robert E. Howard, HP Lovecraft, and Aston Clark Smith—not vanilla DnD fantasy!
