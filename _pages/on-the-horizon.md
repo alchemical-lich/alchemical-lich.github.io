@@ -10,8 +10,9 @@ A running list of games and campaigns we might play next. Take a look, see what 
 
 ## More Pathfinder 2e 
 Like pizza, more PF2e is always good. Here are some adventure options I’d find interesting:
-	- Stolen Fate. A high-level continuation of our PF2e experience. [Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/) is an 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
-    - Hellbreakers. A 1-10 adventure path in which the PCs are revolutionaries in Isger, trying to throw of the yolk of Chelaxian rule. Sabotage, infiltration, revolutions, and war against devil-worshipping oppressors!
+	- *Stolen Fate*. A high-level continuation of our PF2e experience. [Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/) is an 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
+    - *Hellbreakers*. A 1-10 adventure path in which the PCs are revolutionaries in Isger, trying to throw of the yolk of Chelaxian rule. Sabotage, infiltration, revolutions, and war against devil-worshipping oppressors!
+    - *Triumph of the Tusk*. A 3-11 Orc-themed AP. Here is the pitch: "Ardax the White-Hair, a bold orc leader, has invited delegates from across the world to visit Belkzen during its most spectacular natural event: the Flood Truce, when meltwater turns badlands into vibrant wetlands, feeding the nation. Yet not all appreciate Ardax’s diplomatic overtures. When disaster strikes, several guests of honor must take up arms against Belkzens’ enemies and help its orcs realize a brighter future."
 
 
 ## Pallid Suns — continue the CWN mission
