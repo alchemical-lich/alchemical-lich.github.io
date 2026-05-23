@@ -7,6 +7,13 @@ author_profile: true
 
 A running list of games and campaigns we might play next. Take a look, see what sounds fun, and let me know what you're drawn to. Some of these are continuations of current games, some would be a fresh start with a new system.
 
+
+## More Pathfinder 2e 
+Like pizza, more PF2e is always good. Here are some adventure options I’d find interesting:
+	- Stolen Fate. A high-level continuation of our PF2e experience. [Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/) is an 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
+    - Hellbreakers. A 1-10 adventure path in which the PCs are revolutionaries in Isger, trying to throw of the yolk of Chelaxian rule. Sabotage, infiltration, revolutions, and war against devil-worshipping oppressors!
+
+
 ## Pallid Suns — continue the CWN mission
 We already started a campaign chasing down the mystery of the magical weed. [Cities Without Number](https://www.drivethrurpg.com/en/product/449079/cities-without-number) is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
 
@@ -68,10 +75,6 @@ If you don’t want a globetrotting adventure, there is a great small campaign c
 
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders* meets *Thief: The Dark Project*.
-
-
-## More Pathfinder 2e — Stolen Fate
-A high-level continuation of our PF2e experience. [Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/) is an 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
 
 ## Dragonbane: Trudvang
 A Norse and Celtic-inspired dark fantasy setting using the [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/) rules (coming in 2026) — [Free League has announced](https://www.enworld.org/threads/free-league-announces-dragonbane-trudvang.715854/) a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes. Dragonbane itself is a really good rules engine: no classes, skill-based, armor as damage reduction, and quick resolution mechanics. 
