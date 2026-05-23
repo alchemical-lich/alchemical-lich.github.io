@@ -24,8 +24,8 @@ We already started a campaign chasing down the mystery of the magical weed. [Cit
 ## Shadowdark
 A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/products/shadowdark-rpg), stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
 
-- **The official sandbox setting** — plenty of ready-to-run adventures, straight out of the box.
-- **Low-Income Barony** (homebrew) — magic is illegal, paladins and clerics enforce harsh laws, and the wizards you meet survive by slinging alchemical potions and spell components for criminal gangs. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
+- **The official sandbox setting** — Plenty of ready-to-run adventures, straight out of the box.
+- **Low-Income Barony** (homebrew) — Magic is illegal, paladins and clerics enforce harsh laws, but the streets are ruled by criminal gangs slinging alchemical potions, drugs, and spell components. All of you are members of a freelance gang, trying your best to survive the magical drug game. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
 
 ## Fabula Ultima
 Want to play a tabletop RPG inspired by classic Japanese-style console RPGs like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
