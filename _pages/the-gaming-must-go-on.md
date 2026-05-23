@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "On the Horizon"
-permalink: /on-the-horizon/
+title: "The Gaming Must Go On"
+permalink: /the-gaming-must-go-on/
 author_profile: true
 ---
 
