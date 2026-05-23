@@ -19,7 +19,7 @@ Like pizza, more PF2e is always good. Here are some adventure options I’d find
 
 
 ## Pallid Suns — continue the CWN mission
-We already started a campaign chasing down the mystery of the magical weed. [Cities Without Number](https://www.drivethrurpg.com/en/product/449079/cities-without-number) is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
+We already started a campaign chasing down the mystery of the magical weed. [Cities Without Number](https://www.drivethrurpg.com/en/product/449079/cities-without-number) is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (FYI I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
 
 ## Shadowdark
 A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/products/shadowdark-rpg), stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
