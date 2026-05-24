@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alchemical Workshop"
 title_separator          : "-"
 name                     : &name "Alchemical Lich"
-description              : &description "dead since 1535"
+description              : &description "dead since 1541"
 url                      : https://alchemical-lich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alchemical-lich/alchemical-lich.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Theophrastus"
   avatar           : "paracelsus.jpeg"
-  bio              : "Dead since 1535. Playing DCC, OSE, AD&D, WWN/CWN, PF2E, Mothership, Delta Green, SotDL."
+  bio              : "Dead since 1541. Playing DCC, OSE, AD&D, WWN/CWN, PF2E, Mothership, Delta Green, SotDL."
   location         : "In the Phlogiston"
   employer         :
   email            : cadaver.alchemicus@gmail.com
