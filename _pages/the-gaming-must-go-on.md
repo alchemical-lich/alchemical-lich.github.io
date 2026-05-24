@@ -93,3 +93,7 @@ A [new d6 dice-pool fantasy RPG](https://thebrokenblade.com/oath-hammer). Set on
 
 ## Runequest
 A classic RPG! D100 Bronze Age, mythical fantasy. Every character has some magical powers attached to their gods. You adventure in the famous fantasy world of Glorantha, protecting your home and community. Brutal combat.
+
+## Stonetop
+*Stonetop* is a Powered by the Apocalypse fantasy roleplaying game (i.e., collaborative, fiction-first storytelling with players having more narrative control) about the people of a small, isolated Iron Age village clinging to life at the edge of a wild and dangerous world. You play the heroes of Stonetop—a hunter, a blessed priestess, a cunning fox, a would-be hero, and others—who venture into haunted forests, forgotten ruins, and ancient barrows to protect their home and secure its future.
+
