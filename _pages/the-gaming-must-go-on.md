@@ -71,11 +71,6 @@ Let’s do our own classic old-school grand campaign: adventure in dungeons for 
 ## Delta Green
 Your handler calls, you better answer.
 
-## Call of Cthulhu—Masks of Nyarlathotep
-One of the greatest campaigns ever written. Discover a 1920s world-spanning conspiracy and face off with cults and mythos entities.
-
-If you don’t want a globetrotting adventure, there is a great small campaign centered around 1920s Berlin.
-
 ## Sci-Fi
 *Mothership* for some space horror, *Stars Without Number* (sibling game to WWN and CWN) for classic space exploration, *Starfinder 2E* for gonzo Guardian of the Galaxy style adventuring (could also be used for a Latter Earth style science fantasy game).
 
