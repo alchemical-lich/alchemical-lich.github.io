@@ -79,8 +79,8 @@ If you don’t want a globetrotting adventure, there is a great small campaign c
 ## Sci-Fi
 *Mothership* for some space horror, *Stars Without Number* (sibling game to WWN and CWN) for classic space exploration, *Starfinder 2E* for gonzo Guardian of the Galaxy style adventuring (could also be used for a Latter Earth style science fantasy game).
 
-## Helveczia
-An 
+## Helvéczia
+Helvéczia is a picaresque fantasy roleplaying game set in a strange alternate-world Switzerland of the late 17th century—a rugged land of tiny, fiercely independent cantons squeezed between rival empires, where deep forests hide robber bands and the high mountain valleys conceal even stranger things. You play scoundrels, bravos, and ne'er-do-wells—a Student, Cleric, Vagabond, or Fighter—rogues and adventurers in the truest sense, whose fortunes rise and fall with their wit, their cleverness, and the whims of fate.
 
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders*.
