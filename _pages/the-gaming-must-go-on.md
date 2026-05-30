@@ -13,11 +13,6 @@ Like pizza, more PF2e is always good. Here are some adventure options I’d find
 
 *[Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/)*. A high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
     
-*[Hellbreakers](https://store.paizo.com/pathfinder-adventure-path-hellbreakers/)*. A 1-10 adventure path in which the PCs are revolutionaries in Isger, trying to throw of the yolk of Chelaxian rule. Sabotage, infiltration, revolution, and war against devil-worshipping oppressors!
-    
-*[Triumph of the Tusk](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/triumph-of-the-tusk/)*. A 3-11 Orc-themed AP. Here is the pitch: "Ardax the White-Hair, a bold orc leader, has invited delegates from across the world to visit Belkzen during its most spectacular natural event: the Flood Truce, when meltwater turns badlands into vibrant wetlands, feeding the nation. Yet not all appreciate Ardax’s diplomatic overtures. When disaster strikes, several guests of honor must take up arms against Belkzens’ enemies and help its orcs realize a brighter future."
-
-
 ## Pallid Suns — continue the CWN mission
 We already started a campaign chasing down the mystery of the magical weed. [Cities Without Number](https://www.drivethrurpg.com/en/product/449079/cities-without-number) is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (FYI I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
 
