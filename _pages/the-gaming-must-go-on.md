@@ -9,7 +9,7 @@ A running list of games and campaigns we might play next. Take a look, see what 
 
 
 ## More Pathfinder 2e 
-Like pizza, more PF2e is always good. Here are some adventure options I’d find interesting:
+Like pizza, more PF2e is always good. Here is an adventure option I’d find interesting:
 
 *[Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/)*. A high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
     
