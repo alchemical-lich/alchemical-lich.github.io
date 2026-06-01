@@ -34,8 +34,6 @@ Avengers-level high-power fantasy game with deeply tactical combat. Do you want 
 ## Warhammer: The Old World Roleplaying Game
 Grimdark but with plenty of dark British humor. Play a Ratcatcher, a coachman, or a jaded witch hunter in a world where the forces of Chaos are always lurking in the shadows. Heavy on investigation and low-fantasy horror, light on high-powered heroics. D10 dice pools + interesting tactics in combat. Very good Foundry system available. 
 
-Alternative: Warhammer Fantasy RPG 4e is a bit crunchier, D100 system in the same vein. One of the most famous long campaigns—**The Enemy Within**— is available for 4e on Foundry.
-
 ## Worlds Without Number
 The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A [free edition](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) is available from [Sine Nomine](https://www.drivethrurpg.com/en/product/348791/worlds-without-number).
 
