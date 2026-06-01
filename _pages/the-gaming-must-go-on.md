@@ -70,7 +70,7 @@ Let’s do our own classic old-school grand campaign: adventure in dungeons for 
 Your handler calls, you better answer.
 
 ## Mothership
-The best space horror game out there. If you like *Alien*, *Aliens*, or *Event Horizon*, you’ll like this game. Has some of the best adventure modules out there and a bounty hunter expansion is about to release.
+The best space horror game out there. If you like *Alien*, *Aliens*, or *Event Horizon*, you’ll like this game. Has great adventure modules and a bounty hunter expansion is about to release.
 
 ## Helvéczia
 Helvéczia is a picaresque fantasy roleplaying game set in a strange alternate-world Switzerland of the late 17th century—a rugged land of tiny, fiercely independent cantons squeezed between rival empires, where deep forests hide robber bands and the high mountain valleys conceal even stranger things. You play scoundrels, bravos, and ne'er-do-wells—a Student, Cleric, Vagabond, or Fighter—rogues and adventurers in the truest sense, whose fortunes rise and fall with their wit, their cleverness, and the whims of fate.
