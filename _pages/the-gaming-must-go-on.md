@@ -28,6 +28,9 @@ Want to play a tabletop RPG inspired by classic Japanese-style console games lik
 ## Nimble 2e
 [5E streamlined and improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, but still plays as classic DnD 5e. 
 
+## Shadow of the Weird Wizard
+The more high-powered, less grim dark sister game to Shadow of the Demon Lord. Includes a refinement of the rules and making it easier to combine martial and magical character paths. Looks like a lot of fun!
+
 ## Draw Steel
 Avengers-level high-power fantasy game with deeply tactical combat. Do you want to teleport across the battlefield, throw enemies through walls, and unleash massive attacks taking out a dozen enemies at once? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character *more* powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the [digital tools](https://www.mcdmproductions.com/draw-steel-resources) — character builder, VTT support — are excellent. Comes with its own custom VTT with incredible levels of automation.
 
