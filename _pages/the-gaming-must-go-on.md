@@ -22,6 +22,9 @@ A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/prod
 - **The official sandbox setting** — Plenty of ready-to-run adventures, straight out of the box.
 - **Low-Income Barony** (homebrew) — Magic is illegal, paladins and clerics enforce harsh laws, but the streets are ruled by criminal gangs slinging alchemical potions, drugs, and spell components. All of you are members of a freelance gang, trying your best to survive the magical drug game. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
 
+## The Vile Deeds of Christman Grippertenius
+Wrote an adventure for old-school DnD set in the 16th century Holy Roman Empire. Inspired by the legend of [Christman Genipperteinga](https://en.wikipedia.org/wiki/Christman_Genipperteinga).
+
 ## Fabula Ultima
 Want to play a tabletop RPG inspired by classic Japanese-style console games like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
 
