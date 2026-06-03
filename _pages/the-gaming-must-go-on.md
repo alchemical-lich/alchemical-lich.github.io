@@ -79,8 +79,11 @@ Helvéczia is a picaresque fantasy roleplaying game set in a strange alternate-w
 ## Blades in the Dark
 A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders*.
 
+## Dragonbane
+Fantastic classic fantasy RPG made by Freeleague. Dragonbane has a great rules engine: no classes, skill-based, armor as damage reduction, and quick, roll-under resolution mechanic. Combat is deadly and has some neat strategic elements. The vibe is “mirth and mayhem”. You can play duck people. 
+
 ## Dragonbane: Trudvang
-A Norse and Celtic-inspired dark fantasy setting using the [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/) rules (coming in 2026) — [Free League has announced](https://www.kickstarter.com/projects/1192053011/dragonbane-trudvang-the-legend-returns) a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes. Dragonbane itself is a really good rules engine: no classes, skill-based, armor as damage reduction, and quick resolution mechanics. 
+A Norse and Celtic-inspired dark fantasy setting using the [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/) rules (coming in 2026) — [Free League has announced](https://www.kickstarter.com/projects/1192053011/dragonbane-trudvang-the-legend-returns) a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes.  
 
 ## The Electrum Archive
 A [rules-light science-fantasy zine RPG](https://www.electrumarchive.com). Imagine a combination of Dune, Morrowind, and psychedelic fantasy vibes. You play *inkseekers* — adventurers who venture into the decaying world of Orn, looking for lost ink-tech and Elder artifacts in abandoned sandstorm shelters and fallen starships. Currency is literal drops of elder ink. 
