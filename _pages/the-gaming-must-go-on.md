@@ -73,6 +73,11 @@ Let’s do our own classic old-school grand campaign: adventure in dungeons for 
 ## Delta Green
 Your handler calls, you better answer.
 
+## Call of Cthulhu
+The OG mystery/horror game. *Masks of Nyarlathotep* is a globe-trotting 1920s campaign—one of the best ever written. Can be played with *Pulp* rules if you want to lean more into the action elements.
+
+There is also a smaller campaign called *The Wicked City*, focused on 1920s Berlin.
+
 ## Mothership
 The best space horror game out there. If you like *Alien*, *Aliens*, or *Event Horizon*, you’ll like this game. Has great adventure modules and a bounty hunter expansion is about to release.
 
