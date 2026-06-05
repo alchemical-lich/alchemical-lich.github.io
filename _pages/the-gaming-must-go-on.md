@@ -11,40 +11,40 @@ A running list of games and campaigns we might play next. Take a look, see what 
 ## More Pathfinder 2e 
 Like pizza, more PF2e is always good. Here is an adventure option I’d find interesting:
 
-*[Stolen Fate](https://store.paizo.com/pathfinder/pathfinder-second-edition/adventure-paths/stolen-fate/)*. A high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
+*Stolen Fate*. A high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
     
 ## Pallid Suns — continue the CWN mission
-We already started a campaign chasing down the mystery of the magical weed. [Cities Without Number](https://www.drivethrurpg.com/en/product/449079/cities-without-number) is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (FYI I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
+We already started a campaign chasing down the mystery of the magical weed. Cities Without Number is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (FYI I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
 
 ## Shadowdark
-A [mash-up of 5E, old-school D&D, and DCC](https://www.thearcanelibrary.com/products/shadowdark-rpg), stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
+A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
 
 - **The official sandbox setting** — Plenty of ready-to-run adventures, straight out of the box.
-- **Low-Income Barony** (homebrew) — Magic is illegal, paladins and clerics enforce harsh laws, but the streets are ruled by criminal gangs slinging alchemical potions, drugs, and spell components. All of you are members of a freelance gang, trying your best to survive the magical drug game. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
+- **Low-Income Barony** (homebrew) — Magic is illegal, paladins and clerics enforce harsh laws, but the streets are ruled by criminal gangs slinging alchemical potions, drugs, and spell components. All of you are members of a freelance gang, trying your best to survive the magical drug game. Basically, this song as a game.
 
 ## The Vile Deeds of Christman Grippertenius
-Wrote an adventure for old-school DnD set in the 16th century Holy Roman Empire. Inspired by the legend of [Christman Genipperteinga](https://en.wikipedia.org/wiki/Christman_Genipperteinga).
+Wrote an adventure for old-school DnD set in the 16th century Holy Roman Empire. Inspired by the legend of Christman Genipperteinga.
 
 ## Fabula Ultima
 Want to play a tabletop RPG inspired by classic Japanese-style console games like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
 
 ## Nimble 2e
-[5E streamlined and improved](https://nimblerpg.com/). Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, but still plays as classic DnD 5e. 
+5E streamlined and improved. Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, but still plays as classic DnD 5e. 
 
 ## Shadow of the Weird Wizard
 The more high-powered, less grim dark sister game to Shadow of the Demon Lord. Includes a refinement of the rules and making it easier to combine martial and magical character paths. Looks like a lot of fun!
 
 ## Draw Steel
-Avengers-level high-power fantasy game with deeply tactical combat. Do you want to teleport across the battlefield, throw enemies through walls, and unleash massive attacks taking out a dozen enemies at once? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character *more* powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the [digital tools](https://www.mcdmproductions.com/draw-steel-resources) — character builder, VTT support — are excellent. Comes with its own custom VTT with incredible levels of automation.
+Avengers-level high-power fantasy game with deeply tactical combat. Do you want to teleport across the battlefield, throw enemies through walls, and unleash massive attacks taking out a dozen enemies at once? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character *more* powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the digital tools — character builder, VTT support — are excellent. Comes with its own custom VTT with incredible levels of automation.
 
 ## Warhammer: The Old World Roleplaying Game
 Grimdark but with plenty of dark British humor. Play a Ratcatcher, a coachman, or a jaded witch hunter in a world where the forces of Chaos are always lurking in the shadows. Heavy on investigation and low-fantasy horror, light on high-powered heroics. D10 dice pools + interesting tactics in combat. Very good Foundry system available. 
 
 ## Worlds Without Number
-The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A [free edition](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) is available from [Sine Nomine](https://www.drivethrurpg.com/en/product/348791/worlds-without-number).
+The fantasy sister game to CWN. Old-school deadly D&D-style dungeoneering, a flexible character system, dropped into the dark sword-and-sorcery world of the Latter Earth. Same rules engine as CWN with an enormous toolkit of worldbuilding and GM tools. Good balance between character customization and fast play. A free edition is available from Sine Nomine.
 
 ## The One Ring (2e)
-[A great rpg](https://freeleaguepublishing.com/games/the-one-ring/) that gets the vibes of Tolkien right. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
+A great rpg that gets the vibes of Tolkien right. Set in the long years between *The Hobbit* and the War of the Ring, the focus is on fellowship, travel, and long shadows — not XP grinding. We'd play in Eriador, walking the old roads west of the Misty Mountains.
 
 ## A Return to DCC
 Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics and let chaos reign. A big dungeon? A campaign of thievery, swords, and sorcery in Lankhmar? You decide!
@@ -53,22 +53,22 @@ Time to chop heads and sling spells! Let’s return to Dungeon Crawl Classics an
 A classic Sword and Sorcery old-school RPG based on AD&D. Want to fight cannibals, treat with ape-men, and plot against sorcerer-kings? Comes with flavorful class options and a great setting inspired by Robert E. Howard, HP Lovecraft, and Aston Clark Smith—not vanilla DnD fantasy!
 
 ## Twilight: 2000
-World War III has flattened Europe. Your unit is cut off, supply is gone, and the chain of command is broken. [Free League's 4th edition](https://freeleaguepublishing.com/games/twilight-2000/) is a hex-crawl survival game of scrounging, jury-rigging repairs, and short brutal firefights, set in the ruins of Poland or Sweden. Gritty, mechanical, atmospheric — the military-survival equivalent of a cold, wet, hungry West Marches campaign.
+World War III has flattened Europe. Your unit is cut off, supply is gone, and the chain of command is broken. Free League's 4th edition is a hex-crawl survival game of scrounging, jury-rigging repairs, and short brutal firefights, set in the ruins of Poland or Sweden. Gritty, mechanical, atmospheric — the military-survival equivalent of a cold, wet, hungry West Marches campaign.
 
 ## Forbidden Lands
-A [fantasy survival hex-crawl](https://freeleaguepublishing.com/shop/forbidden-lands/) from Free League. You're not chosen heroes — you're raiders, rogues, and treasure-hunters making your own mark on a cursed world just emerging from a centuries-long Blood Mist. D6 dice pools, lethal combat, stronghold-building, and a very good official campaign (*Raven's Purge*).
+A fantasy survival hex-crawl from Free League. You're not chosen heroes — you're raiders, rogues, and treasure-hunters making your own mark on a cursed world just emerging from a centuries-long Blood Mist. D6 dice pools, lethal combat, stronghold-building, and a very good official campaign (*Raven's Purge*).
 
 ## Gods of the Forbidden North
-A three-volume mega-campaign from [Pulp Hummock Press](https://pulphummock.com/) written for Old-School Essentials: Advanced Fantasy (i.e., old-school DnD). Classic fantasy sandbox with a long, open middle section and an epic finale in the frozen North. A grand campaign. Could be played with a different system as well.
+A three-volume mega-campaign from Pulp Hummock Press written for Old-School Essentials: Advanced Fantasy (i.e., old-school DnD). Classic fantasy sandbox with a long, open middle section and an epic finale in the frozen North. A grand campaign. Could be played with a different system as well.
 
 ## Wolves Upon the Coast
 You are former thralls. You slew your master and made away on a small boat. The rough sea is all around you. Now, you have to make your fortune. A legendary Viking hex crawl. Comes with minimalist rules but could be played with a variety of old-school systems.
 
 ## Outcast Silver Raiders
-A dark, [occult-medieval OSR game](https://www.osr-rpg.com/) set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats. Comes with a fully-fleshed out campaign setting for you to explore.
+A dark, occult-medieval OSR game set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats. Comes with a fully-fleshed out campaign setting for you to explore.
 
 ## Where They Make a Desert, They Call it Peace
-Let’s do our own classic old-school grand campaign: adventure in dungeons for gold and XP, build a stronghold, recruit troops, rule a barony, and wage war. There will be classic adventuring, domain management, and wargaming! Two systems do this well — [Adventurer Conqueror King System (ACKS II)](https://autarch.co/adventurer-conqueror-king/) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
+Let’s do our own classic old-school grand campaign: adventure in dungeons for gold and XP, build a stronghold, recruit troops, rule a barony, and wage war. There will be classic adventuring, domain management, and wargaming! Two systems do this well — Adventurer Conqueror King System (ACKS II) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
 
 ## Delta Green
 Your handler calls, you better answer.
@@ -85,19 +85,19 @@ The best space horror game out there. If you like *Alien*, *Aliens*, or *Event H
 Helvéczia is a picaresque fantasy roleplaying game set in a strange alternate-world Switzerland of the late 17th century—a rugged land of tiny, fiercely independent cantons squeezed between rival empires, where deep forests hide robber bands and the high mountain valleys conceal even stranger things. You play scoundrels, bravos, and ne'er-do-wells—a Student, Cleric, Vagabond, or Fighter—rogues and adventurers in the truest sense, whose fortunes rise and fall with their wit, their cleverness, and the whims of fate.
 
 ## Blades in the Dark
-A [scoundrel RPG of industrial-fantasy heists](https://evilhat.com/product/blades-in-the-dark/). You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders*.
+A scoundrel RPG of industrial-fantasy heists. You play a crew of thieves, assassins, or smugglers in Doskvol — a haunted city of electro-plasm lamps, ghost-fogged canals, and feuding noble houses — building a criminal empire one score at a time. Fast, narrative-forward, and the engine behind a whole genre of modern indie games. Steampunk meets *Peaky Blinders*.
 
 ## Dragonbane
 Fantastic classic fantasy RPG made by Freeleague. Dragonbane has a great rules engine: no classes, skill-based, armor as damage reduction, and quick, roll-under resolution mechanic. Combat is deadly and has some neat strategic elements. The vibe is “mirth and mayhem”. You can play duck people. 
 
 ## Dragonbane: Trudvang
-A Norse and Celtic-inspired dark fantasy setting using the [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/) rules (coming in 2026) — [Free League has announced](https://www.kickstarter.com/projects/1192053011/dragonbane-trudvang-the-legend-returns) a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes.  
+A Norse and Celtic-inspired dark fantasy setting using the Dragonbane rules (coming in 2026) — Free League has announced a four-volume set including a world book, a book of heroes, Jorgi's Bestiary, and a four-part epic campaign called *The Black Sun*. Trudvang is a world of shadowed woods, fathomless mists, wrathful gods, and unsung heroes.  
 
 ## The Electrum Archive
-A [rules-light science-fantasy zine RPG](https://www.electrumarchive.com). Imagine a combination of Dune, Morrowind, and psychedelic fantasy vibes. You play *inkseekers* — adventurers who venture into the decaying world of Orn, looking for lost ink-tech and Elder artifacts in abandoned sandstorm shelters and fallen starships. Currency is literal drops of elder ink. 
+A rules-light science-fantasy zine RPG. Imagine a combination of Dune, Morrowind, and psychedelic fantasy vibes. You play *inkseekers* — adventurers who venture into the decaying world of Orn, looking for lost ink-tech and Elder artifacts in abandoned sandstorm shelters and fallen starships. Currency is literal drops of elder ink. 
 
 ## Oath Hammer
-A [new d6 dice-pool fantasy RPG](https://thebrokenblade.com/oath-hammer). Set on Osric Isle, the ancestral home of the dwarven clans, who were defeated and driven out by orcish reavers — and are now returning to reclaim it. Every character swears three binding oaths that guide their conduct and grant special boons when honored. D6 dice pools, hexcrawl exploration, crafting, and domain-level play. A good fit if you want a focused reconquest campaign with a strong thematic hook.
+A new d6 dice-pool fantasy RPG. Set on Osric Isle, the ancestral home of the dwarven clans, who were defeated and driven out by orcish reavers — and are now returning to reclaim it. Every character swears three binding oaths that guide their conduct and grant special boons when honored. D6 dice pools, hexcrawl exploration, crafting, and domain-level play. A good fit if you want a focused reconquest campaign with a strong thematic hook.
 
 ## Runequest
 A classic RPG! D100 Bronze Age, mythical fantasy. Every character has some magical powers attached to their gods. You adventure in the famous fantasy world of Glorantha, protecting your home and community. Brutal combat.
