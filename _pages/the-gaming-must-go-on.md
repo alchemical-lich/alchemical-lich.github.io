@@ -62,7 +62,7 @@ A [fantasy survival hex-crawl](https://freeleaguepublishing.com/shop/forbidden-l
 A three-volume mega-campaign from [Pulp Hummock Press](https://pulphummock.com/) written for Old-School Essentials: Advanced Fantasy (i.e., old-school DnD). Classic fantasy sandbox with a long, open middle section and an epic finale in the frozen North. A grand campaign. Could be played with a different system as well.
 
 ## Wolves Upon the Coast
-You are former thralls. You slew your master and made away on a small boat. The rough sea is all around you. Now, you have to make your fortune. A legendary Viking hex crawl. Comes with a minimalist rules but could be played with a variety of old-school systems.
+You are former thralls. You slew your master and made away on a small boat. The rough sea is all around you. Now, you have to make your fortune. A legendary Viking hex crawl. Comes with minimalist rules but could be played with a variety of old-school systems.
 
 ## Outcast Silver Raiders
 A dark, [occult-medieval OSR game](https://www.osr-rpg.com/) set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats. Comes with a fully-fleshed out campaign setting for you to explore.
