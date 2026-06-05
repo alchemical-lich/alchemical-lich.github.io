@@ -16,7 +16,7 @@ separate repository — [github.com/alchemical-lich/ttrpg-kickstarter](https://g
 
 A while back I read [a great guest post on Patchwork Paladin](https://patchworkpaladin.com/2026/05/18/kickstarter-whales-guest-post/) about Kickstarter "whales" — the analysis where Scipio202 went through ENWorld's list of fifty-three tabletop RPG campaigns that raised a million dollars or more and pulled apart their reward tiers.[^whales] The headline finding stuck with me: across those mega-projects, the high-end "whale" tiers brought in roughly 23% of all the money, vastly more than the cheap entry tiers (under 4%), and the sweet-spot whale tier clustered around a sizable but more sensible ~$478, nowhere near the $5,000 dragon-hoard you might picture.
 
-It's a nice piece of detective work. But fifty-three projects is fifty-three projects, and all of them already won. I kept wondering about the rest of the ttrpg Kickstarter projects out there. So I went looking for more data to learn about what makes rpg projects work on Kickstarter. This post is a broad overview and glosses over a lot of details. There are some findings, but I'll also be honest about the places where the data were messy and misleading.
+It's a nice piece of detective work. But fifty-three projects is fifty-three projects, and all of them are extreme success stories. I kept wondering about the rest of the ttrpg Kickstarter projects out there. So I went looking for more data to learn about what makes rpg projects work on Kickstarter. This post is a broad overview and glosses over a lot of details. There are some findings, but I'll also be honest about the places where the data were messy and misleading.
 
 ## Step one: get the data. Step two: distrust it.
 
