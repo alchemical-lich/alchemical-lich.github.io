@@ -14,13 +14,13 @@ separate repository — [github.com/alchemical-lich/ttrpg-kickstarter](https://g
 
 *Note: The analysis and write-up were generated with the help of Claude Code—since this was done on a whim, I didn’t feel the need to do everything by hand.*
 
-A while back I read [a great guest post on Patchwork Paladin](https://patchworkpaladin.com/2026/05/18/kickstarter-whales-guest-post/) about Kickstarter "whales" — the analysis where Scipio202 went through ENWorld's list of fifty-three tabletop RPG campaigns that raised a million dollars or more and pulled apart their reward tiers.[^whales] The headline finding stuck with me: across those mega-projects, the high-end "whale" tiers brought in roughly 23% of all the money, vastly more than the cheap entry tiers (under 4%), and the sweet-spot whale tier clustered around a sensible ~$478, nowhere near the $5,000 dragon-hoard you might picture.
+A while back I read [a great guest post on Patchwork Paladin](https://patchworkpaladin.com/2026/05/18/kickstarter-whales-guest-post/) about Kickstarter "whales" — the analysis where Scipio202 went through ENWorld's list of fifty-three tabletop RPG campaigns that raised a million dollars or more and pulled apart their reward tiers.[^whales] The headline finding stuck with me: across those mega-projects, the high-end "whale" tiers brought in roughly 23% of all the money, vastly more than the cheap entry tiers (under 4%), and the sweet-spot whale tier clustered around a sizable but more sensible ~$478, nowhere near the $5,000 dragon-hoard you might picture.
 
-It's a lovely piece of detective work. But fifty-three projects is fifty-three projects, and all of them already won. I kept wondering about the rest of the ttrpg Kickstarter projects out there: not "how do the giants structure their tiers," but "what does the whole RPG corner of Kickstarter actually look like, including the projects nobody remembers?" So I went looking for more data and what I found turned into equal parts answers and cautionary tales. This post is the tour. I'll give you the findings, but I'll also be honest about the places where the data were messy and misleading, because those are half the fun.
+It's a lovely piece of detective work. But fifty-three projects is fifty-three projects, and all of them already won. I kept wondering about the rest of the ttrpg Kickstarter projects out there. So I went looking for more data to learn about what makes rpg projects work on Kickstarter. This post is a broad overview and glosses over a lot of details. There are some findings, but I'll also be honest about the places where the data were messy and misleading.
 
 ## Step one: get the data. Step two: distrust it.
 
-There's a wonderful free resource called Web Robots that has been crawling Kickstarter roughly once a month since 2014 and posting the results. I stitched together more than a hundred of those monthly snapshots, deduplicated everything, and ended up with about **45,000 tabletop-games projects**. Tabletop is a messy category — it lumps board games, card games, miniatures, dice, and actual roleplaying games together — so I built a keyword classifier to sort RPG rulebooks and adventures (~10,800 of them) and RPG-specific accessories like dice and minis (~4,000) out from the boardgame crowd.[^classifier]
+There's a wonderful free resource called Web Robots that has been crawling Kickstarter roughly once a month since 2014 and posting the results. With the help of Claude, I stitched together more than a hundred of those monthly snapshots, deduplicated everything, and ended up with about **45,000 tabletop-games projects**. Tabletop is a messy category — it lumps board games, card games, miniatures, dice, and actual roleplaying games together — so I built a keyword classifier to sort RPG rulebooks and adventures (~10,800 of them) and RPG-specific accessories like dice and minis (~4,000) out from the boardgame crowd.[^classifier]
 
 ![RPG-related tabletop launches by month, with coverage gaps shaded red](/images/kickstarter_rpgs/tabletop_launches_by_month_coverage.png)
 
@@ -28,22 +28,22 @@ There's a wonderful free resource called Web Robots that has been crawling Kicks
 
 Then I did the first thing anyone does: I checked the success rate. The data said tabletop RPGs succeed about **98% of the time**.
 
-That number is garbage, and recognizing *why* it's garbage is the single most important thing in this whole analysis. Web Robots builds its snapshots from Kickstarter's public "discover" pages — and those pages overwhelmingly surface projects that are live or that succeeded. Campaigns that flopped quietly fall out of view and never make it into the crawl. So what the crawl really captures is the *survivors* — the live and the victorious — with the quiet failures missing almost entirely.[^survivorship] Asking it for a success rate is like surveying lottery winners about the odds of winning the lottery.
+That number seems wildly inaccurate, and recognizing *why* it's garbage is a good example why figuring our where your data come from is so important. Web Robots builds its snapshots from Kickstarter's public "discover" pages — and those pages overwhelmingly surface projects that are live or that succeeded. Campaigns that flopped quietly fall out of view and never make it into the crawl. So what the crawl really captures is the *survivors* — the live and the victorious — with the quiet failures missing almost entirely.[^survivorship] Asking it for a success rate is like surveying lottery winners about the odds of winning the lottery.
 
-This is survivorship bias, and it quietly reshapes the entire project. It means there are two completely different questions hiding inside "what makes a campaign succeed," and they need different data:
+This is survivorship bias, and it required a bit of additional thinking. It means there are two separate questions hiding inside "what makes a campaign succeed," and they need different data:
 
 1. **Did it get funded at all?** — You cannot answer this from a dataset with no failures.
 2. **Given that it got funded, how much did it raise?** — This you *can* answer, because the survivors are exactly the population you care about.
 
-So I went and found data that *does* remember the failures. A widely-used Kaggle export covers 2009–2018 and includes the flops; an academic dataset from ICPSR covers 2009–2023 with all 610,000 Kickstarter projects, successes and failures alike.[^triangulation] Triangulating across three independent sources — using the failure-aware ones for "did it fund" and the rich Web Robots crawl for "how much" — is the backbone of everything below.
+So I went and found data that *does* include the failures. A widely-used Kaggle export covers 2009–2018 and includes the flops; an academic dataset from ICPSR covers 2009–2023 with all 610,000 Kickstarter projects, successes and failures alike.[^triangulation] Triangulating across three independent sources — using the failure-inclusive ones for "did it fund" and the rich Web Robots crawl for "how much" — is the basis of everything below.
 
-When you bring the failures back, the real tabletop success rate isn't 98%. It's about **two-thirds** over 2009–2018, climbing to roughly **86% by 2023**.[^rate] Tabletop has quietly become one of the most forgiving categories on the platform — but it got there gradually, and the reason turns out to be interesting.
+When you bring the failures back, the real tabletop success rate isn't 98%. It's about **two-thirds** over 2009–2018, climbing to roughly **86% by 2023**.[^rate] Tabletop has quietly become one of the most forgiving categories on the platform — but it got there gradually.
 
 ![True tabletop success rate by year, two sources](/images/kickstarter_rpgs/icpsr_success_by_year.png)
 
 *The real success rate (successes ÷ finished projects), once you put the failures back in. Two independent datasets agree closely through 2018; the longer one carries the story up to ~86% by 2023.*
 
-## What the RPG shelf actually looks like
+## Money, Money
 
 Start with the shape of the money, among funded projects. It is *brutally* top-heavy. The **top 1% of funded RPG projects capture about 36% of all the dollars**; the top 5% capture nearly two-thirds. For accessories it's even more concentrated — the top 1% pull in 46%. The whale post wasn't studying a weird fringe; it was studying the part of the distribution where almost all the money actually is.
 
@@ -57,21 +57,21 @@ The typical project is far humbler. A median *funded* RPG book raises around **$
 
 *What funded projects raise (log scale). RPG books sit to the right of accessories — they raise more — but both distributions have a long tail reaching toward the millions.*
 
-Accessories, meanwhile, play a different game. Their median funding goal is **$300** — basically a formality — and they blow past it: 88% of funded accessories raise at least double their goal, versus 75% for books. "Set a tiny goal and overfund" is a genuine strategy, and it's especially an accessory move.
+Accessories, meanwhile, play a different game. Their median funding goal is **$300** — basically a formality — and they blow past it: 88% of funded accessories raise at least double their goal, versus 75% for books. "Set a tiny goal and overfund” is a common strategy, especially for accessories.
 
 ## What actually predicts getting funded: who, not what
 
 Now the question the survivor data couldn't speak to. Using the failure-inclusive datasets, I built models to predict funding success and — importantly — checked how well they did out-of-sample, not just how nicely they fit.[^auc]
 
-Two models, two different kinds of information. One knew only about the **creator**: how many projects they'd run before, how many succeeded, how many failed. The other knew only about the **project**: its genre, its goal, its country, its title.
+I started with two models with different kinds of information. One knew only about the **creator**: how many projects they'd run before, how many succeeded, how many failed. The other knew only about the **project**: its genre, its goal, its country, its title.
 
-The creator model won, and not by a little — it predicted funding substantially better than the project model.[^whovwhat] On Kickstarter's RPG shelf, *who is asking* matters more than *what they're asking for*. A creator's prior track record is the strongest single predictor I found: each past success multiplies the odds of funding, a strong prior success *rate* multiplies them a lot, and — symmetrically — **past failures predict future failure**. Reputation compounds in both directions.
+The creator model won handily — it predicted funding substantially better than the project model.[^whovwhat] On Kickstarter's RPG lineup, *who is asking* matters more than *what they're asking for*. A creator's prior track record is the strongest single predictor I found: each past success multiplies the odds of funding, a strong prior success *rate* multiplies them a lot, and — symmetrically — **past failures predict future failure**. Reputation compounds in both directions.
 
 ![Odds-ratio plot of funding predictors from the creator-history model](/images/kickstarter_rpgs/success_or_plot.png)
 
 *What predicts getting funded, from the creator-history model (odds ratios). Bars to the right of 1 improve the odds — a strong prior success rate most of all — while prior failures (left of 1) drag them down.*
 
-This also explains the rising success rate. As the platform ages, a bigger and bigger share of launches come from people who've done it before and succeeded. The market didn't necessarily get easier; the *launchers* got more experienced.
+This also explains the rising success rate. As the platform ages, a bigger and bigger share of launches come from people who've done it before and succeeded. The market didn't necessarily get easier; apparently the *launchers* got more experienced.
 
 The project attributes still matter, just less. Holding other things equal: an actual RPG is more likely to fund than a board or card game; a "5E-compatible" or D&D/Pathfinder label helps further; US-based projects do a bit better. And there's the perennial Kickstarter finding — **modest goals fund more reliably.** Each tenfold increase in the goal cuts the odds of funding by roughly two-thirds.
 
@@ -79,7 +79,7 @@ The project attributes still matter, just less. Holding other things equal: an a
 
 *Success falls steadily as the goal climbs. But read this as "who sets what," not as a lever — cautious creators with small audiences are the ones choosing the small goals.*
 
-A warning on that last one, because it's the most misread statistic in all of crowdfunding: this is a *correlation*, and the goal is not randomly assigned. Creators set goals in anticipation of demand — a cautious creator with a small audience sets $2,000; a publisher with a big mailing list confidently sets $80,000. So "low goals succeed more" absolutely does **not** mean "lower your goal and you'll succeed." The number tells you which kind of creator picks which kind of goal; what would happen if a given creator trimmed their own is a question it simply can't answer. (I'll come back to this trap.)
+A warning on that last one, because it's an easily misunderstood statistic: this is a *correlation*, and the goal is not randomly assigned. Creators set goals in anticipation of demand — a cautious creator with a small audience sets $2,000; a publisher with a big mailing list confidently sets $80,000. So "low goals succeed more" absolutely does **not** mean "lower your goal and you'll succeed." The number tells you which kind of creator picks which kind of goal; what would happen if a given creator trimmed their own is a question it simply can't answer. (I'll come back to this trap.)
 
 ## What predicts raising a *lot* (once you've already won)
 
@@ -94,7 +94,7 @@ For the magnitude question — how big does a funded project get — I switched 
 
 *Correlates of raising more, among funded projects — multiply the dollars by the value on the axis. A "Projects We Love" staff pick travels with ~2.6× the money; a zine, with less.*
 
-I'm deliberately leaving the funding goal off that list even though it has the largest coefficient, because for funded projects its effect is mostly **mechanical**: if you raised enough to succeed, you by definition cleared your goal, so a bigger goal mechanically sets a higher floor.[^goal] It's bookkeeping, and I treat it that way.
+I'm deliberately leaving the funding goal off that list even though it has the largest coefficient, because for funded projects its effect is mostly **mechanical**: if you raised enough to succeed, you by definition cleared your goal, so a bigger goal mechanically sets a higher floor.[^goal] 
 
 Two richer wrinkles. First, I fed the campaign *text* — titles and blurbs — into the model to see if the wording tells us anything beyond the obvious numbers. It does, modestly, and the pattern is a clean **premium-versus-commodity axis**: words like "diorama," "scenery," "miniatures," "softcover," and "collectors" predict raising *more*, while "pay what you want," generic "dnd dice," and "quality resin" predict raising *less*.[^text] Presentation as a deluxe object pulls money in; presentation as a cheap commodity doesn't.
 
@@ -104,7 +104,7 @@ Two richer wrinkles. First, I fed the campaign *text* — titles and blurbs — 
 
 Second — and this is the kind of thing only a big dataset lets you ask — the staff-pick and video effects get *stronger* the further up the distribution you go. For a median project a staff pick is worth maybe 1.5×; for the runaway hits near the top it's associated with more like 3.5×. Social proof and polish are amplified in exactly the tail where the whales live. (Correlation again — Kickstarter may hand out staff picks to projects it can already tell will be big — but it's a suggestive pattern.)
 
-## Books and accessories play by different rules — but only for one question
+## Books and accessories are different — but only for one question
 
 Because I'd split RPG books from RPG accessories, I could ask whether they respond to the same things. The answer is a tidy little asymmetry.
 
@@ -120,7 +120,7 @@ So: **product type shapes how much you raise, but not whether you raise it.** Th
 
 ## Did D&D's fifth edition cause the boom? (It doesn’t look like it.)
 
-Now for the fun part: causation. It's tempting to look at the rising RPG fortunes of the last decade and credit obvious cultural events — 5th edition in 2014, *Stranger Things*, *Critical Role*. Tempting, but mostly unprovable, and in one case provably wrong.
+Now for the fun part: causation. It's tempting to look at the rising RPG fortunes of the last decade and credit obvious cultural events — 5th edition in 2014, *Stranger Things*, *Critical Role*. Tempting, but mostly unprovable, and in one case likely wrong.
 
 The honest way to test "did event X cause the RPG surge" is a difference-in-differences: compare RPGs (which event X should affect) against board and card games (which it shouldn't) before and after, so the platform-wide trend cancels out. When I do this for **5th edition's mid-2014 release**, the result is a clean *null*. The RPG advantage over other tabletop games was **already there in 2012**, two years before 5e shipped, and it just... continued. There's no break at the release.[^did5e]
 
@@ -128,9 +128,9 @@ The honest way to test "did event X cause the RPG surge" is a difference-in-diff
 
 *The 5e "effect" that wasn't. The RPG-vs-control success gap is already positive in 2012 and flat across the mid-2014 release (dashed line) — no jump, no clean causal story.*
 
-The boom is real, but pinning it on 5e specifically doesn't survive contact with the data — the treatment was too gradual and too anticipated, and 5e probably lifted D&D *board games* too, contaminating the comparison. *Stranger Things* and *Critical Role* are even harder to test cleanly, so I won't pretend to.
+The boom is real, but pinning it on 5e specifically doesn't survive contact with the data — the treatment was too gradual and too anticipated, and 5e probably lifted D&D *board games* too, contaminating the comparison. *Stranger Things* and *Critical Role* are even harder to test cleanly, so I won't.
 
-One event *does* leave a fingerprint, and tellingly it comes from the platform itself: **ZineQuest**, Kickstarter's annual February push for RPG zines, launched in 2019. This one is close to a natural experiment, precisely because it's *RPG-specific* — Kickstarter promotes RPG zines, not board games, so board games make an honest control group. And the effect is unmistakable: funded RPG launches **roughly double every February** in the ZineQuest era, relative to what the season and the trend would predict, with no such jump beforehand.[^zinequest] But the *mechanism* is a nice twist. ZineQuest worked through sheer volume: it summoned a flood of *small* zines that would never otherwise have launched, while leaving the size of the typical project untouched. The February cohort is 41% zines (versus 3% the rest of the year), and its median pledge is less than half the usual. The program lowered the barrier to small-format publishing and a lot of people walked through the door, exactly as intended.
+One event *does* leave a fingerprint, and tellingly it comes from the platform itself: **ZineQuest**, Kickstarter's annual February push for RPG zines, launched in 2019. This one is closer to a natural experiment, precisely because it's *RPG-specific* — Kickstarter promotes RPG zines, not board games, so board games make an useful control group. And the effect is unmistakable: funded RPG launches **roughly double every February** in the ZineQuest era, relative to what the season and the trend would predict, with no such jump beforehand.[^zinequest] But the *mechanism* is a nice twist. ZineQuest worked through sheer volume: it summoned a flood of *small* zines that would never otherwise have launched, while leaving the size of the typical project untouched. The February cohort is 41% zines (versus 3% the rest of the year), and its median pledge is less than half the usual. The program lowered the barrier to small-format publishing and a lot of people walked through the door, exactly as intended.
 
 ![ZineQuest February launch premium by year](/images/kickstarter_rpgs/zq_feb_premium.png)
 
@@ -140,15 +140,15 @@ One event *does* leave a fingerprint, and tellingly it comes from the platform i
 
 *A placebo check: re-run the test pretending each month is the "treatment." Only February (highlighted) shows the jump — strong evidence the effect is ZineQuest, not noise.*
 
-I'd have loved to study the **2023 OGL crisis** — Wizards of the Coast's botched attempt to revise the Open Game License, which genuinely panicked RPG creators — as a shock to the system. Unfortunately I can't, and the reason is almost poetic: the Web Robots crawl has a gap in its coverage that sits *exactly* on top of January 2023, and the only failure-aware source that reaches that far masks project names so I can't tell the RPGs apart.[^ogl] Sometimes the data just isn't there, and saying so is part of the job.
+I'd have loved to study the **2023 OGL crisis** — Wizards of the Coast's botched attempt to revise the Open Game License, which genuinely panicked RPG creators — as a shock to the system. Unfortunately I can't: the Web Robots crawl has a gap in its coverage that sits *exactly* on top of January 2023, and the only failure-inclusive source that reaches that far masks project names so I can't tell the RPGs apart.[^ogl] Bummer.
 
 ## So What?
 
 If you're running an RPG Kickstarter, the evidence-backed takeaways are: your **track record is your biggest asset** (and your past failures follow you); a **modest goal** correlates with funding, though that mostly reflects which creators set small goals in the first place; a **staff pick and a video** travel with much bigger raises; and **how you frame the product** — premium object versus cheap commodity — shows up in the dollars.
 
-What I *wouldn't* tell you is that any of these are guaranteed levers. Almost everything here is a correlation drawn from observational data, with all the usual hazards: creators choose their goals strategically, Kickstarter chooses who gets staff-picked, my RPG classifier is right only about three-quarters of the time,[^classifier] and the one genuinely causal result I have is about a niche February program for zines. The most useful move in this whole exercise was almost embarrassingly simple: I noticed that the obvious dataset quietly omitted every failure, and went to dig up the ones that did.
+What I *wouldn't* tell you is that any of these are guaranteed levers. Almost everything here is a correlation drawn from observational data, with all the usual hazards: creators choose their goals strategically, Kickstarter chooses who gets staff-picked, my RPG classifier is right only about three-quarters of the time,[^classifier] and the one result that is in the neighborhood of a causal effect is about a niche February program for zines.
 
-The whale post asked how the giants price their tiers. I can't see reward tiers in my data at all — that detail lives only on individual campaign pages and would take a careful scrape to recover, which is a possible next step.[^tiers] But zooming out from the fifty-three giants to the full forty-five thousand, the RPG corner of Kickstarter turns out to be a place where a handful of whales hold most of the money, most projects are small and increasingly likely to succeed, reputation compounds, and a small February nudge from the platform can summon a swarm of zines. Not a bad portrait, for a pile of monthly crawls and a healthy refusal to trust them.
+The whale post asked how the giants price their tiers. I can't see reward tiers in my data at all — that detail only exists on individual campaign pages and would take a careful scrape to recover, which is a possible next step.[^tiers] But zooming out from the fifty-three giants to the full forty-five thousand, the RPG corner of Kickstarter turns out to be a place where a handful of projects attract most of the money, most projects are small and increasingly likely to succeed, reputation compounds, and a small February nudge from the platform can elevate the success chances of small zines. 
 
 ---
 
