@@ -68,7 +68,7 @@ You are former thralls. You slew your master and made away on a small boat. The 
 A dark, occult-medieval OSR game set in the Mythic North, a region heavily inspired by Scotland. Simple D&D-like rules, low magic, and a folk-horror streak. Play as outlaws, agents of the Baron, or witchfinders hunting real demonic threats. Comes with a fully-fleshed out campaign setting for you to explore.
 
 ## Where They Make a Desert, They Call it Peace
-Let’s do our own classic old-school grand campaign: adventure in dungeons for gold and XP, build a stronghold, recruit troops, rule a barony, and wage war. There will be classic adventuring, domain management, and wargaming! Two systems do this well — Adventurer Conqueror King System (ACKS II) or Worlds Without Number. We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
+Let’s do our own classic old-school grand campaign: adventure in dungeons for gold and XP, build a stronghold, recruit troops, rule a barony, and wage war. There will be classic adventuring, domain management, and wargaming! Several rule systems can be used for this (AD&D, WWN, ACKS, ...). We'd pick the system that fits the group and run a campaign from 1st level to kingdom-builder.
 
 ## Delta Green
 Your handler calls, you better answer.
