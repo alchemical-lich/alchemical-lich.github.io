@@ -14,7 +14,7 @@ Like pizza, more PF2e is always good. Here is an adventure option I’d find int
 *Stolen Fate*. A high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
     
 ## Pallid Suns — continue the CWN mission
-We already started a campaign chasing down the mystery of the magical weed. Cities Without Number is has a flexible classless character system, and a huge GM toolkit for running sprawling cyber-dystopias. With a bit of home-brew, it comes close to Shadowrun (FYI I added a lot to build out the magic system). Orks, Uzis, and Manabolts!
+We already started a small campaign chasing down the mystery of the magical weed. Cities Without Number is a great option to play Shadowrun with lighter rules. I wrote a bit of home-brew a lot to build out the magic system. Orks, Uzis, and Manabolts!
 
 ## Shadowdark
 A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
@@ -23,16 +23,16 @@ A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torch
 - **Low-Income Barony** (homebrew) — Magic is illegal, paladins and clerics enforce harsh laws, but the streets are ruled by criminal gangs slinging alchemical potions, drugs, and spell components. All of you are members of a freelance gang, trying your best to survive the magical drug game. Basically, this [song](https://www.youtube.com/watch?v=nKNt3j-4bNg) as a game.
 
 ## The Vile Deeds of Christman Grippertenius
-Wrote an adventure for old-school DnD set in the 16th century Holy Roman Empire. Inspired by the legend of Christman Genipperteinga.
+I wrote an adventure for old-school DnD set in the 16th century Holy Roman Empire. Inspired by the legend of Christman Genipperteinga.
 
 ## Fabula Ultima
-Want to play a tabletop RPG inspired by classic Japanese-style console games like Final Fantasy or Chrono Trigger? We have an excellent option: Fabula Ultima. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
+A tabletop RPG inspired by classic Japanese-style console games like Final Fantasy or Chrono Trigger. FU is rules-light, has fast, tactical combat, and fun character options. Foundry is available! 
 
 ## Nimble 2e
 5E streamlined and improved. Borrows the three-action economy from PF2e, drops to-hit rolls entirely (you just roll damage dice), and redesigns every class with much more interesting level-up choices. Fast, tactical, but still plays as classic DnD 5e. 
 
 ## Shadow of the Weird Wizard
-The more high-powered, less grim dark sister game to Shadow of the Demon Lord. Includes a refinement of the rules and making it easier to combine martial and magical character paths. Looks like a lot of fun!
+The more high-powered, less grim dark sister game to Shadow of the Demon Lord. Includes a refinement of the rules, making it easier to combine martial and magical character paths. Looks like a lot of fun!
 
 ## Draw Steel
 Avengers-level high-power fantasy game with deeply tactical combat. Do you want to teleport across the battlefield, throw enemies through walls, and unleash massive attacks taking out a dozen enemies at once? This is the game. Crunchy like PF2e but built around dramatic hero moments rather than attrition. In the course of play, you gain resources that make your character *more* powerful, but also deplete your healing ability—makes for a very cool risk-reward dynamic. Every attack lands (no to-hit rolls), every turn matters, and the digital tools — character builder, VTT support — are excellent.
