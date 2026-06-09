@@ -32,10 +32,12 @@ A larger OSR destination crawl inspired by the *Camino de Santiago*.
 
 
 ## Pallid Suns
+
 A CWN/Shadowrun Campaign. In development.
 
 ## Low Income Barony
-Criminal wizard gangs slingin’ potions in a poor barony, while vampires scheme. A Shadowdark sandbox adventure.
+
+Criminal wizard gangs slingin’ potions in a poor barony, while a religious order imposes harsh laws. A Shadowdark sandbox adventure.
 
 
 ## The Wars of Balgrendia
