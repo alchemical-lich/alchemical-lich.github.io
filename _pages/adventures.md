@@ -9,7 +9,7 @@ Here are some adventure projects I am currently playing, working on, thinking ab
 
 
 
-## The Vile Tale of Christman Grippertenius
+## The Vile Deeds of Christman Grippertenius
 > “Die erst von dem Erschrocklichen Mörder Peter Nirschen/ wie er gericht und was er bekennt hat/ In dem 1581. Jahr zu Nüwen Marckt den 16. Septembris. Im Thon/ Es geht ein frischer Sommer daher. Die ander von einem Mörder Christman Gniperdoliga genannt/ welcher von seiner jugendt auff 964. Mörd gethan hat/ Im Thon Hilff GOtt das mir gelinge ...”
 >
 > _Dreyerley Neüwezeitung. in Gesangweiß_ [Link](https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00033564)
@@ -18,9 +18,9 @@ Here are some adventure projects I am currently playing, working on, thinking ab
 <img src="http://alchemical-lich.github.io/images/Admirable_Discovrs_D'vn_Brigand_Nomme_Christeman.jpg"  width="65%" >
 
 
-This adventure is about the vile crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. 
+This adventure is inspired by the crimes of **Christman Grippertenius** and his associates **Peter Stumpp** and **Peter Niers**. It is set in a fantasy version of the 16th century Holy Roman Empire.
 
-This is a **Level 4-8** **OSE** adventure for an intrepid band of scoundrels. The player characters will confront a group of murderers that has been terrorizing the region of Bergkessel.
+Written for a party of **Level 4-8** **OSE** characters, this is a classic sandbox adventure in which the PCs confront a group of murderers that has been terrorizing the region of Bergkessel. They will explore the wilderness, delve dungeons, play factions against each other, and, hopefully, secure a large treasure hoard.
 
 <img src="http://alchemical-lich.github.io/images/bergkessel_old_2024.png"  width="65%" >
 
