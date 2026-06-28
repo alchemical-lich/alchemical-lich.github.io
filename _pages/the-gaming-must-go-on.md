@@ -44,4 +44,5 @@ A running list of games and campaigns we might play next. Take a look, see what 
 - **Daggerheart** — A mix between a traditional and a narrative rpg game. Classic heroic fantasy, fluid, narrative-forward combat without initiative order, and some clean, modern rules. Players have a lot more power over shaping the narrative and the world-building. Created by the Critical Role company.
 - **Dragonbane** — Fantastic classic fantasy RPG. Dragonbane has a great rules engine: no classes, skill-based, armor as damage reduction, and quick, roll-under resolution mechanic. Combat is deadly and has some neat strategic elements. The vibe is “mirth and mayhem”. You can play duck people.
 - **Call of Cthulhu** — The OG mystery/horror game. *Masks of Nyarlathotep* is a globe-trotting 1920s campaign. Often mentioned as one of the best ever written. Can be played with *Pulp* rules if you want to lean more into the action elements. There is also a smaller campaign called *The Wicked City*, focused on 1920s Berlin.
+- **Earthdawn**
 {% comment %} 
