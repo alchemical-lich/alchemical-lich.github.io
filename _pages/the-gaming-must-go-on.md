@@ -7,7 +7,9 @@ author_profile: true
 
 A running list of games and campaigns we might play next. Take a look, see what sounds fun, and let me know what you're drawn to. Some of these are continuations of current games, some would be a fresh start with a new system.
 
-- **More Pathfinder 2e** — Like pizza, more PF2e is always good. Here is an adventure option I’d find interesting: *Stolen Fate*, a high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will.
+- **More Pathfinder 2e** — Like pizza, more PF2e is always good. Here is an adventure option I’d find interesting:
+  - *Stolen Fate*, a high-level continuation of our PF2e experience. *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will.
+  - *Age of Ashes*, the first 2e AP. Levels 1-20. A world-spanning adventure romp.
 - **Pallid Suns — continue the CWN mission** — We already started a small campaign chasing down the mystery of the magical weed. Cities Without Number is a great option to play Shadowrun with lighter rules. I wrote a bit of home-brew a lot to build out the magic system. Orks, Uzis, and Manabolts!
 - **Shadowdark** — A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
   - **The official sandbox setting** — Plenty of ready-to-run adventures, straight out of the box.
