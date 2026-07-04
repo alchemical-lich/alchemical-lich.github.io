@@ -12,7 +12,7 @@ A running list of games and campaigns we might play next. Take a look, see what 
   - *Age of Ashes*, the first 2e AP. Levels 1-20. A world-spanning adventure romp.
   - Pathfinder 1e has a ton of great adventures and the community has created 2e conversions and maps for many of them: **Curse of the Crimson Throne** is considered to be among the very best out of 20+ adventures.
   - *Rusthenge* - a fun little 1-4 adventure.
-  - *Revenge of the Runelords* - The Runelord Xanderghul has returned and his machinations are threatening the world. A 12-20 AP that uses the *Mythic Rules*, i.e., you get even more badass powers than normal.
+  - *Revenge of the Runelords* - The machinations of the Thassilonian Runelords are threatening the world. Are you ready to take on legendary threats? A 12-20 AP that uses the *Mythic Rules*, i.e., you get even more badass powers than normal.
 - **Pallid Suns — continue the CWN mission** — We already started a small campaign chasing down the mystery of the magical weed. Cities Without Number is a great option to play Shadowrun with lighter rules. I wrote a bit of home-brew a lot to build out the magic system. Orks, Uzis, and Manabolts!
 - **Shadowdark** — A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
   - **The official sandbox setting** — Plenty of ready-to-run adventures, straight out of the box.
