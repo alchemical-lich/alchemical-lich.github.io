@@ -8,11 +8,11 @@ author_profile: true
 A running list of games and campaigns we might play next. Take a look, see what sounds fun, and let me know what you're drawn to. Some of these are continuations of current games, some would be a fresh start with a new system.
 
 - **More Pathfinder 2e** — Like pizza, more PF2e is always good. Here are some adventure options I’d find interesting:
-  - *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will.
+  - *Stolen Fate* is a 11th-to-20th-level adventure path: your heroes discover the scattered cards of a powerful Harrow deck and must race across Golarion (and beyond) to reassemble it before someone rewrites destiny for their own ends. Globe-trotting, epic-tier combat, and themes of fate vs. free will. 
+  - *Spore War* - 11-20 AP. Help the elves of Kyonin fight a war against a demon lord. Themes of demonic corruption and war.
+  - *Hell’s Destiny* - 10-20 AP in which the heroes intervene in the war between devilish Cheliax and freedom-loving Andoran. Features lots of skirmish battles. Also has a precursor AP for 1-10 in which the heroes help throw off Cheliax’ stranglehold over the nation of Isger. Themes of revolution, hell and devils.
   - *Age of Ashes*, the first 2e AP. Levels 1-20. A world-spanning adventure romp.
   - Pathfinder 1e has a ton of great adventures and the community has created 2e conversions and maps for many of them: **Curse of the Crimson Throne** is considered to be among the very best out of 20+ adventures.
-  - *Spore War* - 11-20 AP. Help the elves of Kyonin fight a war against a demon lord.
-  - *Hell’s Destiny* -  War! A 10-20 AP in which the heroes intervene in the war between devilish Cheliax and freedom-loving Andoran. Features lots of skirmish battles. Also has a precursor AP for 1-10 in which the heroes help throw off Cheliax’ stranglehold over the nation of Isger.
 - **Starfinder 2e** - PF2e’s science fantasy sister game. Guns, starships, and magic. Basically, *Guardians of the Galaxy* as an rpg.
 - **Pallid Suns — continue the CWN mission** — We already started a small campaign chasing down the mystery of the magical weed. Cities Without Number is a great option to play Shadowrun with lighter rules. I wrote a bit of home-brew a lot to build out the magic system. Orks, Uzis, and Manabolts!
 - **Shadowdark** — A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
