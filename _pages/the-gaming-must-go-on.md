@@ -13,7 +13,7 @@ A running list of games and campaigns we might play next. Take a look, see what 
   - *Hell’s Destiny* - 10-20 AP in which the heroes intervene in the war between devilish Cheliax and freedom-loving Andoran. Features lots of skirmish battles. Also has a precursor AP for 1-10 in which the heroes help throw off Cheliax’ stranglehold over the nation of Isger. Themes of revolution, hell and devils.
   - *Age of Ashes*, the first 2e AP. Levels 1-20. A world-spanning adventure romp.
   - *Triumph of the Tusk*, a 3-11 Orc-theme AP. Help Addax White-Hair, leader of the Orcs of Belkzen, fend of an existential challenge.
-- **Starfinder 2e** - The Science Fantasy sister game to PF2e. Same rules, but in space. The vibes are very *Guardians of the Galaxy* with lots of pop culture references—not my favorite. But the rules are solid and I could see cool *X-COM* inspired campaign. 
+- **Starfinder 2e** - The Science Fantasy sister game to PF2e. Same rules, but in space. The vibes are very *Guardians of the Galaxy* with lots of pop culture references—not my favorite. But the rules are solid and I could see a cool *X-COM* inspired campaign. 
 - **Pallid Suns — continue the CWN mission** — We already started a small campaign chasing down the mystery of the magical weed. Cities Without Number is a great option to play Shadowrun with lighter rules. I wrote a bit of home-brew to build out the magic system. Orks, Uzis, and Manabolts!
 - **Shadowdark** — A mash-up of 5E, old-school D&D, and DCC, stripped down to the essentials: torches burn down in real time, magic is rolled (and can backfire), combat is quick and deadly. Two options for adventures:
   - **The official sandbox setting** — Plenty of ready-to-run adventures, straight out of the box.
